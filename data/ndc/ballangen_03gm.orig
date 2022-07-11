@@ -1,0 +1,341 @@
+_ j æ u _ æ _ n o t e _ m æ _ n o k k _ d _ e _ j u _ b æ r r e _ k å _ s k a _ v i _ f i n n e _ p å _ a t _ v i _ s k a _ p r a t _ o m m _ h æ r _
+_ m a t _ t e v e p r o g r a m m _ s k o l e _ v a n n k j ø s s _ n e i _ v a n n k j ø l e r _ s k o l e r e v y _
+_ j a _ h æ r _ e _ n o k k _ å _ p r a t _ o m m _ j a _ v æ l l _ k e _ v i _ s k a _ p r a t _ o m m _ ? _ h a _ d u _ v o r _ å _ p l o g a _ b æ r r _ f ø r e s s t ' n _ ? _
+_ e n _ t u r _ n æ i _
+_ s e r _ u _ d e _ ? _
+_ i k k j e _ b l å b æ r _ i k k j e _ t y t e b æ r _
+_ e n å r r m t _
+_ e n å r r - _ e n å r r m t _ m e _ t y t t e b æ r _ s å _ s t å r _ å _ å _ r å t t n a _ n e _
+_ s å _ v a _ v i _ p å _ f j e l l e _ h o s s _ å s s _ å _ v a _ å _ p l o k k a _ d e _ v a _ e i _ f a n t a s s t i s k _ f a n t a s s t i s k _ å s s å _ d e n n _ f j e l l b æ r a _ s å _ f i n _ s å _ h o _ e _
+_ j a _ d a _ n æ i _ d a _ s å _ e e _ b å k k s ' n _ d e n n _ f u l l t _ d e n n _ j a _ j a _ d u _ v e i t _ d i _ n u _ n å r r _ æ _ h a _ b y n n _ å _ g å _ r o n n t _ å _ å _ g å _ å g _ å _ l e i t e _ b æ r _ å _ s å _ h a _ t i _ t e _ d e _ i k k j e _ m i n n s t _
+_ v i _ v æ _ v i _ v a _ i _ V æ s s t e r å l ' n _ å _ p l o k a _ t y t t e b æ r _
+_ d æ r _ v e _ e _ j o _ e n _ s å n n _ m e n n _ u _ v e t _ d _ e _ j o _ å v e r g r o d d _ å _ v a n n s k e l i _
+_ m a n n _ m å _ j o _ p a s s _ d i _ h e r _ g a m m e l _ f ø t ' n _ s å _
+_ e _ d e _ r ø y r _ e l l e _ ø r r e t _ ? _
+_ j a _ e _ d e _ d e _ e _ d e _ d æ r _
+_ u t e _ h a n n _ M 1 _ e i e r _ ? _
+_ j a _ j a _ v æ l l _ j a _ d å _ v i _
+_ v a _ d æ r _ p å _ … _
+_ j a _ j a _ m e _ M 2 _ d e _ j a _ j a _ r i k k t i _
+_ j a _ d _ e _ r æ t t _
+_ j a _ m _ j a _ d e _ æ _ b r u k a _ b æ r p l o k k a r _ å _
+_ v å t t a _ å _ s å _ s å n n _ s e t t _ s å _ m - _ m e n n _ e e _ n æ i _ d a _ d e _
+_ n æ _ v i _ h a _ v å _ p å _ p å _ m _ v i _ h a _ j o _ i _ m _ d e _ v a _ j o _ s e i n t _ f ø r _ v i _ k å m m _ i _ g a n n g _ i _ s o m m a r _ p å _ f j e l l e _ m e n n _ d e _ v a _ j o _ s å n n _
+_ s å _ e g e n t l i _ d e n n _ b e s s t e _ f e s s k e t i a _ d e _ e _ e e _ d e _ e _ d a _ v a _ v i _ j o _ b o r r t e _ e l l e r _ å _ r å k k n a _ b e i _ j o _ s å _ k o l o s a l t _ s m å _
+_ d e _ v a _ s å _ t ø r r t _ v e t _ d u _ d e n n _ k j i l l a _ s å _ v i _ h a r _ u p p _ v i _ h a r _ j o _ e i _ s å _ k j e m _ a _ f j e l l e _ d æ r _
+_ h o _ v a _ s - _ h o _ v a _ h e i l t _ t ø r r _ å _ æ _ s å g _ i _ h y t t e b o k a _ a t t _ s i s s t _ h o _ v a _ t ø r r _ d e _ v a _ i _ n i t t ' n å t t i _
+_ e _ f a k k t i s k _ n i å t i v e _ å r _ s i a _ s i a _ e e _ s å _ d e _ h a _ v o r _ s å _ t ø r r t _ å _ v a t t n e _ d e _ v a _ s å _ l i t e _ a t t _ d e _ v a _ e e _
+_ å _ d æ r r m e _ s å _ j i k k _ j o _ f e s s k - _ e e _ d e _ v a _ f - _ e e _ e l l e s j _ s å _ h a _ v i _ j o _ d r i _ e n _ m a s s e _ f l å t t _ f e s s k _
+_ s å _ d e _ v a _ e e _ d e _ m _ j a _ j a _ s å _ v i _ f i k k _ j o _ s å n n _ p å _ s t e i k p a n n a _ i _ å _ d å _ h å l l _ d e _ j o _ i _ m a s s e v i s _
+_ j a _ æ _ t r u _ v i _ v a _
+_ a l l e _ t - _ v a _ j o _ l a n n g t _ u t i _ s e p t æ m m b e r _ d å _ d o k k a _ h o _ j o _ p l u s s e l i _ o p p _
+_ s å _ d e _ v a _ e e _ n æ i _ d a _ d e _ h a _ v å r _ e t t _ d e _ h a _ j o _ e n g k l i _ v å r _ e n _ f i n _ s o m m a r _
+_ m e n n _ d _ e _ j o _ f a k k t i s k _ p å _ m y y r n _ h e r _ o p p e _ å g _ s å n n _ s å _
+_ j a _ m e n n _ s å _ h a _ v i _ k å m m _
+_ d e _ e _ m y k k j e _ v a t t ' n _ n u _ d _ e _ s k u m m e l t _ p å _ e _ s å _ v i _ k å m m _ j o _ f å r r i _ s ø n n d a g e n _ f r a _ V æ s s t e r å l ' n _
+_ f y _ t e _ r a k k e r n _ v i _ k j ø r t e _ i _ i _ i _ i _ i _ v a t t ' n _ å _ t r e i l e r e _ å _ a l l t _ d e _ v a r _ s - _ d e _ e _ s j l i t s å m m t _ d e _ v a r _ k o l o s a l t _
+_ å _ s å _ e _ v e i a n _ d i _ e _
+_ e l e n n d i e _
+_ s å n n _ s å _ i _ K j e l l s u n n _ a l l t _ e _ f ø r r f æ r r d ' l i _ s t o r e _ t r e i l e r e _ å _ s å _ k r ø t t e s j t i a _
+_ s å _ d e _ e _ k l a r t _ a t t _ a t t _ d i _ h a _ t æ n n g k t _ å _ j - _ å _ å _ s å _ e e _ n e s j l e t ' n _ a s s f a l l t _ s å _ s å _ e e _
+_ å _ v a n n - _ d u _ s e _ j o _
+_ d e n n _ h æ r e _ s e _ j o _ d e n n _ h æ r e _ d æ r _ n e f ø r _ h o s s _ d å k k e _ d i _ d _ e _ j o _ e l e n n d i _ d e n n _ a s s f e d ' n _ e _
+_ d i _ h a _ j u _ f å t t _ e i _ e i _ e i _ s t r i p a _ p å _ m e t t ' n _
+_ j a _ d _ e _ k l a r t _ a t t _ d e _ n æ i _ d e _ d e _ … _
+_ n æ i _ v e l l _
+_ k o r r _ d e _ g å r _ h a r _ d å k k e _ f e s s k æ _ m y k k j e _ s e i _ å _ s å n n t _ ? _
+_ å _ v a _ d _ n u _ n y l i _ ? _
+_ m _ d e n n _ s e i e n _ k o s s j ' n _ e e _ d å k k e _ k o k a _ h a n n _ b æ r e _ p å _ v a n l i _ m å t e _ ? _
+_ d u _ … _
+_ æ _ s e r _ b o r r t i _ V æ s s t r å l ' n _ d e _ h a n n _ e e _ d æ r _ l a g a _ h a n n _ f a k t i s k _ h a n n _ M 3 _ d e _ h a n n _ l a g a _ f a k k t i s k _ e e _ s e i _ p å _ s a m _ m å t e _ s å m m _ h a n n _ l a g a _ e e _ f å r i k å l _
+_ j a _ å _ s _ a n n _ l æ g g _ n e _
+_ f e s s k _ å _ s å _ r ø r _ a n n _ u t _ m e l _ å _ h a r _ a n n _ e e _ l ø k _ o p p i _ h a _ k j e _ p r ø f t _ d e _ d æ r _ m e n n _ d e _ m å _ v i _ j o _ j ø r _
+_ n æ i _ v i _ å _ m e _ d _ e _ j o _ m e s s t _ t r a d i s j o n e l l t _ d _ e _ j o _
+_ e e _ b a - _
+_ b a l l a _ d i _ a n n _ i n n _ i _ n i _ ? _
+_ j a _ å _ j a _ j a _ å _ d e _ d e _ d æ r _
+_ s å n n _ j a _ j a _
+_ j a _ v e l l _ m e n n _ d e _ d a _ v i _ e e _ n å _ v - _ d e _ e _ k l a r t _ v i _ h a d d e _ j o _ m y k k j e _ s æ u e _ å _ s å n n e _ g r e i e r _ å _ d å _ v a _ j o _ a l l t _ t a t t _ v a r e _ p å _
+_ s å n n _ s å _ e l l e r _ e e _ s ø u h ø u _ å _ å _ s å n n t _ å _ d e _ v a _ j o _ v i _ h a d d e _ j o _ h e i l e _ s t a m m p a n _ å _ a l l t _ d e _ d e r _ s å _ d e _
+_ å _ d a _ f i k k _ h a n n _ v e l l _
+_ m _ n æ i _ s å m m _ b e t a l i n g _
+_ j a _ j a _ m e n n _ d e _ e _ j o _ v e - _ e e _ d _ e _ n u _ d _ e _ j o _ e e _ k a v æ r _ s i n _ j a _ f ø r r _ m o r _ d i _ h o _ e _ j o _ o p p v o k k s ' n _ h e r _ i _
+_ j a _ v æ l l _ j a _ v æ l l _ j a _ m _ m _ m _
+_ h a _ d å k k e r _ f å t t _ e e _ n e i _ d å k k e r _ h a r _ p a r a b o l _ ? _
+_ j a _ v i _ h a _ p a l a b o L _ v i _ s e _ i k k j e _ p å _ n å k k e _ a n n e _ d æ r _ e _ k j e _ n å k k a _ f å r r h å l l _ f ø r r _ d e _
+_ i n n _ d i _ d e r _
+_ m e n n _ d å k k e r _ h a _ v e l l _ h a d d _
+_ p a r a b o l _ l æ n n g e _
+_ a t t _ d å k k e r _ å s s j å _ s u _ f å _ j a _
+_ m e n n _ d e _ e _ j o _ æ t t e _ k o r r _
+_ æ _ f ø _ m i n n _ d e _ e _ j o _ e e _ m _ s p o r r t s j i n t r e s e r t _ s å _ s å _ s å _ e e _ æ _ v i l l _ j o _ j æ r n e _ h a _ s å n n e _ m e n n _ d æ r _ e _ j o _ e n _ d e l _ f l å t t e _ b å d e _ f i l l m k a n a l a _ å _ a l l t _
+_ j a _ j a _ d _ e _ j o _ d _ e _ n å _
+_ d _ e _ j o _ d e n n a n n _ t i a _ u t å v e r _ s å n n _ s e t t _ s å _ s e _ j o _ p å _ h y t t a _ d æ r _ h a r _ v i _ j o _ i k k j e _ t e v e _ å _ d e _ e _ j o _ a l l d e s _ u t m æ r r k e _ m e n n _ p å _ s å m m a r n _ s å _ b i _ d e _ j o _ e e _ i k k j e _
+_ d a _ h a r _ m a n n _ j o _ m y k k j e _ a n n e r _ t e n n g _ m a n n _ s k a _ s t y r e _ m e _ s å _
+_ j a _ v æ l l _ j a _ j a _ m e n n _ d e _ e _ j o _ f l å t t _ d e _ d _ e _ j o _ f i n t _
+_ j a _ d a _ n u _ h a _ d i _ j o _
+_ f å t t _ n e _ v e l l _ m o b i l ' n _
+_ n u _ h a _ d i _ j o _ f å t t _ e e _ å _ d e _ e _ j u _ a r r t i _ d e _ a t t _ d i _ h a _ f å t t _ e e _ b y g g d e k j i n o _ t i _ B a l l a n g e n _
+_ j o _ e e _ d _ e _ j o _ v e s s _ d e _ f å s j æ t t e _ d e _ f r æ m m ø t e _ d i _ æ _ s å _ j o _ i _ a v i s ' n _ e e _ s å _ s å _ s y n n s _ æ _ d e _ j o _ e _ f l å t t _ t e l l t a k _ d e _ s å n n _ s e t t _
+_ d e _ e _ m u l i _ d e _ m e n n _ æ _ s å _ j u _ å _ d _ e _ j u _ b a r e _
+_ å _ d _ e _ j o _ e e _ a l l e _ t i d e s j _ f ø r r _ s å n n t _ d _ e _ j o _
+_ e _ d e _ s o _ l æ n n g e _ s i a _
+_ m e n n _ e _ h a r _ e e _ æ _ h a r _ e e _
+_ l e g g a n e s _ e e _ e e _ d e n n e _ g a m m e l _ h y t t a _ o p p å _ s å _ æ _ k j ø p p t e _ n u _
+_ v e t _ h a n n _ v a _ j u _ e e _ m a s j i n i s s t _ f ø s s j t _ i _ d e n n _ f a s s t e _ k j i n o e n _ i _ B a l l a n g e n _ h a n n _ s å _ e i d e _ h y t t a _
+_ å _ s å _ v a _ a n n _ k j i n o - _ v a _ h a n n _ m a s j i n i s s t _ f ø r r _ f ø r r _ e e _ b y g g d e k j i n o e n _
+_ å _ d u _ v e t _ d e _ h a d d _ d å _ j i k k _ d i _ å _ s æ l l t e _ s å n n e _ s j o k o l a d e _ å _ å _ m e _ e i _ s å n n _ d æ r e _ a - _ e e _ o v a l _ s å n n _ d æ r e _ k å r r g _ p å _ m a - _ m a g e n _ b l æ k k å r g _ p å _ m a g e n _ m e _ m e _ s e l l a _ å _ e l l e r _ s å n n e _
+_ å _ d e _ l å g _ e i _ s å n n _ d æ r _ o p p e _ s å _ æ _ h a r _ o _ e n _ s å n n _ s e t t _ s å _ d e r _ s t å r _ F r e i a _ å _ r e k l a m e _ å _
+_ s å _ æ _ m å _ n o _ h ø r _ o m m _ k a n n s j e _ m u s e u m e _ e _ i n t r e s e r d _ i _ d e n n _
+_ j a _ j a _ e _ s k a _ k j e _ s e i _ d e _ a t t e _ … _ j a _ j a _ v e s s t _
+_ e _ d e _ d e _ i _ h ø y e s t e _ g r a d _ m a n n _ k a n n _ j o _ æ _ s k a _ n o _ h ø r _ v i s s _ i k k j e _ f ø r r _ d e _ d æ r _ e _ j o _ e e _
+_ d _ e _ j o _ k j e _ n å k k a _ å _ b r u k _ s å n n _ s e d d _ d a _ f ø r r _ s å n n _ s å n n _ s a m m l e v æ r d i _ h e l l e r _ f ø r r _ å s s _
+_ m e n n _ æ _ t o k k _ n u _ v a r e _ p å _ d e n n _ d æ r _ b æ r r e _ s å n n _ n å s t a l g i _ s å m m _ e _ g a m m e l t _
+_ æ _ v e t _ k j e _ k o r _ d e _ g å r _ m e _ d e n n _ s k o l u t b y g g i n g a _ h e r _ h a - _ d e _ e e _ v a _ j o _ s n a k k _ o m m _ d i _ s k u _ b y g g _ u t _ h e r _ b y g g e t r i n n e _ e _ h a _ f ø s j t å d d _ d e _ s å n n _ a t t _ e e _
+_ f ø r r _ d e _ v a _ j o _ s n a k k _ å m m _ å _ l æ g g e _ n e _
+_ n æ i _ B ø _ e l l e _ s å n n _ s å _ B ø _ e _ d e _ n - _ e _ d e _ j u _ s n a k k _ o m m _ a t t _ n æ s s t e _ å r _ e _ s i s s t e _ å r e _
+_ d e _ e _ t r a s i _ d e _ d æ r _ a t t _ d i _ m e n n _ d _ e _ j u _ s å _ d _ e _ j o _ m e n n _ d e _ e _ t r a s i _ å _ l æ g g _ n e _ d i _ h e r e _ s m å s k o l a n _ v e s s _ d e _ e _ m u l i h e t _ t e l l _ d e _
+_ m _ j a _ m e n n _ d e _ k a n n _ d u _ k j e _ s å _ l æ n n g e _ d _ i k k j e _ e _ p l a s s _
+_ j a _ j a _ p å _ B ø _ e _ d e r _ j u _ e n _
+_ t j æ d d v e _ e n _ å _ t r æ d d v e _ s t ø k k a _
+_ j a _ s å _ d æ r _ e _ j u _ m i n n e r _ e n n _ K j e l l b å t t ' n _ d _ e _ j u _ b a r e _ p a L _ å _ t y v e _
+_ m e n n _ d u _ v e t _ d e _ b i _ j o _ l å n n g _ f å r r _ d i _ b i t t e _ s m å _ e n _ p a r _ m i l _ m e _ b u s s _ d e _
+_ d u _ s å g _ j o _ v e _ m i n _ t i _ d å _ d å _ m å t t _ æ _ b o _ p å _ e t t - _ d - _ d a _ æ _ s k u _ g å _ p å _ r e a l s k o l ' n _ e l l e _ v a _ d e _ v a _ d a _ m å t t _ e _ b o _ p å _ h y b e l _ h e r _ i _ B a l l a n g e n _
+_ s å _ æ _ v a _ j o _ b æ r r e _ f j o r r t ' n _ å r _ n å _ æ _ … _
+_ s å n n _ s e d d _ d e _ v a _ n u _ i _ v e k k e n _ m e n n _ e l l e s j _ s å _
+_ s å _ d e _ g å r _ j o _ å _ a l l t _ g å r _ j o _ m e n n _ d e _ b i _ n u _ l a n n g e _ d a g a _ f ø r r _ d æ m m _ å _ e e _ s å n n _ s - _
+_ å _ d æ r _ e _ j o _ e e _ d _ e _ j o _ k k e _
+_ t v i l _ o m m _ d e _ a t t _ d e _ s e r _ æ _ j o _ p å _ B ø _ a t t e _
+_ d _ e _ j u _ k j a n n g s _ f ø r r _ f ø _ l æ r i n g _ å _ å _ l æ l i n g _ å _ s - _ e e _ s - _ e e _ s p e s i e l l t _ d i _ h æ r _ s å _ k a n n s j e _ h a r _ s p e s i e l l e _ b e h o f _
+_ å _ b i _ s e t t _ å _ å _ f u n n ' n _ n å r r _ d i _ n å r r _ d e _ v a _ s å _ s m å _ e e _ s t ø r r e _ m u l i h e t e r _ t i _ å _ f å _ æ k k s t r a _
+_ j a _ h a r _
+_ t r u _ j u _ å g _ e e _ a t t _ d i _ e e _ m e _ e n g a s j e m a n n g _ i f r å _ e e _ f å _ f ø r e l l d r a _ å _ å _ å _ d e n n _ h æ r _ a r r b e i s u t v a l l g e _ å _ s å n n t _ d e _ s e r _ æ _ j u _ a t t _ d i _ d e _ m ø t e s _ j o _ o p p _
+_ j a _ d e _ s t e m m e _ j a _ j a _
+_ æ _ s e r _ n å _ h a n n _ s t o r e _ v e t _ d u _ h a n n _ e _ j o _ i _ s k o l ' n _ h a n n _ … _
+_ h a n n _ … _ j a _
+_ j a _ j a _ h a n n _ h a _ e e _ h a n n _ … _ h a n n _ s - _ … _ h a n n _ a _ j o _ v å r e _ v æ l l d i _
+_ o p p t a t t _ u t a _ d e _ h æ r _ å _ s e t t _ d i _ d æ r _ p r o g r a m m a n _ å _ h a n n _ s e i _ j o _ d e _ a t t _ d e _ e _ j o _ e e _ d _ e _ j o _ h e i l t _ æ n n g k l e _ m e t o d a _ å _ s å _ d e _
+_ n æ i _ d a _ d e _ å _ å _ e e _ d _ e _ j o _ d e _ s å _ e _ k j e _ b L i _ f a n n g a _ o p p _ i _ t i d e _ å _ s å n n e _ g r e i e r _ å _ s å n n _ s e t t _ m e n n _
+_ d _ e _ k l a r t _ d e _ s k a _ j u _ n u _ r e s u s s j e r _ t e l l _ å _ s å _ h a r _ v i _ j o _ v æ l l d i _ m y k k j e _ a _ v å r _ n y e _ l a n n s m e n n _ s å m m _ k l å r t _ t r æ n n g e _ b å d e _ s p r å k _ å _ a l l t _ å _ s æ l i _ f r å _ f l e i r e _ l a n n _ å _ s å _ e _ d e _ j o _ … _
+_ m j e _
+_ n e i _ d a _ d e _ s - _ n - _ d _ e _ j u _ n å s s j k e n _ s å _ f å r r _ d i _ e _ j o _ e e _ … _
+_ f ø _ d e _ e _ k l a r t _ a t t _ d i _ e _ j o _ e e _ v æ l l d i _ f l e n n g k _ å _ d ø k k t i _ m a n n g e _ u t a _ d - _ e _ s e r _ d e _ j o _ s e r _ d e _ j o _ n u _ m e _ m a s s e _ u t a _ d i _ h æ r _ e e _ m e _ u t a n n e l s a n _ å _
+_ å _ m y k k j e _ a _ d i _ h e _ h e l t _ a n n a _ h å l l d n i n g _ t e _ d e _ å _ k u n n e _ l æ r e _ s æ _ t e n n g _ å g _ s å _ d e _
+_ s å _ d e _ e _ m e n n _ d _ e _ s a n n e l i _ k j e _ g r e i t _ å _ s k u _ h a _ r e s u s s j a _ t e l l _ a l l t _ d e _ h æ r _ g r e i a _
+_ n æ i _ d a _ d e _ e _ j o _ e e _ å _ d e _ e _ k l a r t _ a t t _ æ _ v e t _ i k k j e _ e e _ h æ r _ e _ j u _ n å k k a _ s å _ e _ s j e d d _ m e _ k o m u n e ø k o n o m i _ å _ h e - _ g r e i e r _
+_ d i _ s e i _ j o _ a t t _ d æ r _ e _ p æ n n g a _ n o k k _ å _ å _ a l l t _ m e n n _ e e _ m e n n _ d e _ b i _ n u _ b o r r t e _ p å _ e n _ e r _ a n n a _ m å t e _
+_ m e n n _ d e _ e _ k l a r t _ a t t _ n å r r _ v i _ s k a _ n o _ d u _ s e r _ n o _ b æ r r e _ d e _ h æ r _ v i _ s k a _ h a _ G r a n n _ P r i _
+_ m _ s k a _ v i _ k a n n s j e _
+_ l æ g g _ p å _ k r i n n g k a s s t i n g s a j i f f t a _ f ø r r _ a t t _ v i _ s k a _ f å _ G r a n n _ P r i _
+_ d i _ s a _ j o _ h u n n d r _ å _ e l l v e _ m i l i o n a _ s k u _ d e _ k å s s t e _ d e _ b i _ n u _ v e l l _ l e k _ s å _ d e n n _ d æ r e _ Å l l m e n k å l l ' n _ d e _ b i _ n u _
+_ b i _ n u _ v e l l _ f i r e _ h u n n e r _ m e l l i o n a _ f ø r _ d i _ e _ f æ r r d i _ s - _ f ø r r _ a t t _ d _ e _ e n _ s å _ s t å r _ m e n n _ d e _ e _ j u _ s å _ v i _ e _ s e f ø l l g ' l i _ f ø l l g l i _ g a m m e l d a k k s _ d _ e _ v e l l _ e e _ b æ r r e _ h e l l s t _ d e _ s å _
+_ v i _ e _ i k k j e _ v i _ e _ k j e _ m o d æ r n e _ n o k k _
+_ n æ i _ m e n n _ m e n n _ e e _ d e _ e _ k l a r t _
+_ d e _ h æ r _ m e _ k u l t u r _ e g e n t l i _ å g _ m _ e e _ e e _ d æ _ l i g g _ v i _ j o _ e e _ v i _ e _ h e i l t _ s e k k e r t _ n å k k a _ t e b a k e _ i _ i _ f å r r h å l l _ t e l l _
+_ v i _ m e i n _ v e l l _ a t t _ i _ m a n n g e _ t e n n g _ a t t _ d e _ e _ u n ø d v e n n d i _ b r u k _ a _ p æ n n g a _ n å _ m a n n _ s e r _ p å _ a l l t _ d e _ h æ r _ a n n e r _
+_ m e n n _ d _ e _ k l a r t _ d e _ f ø r r _ æ _ h a _ j o _ b e k j e n n t e _ s å n n _ s å _ e _ k j e n n t _ s å m m _ e _ i f r a _ a n n e r _ l a n n _ s å m m _ h a r _ e i _ h e i l t _ e e _ e e _ a n n a _ h å d d n i n g _ t e _ d e _ d æ r _ m e _ k u l t u r _ i _ m y k k j e _ s t ø r r e _ g r a d _ s å _
+_ m e n n _ æ _ v e i t _ i k k j e _ s p e s i e l l t _ k a n n s j e _ v i _ i _ N o r - N å r r g e _ a t t _ v i _ e e _ v i _ h a r _ e g e n _ v i _ h a r _ e e _
+_ v i _ h a _ s - _ v o r _ p å _ o n n g d o s h u s a n _ å _ l a g a _ å r r n t l i _ k u l t u r _ å _ s å n n _ s e t t _ s å _ s å _ m e n n _ e e _ d e _ d e _ d e _ e _
+_ i l l s j æ l a _
+_ j a _ m e n n _ d u _ d e _ e _ j u _ e n _ g o _ d e l _ i l l s j æ l e _ å g _ å _ d u _ s e r _ j o _ s e _ j u _ s å n n _ s å _ n u _ b å d e _ i d d r e t s l a g _ s j i g r u p p a _ a l l t i _
+_ d _ e _ j o _ v æ l l d i _ a v h æ n n g _ å _ d u _ s e r _ h æ r _ i _ B a l l a n g e n _ e _ h a _ j o _ i n n t r ø k k _ u t a _ a t t _ d i _ a r r b e i _ k o l o s a l t _ å _
+_ å _ m e _ m e _ f l e r e _ d u _ s e _ j u _ K j e l l b å t t ' n _ s å n n _ s å _
+_ d e n n _ m u s i k k f ø r e n i n g a _ å _ d e _ b y g g d e l a g e _ å _ d i _ h æ _ K j e l l b å t t ' n - d a g a n _ å _ a l l t _ d æ r _ e _ j u _ k j e _ m y k k j e _ f å l l k _ s å _ s å _
+_ d _ e _ m a n n g e _ f ø r r e n i n g _ s å _ e _ i _ l a g _ m e n n _ d e _ e _ j u _ s a m m e _ f å l l k e _
+_ d æ r _ e _ d a _ i k k j e _ m a n n g e _ i _ t a _ d i _ s å _ e _ v å k k s e _ o p p _ i _ K j e l l b å t t ' n _ s å _ i k k j e _ h a _ v o r _ m e _ i _ m u s i k k f ø r e n i n g a _ å _ s p æ l l e _
+_ o p p i j ø n a _ å r a _ s å _ s å _ d e _
+_ n æ i _ d å _ d _ e _ k l a r t _ a t t _ m a n n _ b i _ j o _
+_ m _ å _ d _ e _ k l å r t _ a t t _ d e n n _ h æ r _ t e v e n _ å _ a l l t _ s å _ e _ k å m m e n _ i n n _ i _ h u s a n _ d e _ d e _ d _ e _ j o _ e g e n t ' l i _ e e _ b å d e _ g å t t _ å _ o n n t _
+_ d u _ b i _ j o _ o p p l y s t _ å _ å _ å _ d e _ e _ j u _ k k e _ t v i l _ å m m _ s å n n _ s e t t _ d e n n _ v e i e n _ m e n n _ d e _ b i _ j o _ e n _ p a s i v i t e t _ f ø r r _ d u _ e e _ d u _ g å _ j o _ k j e _ å _ j ø r _ n å k k e _ a n n a _
+_ f ø r r _ d e _ d æ r _ i _ n å _ m a n n _ v a k s _ o p p _ å _ i _ d e n n _ d æ r _ t i a _ å _ e e _ s å n n _ s e t t _ d e _ v a _ j o _ d å _ l a g a _ d i _ j o _ s j ø l l v _ å _ d a _ f i k k _ d i _ j o _ f å l l k _ t i _ å _
+_ k å m m e _ å _ g å _ m e n n _ d u _ s e _ j o _ s æ l l _ n u _ n å _ v i _ h a _ l a g a _ b å d e _ r e v y _ å _ a l l t _ d e _ h a _ j o _ k å m m e _ f - _ e e _ f å l l k _ s å _ s å _ d e _ e _ j o _ k j e _ d e _
+_ m e n n _ d e _ e _ k l a r t _ d e _ d e _ m _ m _ å _ s å _ e _ d e _ j o _ a r b e i s m æ s s i _ å _ b e d d _ m y k j e _ m e i r _
+_ h æ k k t i s k _ å _ å _ i _ d a g _ å _ d e _ b i _ j u _ e t t _ s æ l i _ p å _ b y g g d ' n _ å _ e n _ h e l t _ a n n a _ s å n n t _ m - _ m ø n n s t e r _ å g _ b æ g g e _ e _ i _ a r r b e i _ å _ å _ i k k j e _ m i n n s t _ d e _
+_ d e _ m å _ d i _ j u _ t e l l _ i _ d a g _ f ø r r _ å _ f å _ j u l a n _ t e _ å _ g å _ r u n n t _ å _ å _ d å _ b i _ d e _ j u _ i k k j e _ s t o r t _ s e t t _ m e r e _ t i _ t e _
+_ m e n n _ d æ r _ e _ j u _ n å n _ s å _ m a n n _ e _ i m p o n e r t _ å v e r _ k a _ t i _ d i _ e e _ a _ a _ f r i v i l l i h e t s a r r b e i _ d i _ k l a r _ å _ j æ n n å m f ø r _
+_ s å _ s å _ e e _ s å _ d _ e _ j o _ a l d e l e s _ f l å t t _ s å _ m e n n _ d u _ s e _ j o _ d e _ d æ r _ m e _ å g _ s å m m _ e e _ m e _ d u g n a d _
+_ s å _ u t i _ V æ s s t r å l ' n _ d æ r _ h o _ h o _ F 1 _ e _ i f r a _ e l l e r _
+_ d _ e _ n _ f e n o m e n a l _ d u g n a d s å n n _ d æ r _ v a _ d e _ d æ r _ å _ j e l l p _ k v a r a n n e r _
+_ m e n n _ d e _ v a _ j o _ d æ r _ t i a _ d i _ o m m k å m m _ p å _ h a v e _ å _ a l l t _ m å t t e _ t a _ s æ _ a _ o n n g a _ å _ a l l t _ d e _ a n n e r _ å _ f a m e l l j e _ å _ h e l e _ g r e i a n _ s å _
+_ m e n n _ m a n n _ b i r _ s æ _ m e i r _ s j ø l l _ m e n n _ d e _ b i _ j o _ e n n d _ e _ j o _ v i _ h e l l d i _ h e r _ h e r _ f ø r r _ h e r _ k a n n _ v i _ j o _ g å _ e e _
+_ e _ d e _ l y s _ h o s s _ n _ e e _ h o s s _ h a n n _ n a - _ n a b o e n _ s å _ k a n n _ d u _ b æ r r e _ g å _ å _ s å _ p e k æ _ d u _ p å _ å _ g å r _ i n n _
+_ d _ e _ j o _ u h ø r t _ s å _ e _ h a _ j o _ f a m e l l j e _ s å _ b o r _ n e r i _ O s s j l o _ i _ d i _ h e r _ b l å k k e n _
+_ b o d d _ i _ t y v e _ å r _ å _ d i _ e _ e e _ d i _ e _ s å _ v i t t _ p å _ n i k k _ m e _ d e n n _ b o _ v e _ æ _ h a _ j o _ a l l d r i _ k l a r t _ d e _
+_ å _ r i n n g e _ å _ h ø r _ å m m _ d e _ p a s s a _ d u _ s k a _ k j e _ g å _ f ø r _ d u _ e _ b e d d _ v e t _ d u _
+_ d _ e _ j o _ h e l l d i v i s _ s æ l l _ o m m _ d e _ k a n n _ d e _ b L i _ j u _ l i t t _ f ø r r _ l i t e _ m y k k j e _ r æ k i n g _ m e n n _ d _ e _ n u _ s å _ d e _ n æ i _ d a _ d e _ e _ d e _ e _
+_ å _ d å g g e r _ h a _ d e _ t r a v e l t _ p å _ a r r b e i _ a _
+_ e _ d e _ s å n n _ s å _ d e _ h a _ v æ r r t _
+_ s k u _ e _ t _ å _ s i _ j a _ d a _ j a _ j a _ d e _ s e _ v i _ j o _ j a _ d e _ m å _ n u _ v e l l _
+_ e n _ g å n n g _ d e t t _ p å _ p l a s s _
+_ n æ i _ m e n n _ d e _ e _ j o _ d e _ e _ j o _ s å n n _ d e _
+_ d e _ s k a _ j o _ i k k j e _ v æ r _ s j l a k k _ d e _ e _ j u _ k j e _ l a k k t _ o p p _ t i _ d e _ n å n _ p l a s s a _ s å _ e e _
+_ j o _ m e n n _ d e _ e _ j o _ e g e n t l i _ e n _ b e k j y m m r i n g _ f ø r r _ f ø r r _ d e _ a r r b e i s m ø n n s t r e _ e _ b e d d _ å _ s æ l i _ i _ m a n n g e _ b e d r i f f t e _ f ø r r _ d i _ h æ r _ o n n g e _ i _ d a g _ s å _
+_ s å _ f a k k t i s k _ e e _ r e s i k e r _ å _ v e _ u t b r e n n t _ n å _ d i _ e _ f ø r r t i _ å r _
+_ j a _ j a _ å _ s å _ s æ l i _ e e _ … _ j a _
+_ d e _ e _ n u _ d e _ m e - _ m e n n _ s æ l i _ d e n n _ d e n n _ ø n n g r e _ g a r r d e _ k o r r _
+_ m _ k o r r _ k o r r _ d e _ h a _ a l l t _ e _ l a k k t _ o p p _ t e _ a t t _ d u _ m å _ h a _ t o _ i n n t e k k t e _ å _ s å _ e _ d e _ b a r n e h a g e n _ d - _ e _ f ø r r u n n d e l i _ a t t _ d a g e n _ s t r æ k k e _ t e l l _
+_ å _ d _ e _ k l a r t _ a t t _ e e _ å _ d u _ s e r _ j o _ d _ e _ j o _ f å l l k _ e e _ b o _ s æ _ i _ h e l _ f ø r r _ å _ b o _ i _ e n _ l i t ' n _ s t æ L k a s s e _ n æ r r m e s t _ s å _ d e _ d e _
+_ m e n n _ e e _ v i _ h a _ j o _ e e _ d u _ s t o r e _
+_ v æ r r d ' n _ m a n n _ h a r _ j o _ N å r r g e _ v i _ h a r _ j o _ d _ e _ k l a r t _ v i _ k a n n _ s e i _ a t t _ v i _ s y t _ k l a g a _ m e n n _ d e _ b i _ j o _ m e _ a l l e _ v e l l f æ r r t s j g o d e r _ a t t _ d _ e _ s - _
+_ a t t _ d e _ e _ s å n n e _ g r e i e r _ m e n n _ e e _ m a n n _ s e i _ j o _ d e _ h æ r _ m e _ h æ l l s e v æ s ' n e _ å _ a l l t _ v i _ h a r _ d e _ j o _ e e _
+_ å _ d e n n _ s å _ h a _ v å r e _ j ø n a _ n å k e _ å _ s e t t _ å _ m a n n _ e _ j o _ t a k n æ m m l i _ d e _ e _ j o _ h e l t _ k l a r t _ a t t _ d e _ m e n n _ e e _ d e _ e _ k l a r t _ a t t _ a l l t i _ s e r _ n å k o _ s å _ n å k o _ s å _ k u n n e _ v o r e _ b e r e _ m e n n _ d e _ e _ j o _ e n g å n g _ s å n n _ s å _ … _
+_ j a _ d a _ m a n n _ b u r r d e _
+_ k a n n s j e _ m e _ k v æ r r t _ s t å p p _ o p p _ l i t t _ m e i r _ å _ t æ n n g k _ s æ _ o m m _ s å m m _
+_ j a _ å _ j - _ å _
+_ å _ d e _ e _ n å k a _ f å r f æ r r d l i _ v e k k t i _ d u _ s e i e _ f å r r _ d e _ a t t _ e e _ d e _ v a _ j o _ a l l d r i _ s n a k k _ o m m _ d e _ n å _ v i _ v a k k s e _ o m m _ å _ o n n g a _ å _
+_ v i _ h a d d e _ j u _ f ø r r _ d å L i _ t i _ e g e n t l i _ å _ v i _ å r g a n i s e r t e _ å s s _ j o _ s j ø l l _
+_ b o r r t s j e t t _ f r a _ s e f ø l l g l i _ d e _ h æ r _ n å r r _ d u _ d u _ b y n n t e _ i d d r e s l a g _ å _ s å n n e r _ d æ r _ g r e i e r _ f ø r r _ å _ k j ø r _ å m m k r e n n g _
+_ æ _ v a _ j o _ m e _ i _ n å _ s å n n e _ h æ r _ g r e i e r _ m e n n _ m e n n _ m e n n _ e l l e s j _ s å _ s å _ f a n n _ v i _ j o _ p å _ n å k k a _ h e i l e _ t i a _ v i _ v a _
+_ m e n n _ n u _ v a _ j o _ k j e _ d a t a n _ o p p f u u n _ s å _ v i _ a n e _ j o _ k j e _ k o s s j ' n _ v i _ h a _ o p p f ø r t _ å s s _ v e s s _ v i _ h a _ d a t a _
+_ n æ p p e _ n å _ a n n e s j l e i s ' n _ e n n _ i _ d a g _ s å _
+_ j a _ j a _ e n _
+_ d e _ e _ k l a r t _ d e _ v a _ j u _ e n _ n ø d v e n n d i _ d e _ s a _ j u _ n å _ å _ v a k k s e _ o p p _ p å _ p å _ p å _
+_ s å n n _ s å _ v i _ s å _ h a d d e _ g å s j b r u k _ å _ s å - _ s å n n _ s e t t _ å _ v i _ l å g _ j o _ h e i l e _ s o m m a r n _ å _ s t y r æ _ i f r å _ d e n n _ e n e _
+_ l å _ p å _ h æ u e _ i _ p o t e t å k e r n _ å _ å _ l u g g a _ a r r v e _ å _ å _ d e _ v a _ j u _ l e k k s å _ j å b b e n _ s e l l _ o m m _ d u _ u f f a _ d æ _ å _ g r u f f a _ d æ _ s å _
+_ s å _ t æ n n g k t _ m a n n _ j u _ æ t t e p å _ s å _ h a d d _ m a _ j o _
+_ m - _ m y k k j e _ f l å t t e _ t u r a _ s å _ f o r _ m a n n _ j o _ å r a _ s å _ v a _ m a n n _ p å _ h a v e _ å _ f e s s k a _ å _ s å _
+_ s å _ h a d d e _ m a n n _ j o _ e e _ d i _ v a _ j o _ k j e _ h y s t e r i s k _ o m m _ d u _ f o r _ n å n n _ p l a s s a _ s å n n _ s å _ i _ d a g _ s å _ m e _ r e d d n i n g s v æ s t _ å _ v i _ v a _ n e _ p å _ p å _ k l a t t r a _ p å _ k a i e n e _ å _ f e s s k a _ å _ s t y r a _
+_ å _ p å _ f j e l l e _ å _ å v e r a l l t _ f ø r r _ d e _ v a _ j o _ k j e _ o p p f u n ' n _ s å _ s å _ m e n n _ d _ e _ k l a r t _ a t t _ a t t _ v i _ l æ r t e _ j o _
+_ d u _ l æ r t e _ j o _ t a _ d e _ d æ r _ å _ å _ a t t _ d u _ v a _ s å n n e _ p l a s s a _ å _ a t t _ d u _ s k u _ v æ _ f ø s j e k k t i _
+_ j a _ j a _ å _ s å _ å f f t e _ s å _ v a _ v i _ j o _ m a n n g e _ i _ l a g _ s å _ m _ m a n n g e _ i _ l a g _
+_ n æ i _ d a _ d u _ j o r _ i k k j e _ d e _ s å _ d e _
+_ j a _ j o _ d a _ d e _ e _ n u _ s å _ n æ i _
+_ m e n n _ h e r _ e _ j o _ v æ l l d i _ m y k k j e _ f l å t t _ o n n g d å m m _ d e _ s y n n s _ v i _ j u _ v i _ h a r _ j o _ å _ å _ å g _ å _ e e _
+_ d _ e _ j o _ a t t _ v i _ l æ g g _ d e _ t e _ r æ t t e _ f ø r r _ d e m m _ å _ t e n n g _ s å n n t _
+_ d e _ s å m m _ e _ e _ b e d d _ i _ d a g _ d e _ e _ j u _ d e _ h æ r _ n u _ e _ j u _ k j e _ k a n n s j e _ B a l l a n g e n _ s å _ g a l e _ m e n n _
+_ d _ e _ j o _ k a n n s j e _ d i _ v å k k s n e _ s å n n _ s e t t _ s å _ d u _ s e _ j o _ p r o b l e m a n _ i _ N a r r v i k _ m e _ a t t _ d i _ f æ r _ p å _ h y t t a _ e l l e r _ f e r i a _ å _ a l l t _
+_ å _ s å _ e _ d i _ h e r _ t r æ t t ' n _ t å l l _ t r æ t t ' n _ f j o r r t ' n å r i n g a n _ a l e i n e _ h e i m e _ å _ s å _ e _ d e _ j o _ e n _ b r y t n i n g s a l l d e r _ s å _ d _ i k k j e _ k l a r _ å _ s t y r e _ u t ' n i f r a _ å _ s å _ b i _ d e _
+_ d e _ s a _ j o _ p o l i t i e _ å _ å _ d e _ å _ d _ e _ j o _ e e _ m _ d _ e _ j o _ v i _ v - _ d i _ v å k k s n e _ d e _ d e _ s å m m _ h a _ s j y l l _ i _ d e _
+_ j a _ j a _ d _ e _ j o _ v i _ s å _ h a _
+_ l a k k t _ e e _ l a k k t _ o p p _ d e _ h æ r _ s y s t e m e _ a t t _ d e _ s k a _ v æ r _ s å n n _
+_ n æ i _ j a _ d - _ å _ d _ e _ k l a r t _ å _ d u _ s e _ j u _ b æ r r e _ d e _ h æ r _ m e _ s k o l e v a l l g _ g r e i e r _
+_ s e f ø l l g l i _ d _ e _ j u _ v i _ d e _ v a _ j o _ e e _ s å n n _ s å _ f ø r r _ m i t t _ v e d k å m m e n e _ d e _ v a _ j u _ s n a k k _ o m m _ d u _ s k u _ g å _ p å _ g y m n a s e _ e l l e r _ d u _ s k u _ t a _ h a n n e s k o l e _ e l l e _ k e _ d u _ h a d d _
+_ å _ d e _ b e i _ n u _ e e _ h a n n ' l s k o l _ d a _ f i k k _ m a n n _ j o _
+_ i _ d a g _ s å _ h a r _ d u _ j o _ s å _ m y k k j e _ l e n n j e _ å _ s å _ m y k k j e _ g r e i e r _ a t t _ d i _ v e i t _ j o _ i k k j e _ k e _ d i _ s k a _ v æ l l e _ å _
+_ å _ e t t _ p r æ s s _ u t ' n _ l i k e _
+_ h a r _ d u _ i k k j e _ n i _ t i _ å s j _ u t d a n n e l s e _ s å _ e e _
+_ å _ a l l e _ k a n n _ j u _ i k k j e _ b i _ a k a d e m i k e r a _ å _ s å n n _ v i _ m å _ f å _ n å n n _ s å _ h a r _ d e _ m e _ h e n n e r n _ å g _ å _ å _ å _
+_ d _ e _ j u _ f ø r r f æ r r d l i _ m y k k j e _ s - _ d e _ v i s e _ s æ _ j o _ s e p - _
+_ p r a k k t i s _ a r r b e i _ å _ f l i n n g k _ m e _ n æ v a n _
+_ n e _
+_ n æ _ j e _ j e _ d e _ h ø r _ e _ s n a k k a _ m e _ f l - _
+_ f l e r e _ j a _ d u _ s e _ j a _ d u _ s e _ j o _ b å d e _ i _ … _ … _
+_ j a _ j a _ v e s s t _ j ø r _ d i _ d e _ å _ n å _ d u _ f ø s s j t _ b L i _ g å a n e _ s å n n _ s å _
+_ d _ e _ j u _ n å n _ s å _ e _ f l e n n g k _ å _ l e i t a _ s æ _ o p p _ n å k k a _ å _ j ø r _ d e _ s å n n e _ g r e i e r _ m e n n _ e e _
+_ m e n n _ d e _ e _ s a n n e l i _ i k k j e _ g r e i t _ i _ d e _ e e _ v a _ v i _ d - _ d a _ v a _ d a _ v a _ d e _ j o _ e n n t ' n _ d e _ å _ å _ v e s s t _ d u _ k j e _ d a _ s å _ r e i s t _ d u _ t e _ s j ø s s _
+_ d a _ v a _ d e _ j o _ å _ f å _ d e _ m a n n b å t _ i f r a _ N a r r v i k _ å _ s å _ å _ s å _ t e _ A n n t v æ r p e n _
+_ m _ m _
+_ n æ i _ d a _ d e _ e _ j o _ e n _ e e _ s å _ d e _
+_ n æ i _ d a _ d e _ v a _ j o _ å _ d e _ v a _ j o _ d e n n _ m å t ' n _ d u _ s e r _ j o _ k o _ m a n n _ e _ s e _ j o _ b å d e _ m i n e _ o p i j ø n a _ d e _ h æ r _
+_ r e i s _ t e _ s j ø s s _ s å _ f æ m m t ' n å r i n g a _ å _ s å _ l - _ å _ d e _ b i _ v e l l _ e e _ m e _ å _ l a _ o p p _ p æ n n g a _ å _ a l l t _
+_ å _ s å _ t o k _ d i _ d å _ s t y r r m a n n _ e l l e r _ e e _ s j i p p e s j k o l e _ e l l e r _ m a s j i n i s s t _ å _ d e n n _ v e i e n _ å _
+_ b e i _ k j i f a _ å _ å _ å _ k a p t e i n a _ å _ s t y r m e n n e r _ å _ a l l t _
+_ k o r _ d i _ t o k _ d e _ s u k k s e s i f t _ å _ å _ a l l t _ s å _ å _ h a d d _ e n _ e n _ e n _ e n _ p l a n _ f ø r r _ d e _ å _ s j ø L _ å m m _ a t t e _ å _ s å n n _ s e t t _ s å _ d e _ e _
+_ d e _ e _ n æ i _ d a _ d e _ e _ s a n n e l i _ d e _ s k a _ v æ l l _ å _ s å _ s k a _ f - _ m e _ a l l _ d i _ v a l l g a n _ å _ v e t t e _ a t _ d u _ s å _
+_ å _ d æ f f ø r _ s å _ h a r _ i k k j e _ æ _ n å k k a _ å _ s y n n s _ d _ e _ h e l t _ g r e i t _ m a n n g e _ s e i _ a t _ d i _ h å p p a _ a v _ f ø r r _ d i _ f ø l _ i k k j e _ a t t _ d e _ e _ n å k a _
+_ å _ d e _ k a n n _ e _ j o _ t æ n n g k _ m æ _ s j ø l l _ v e s s _ æ _ s k u _ b y n n _ å _
+_ d u _ v e t _ j o _ i k k j e _ n å r r _ d u _ e _ f æ m m t ' n _ s e i s s t ' n _ å r _ s e f ø l l i _ n å n _ k a n n _ d e _ j o _ v æ r e _ a t t _ d u _ m e n n _
+_ d _ e _ k l a r t _
+_ j a _ s å _ h a d d _ d i _ h a d d _ n å k k a _ å _ å _ f a l l _ t i b a k e _ p å _ i s t e n _ f ø r r _ å _ b æ r r e _ å _ g å _ å _ s å _ o m m _ d u _ f å r _ d e _ e n _ e l l e r _ a a n _ j å b b _ å _ d u _ k a n n _ f å _ d e _ n å k k a _ å _ j æ r e _
+_ m e n n _ d u _ f å r _ i n n g e n t e n n g _ i _ f å r r h å l _ t e _ d e n n _ k o m p e t a n n g s ' n _ s å _ d u _ t r æ n n g t e _ i _ f å r r h å l _ t e _ d e _ h æ r _ d e _ h æ r _ f a g b r e v e _ å _ å _ s å _ s t å r _ d u _ d æ r _ u t ' n _
+_ n e i _ d a _ m e n n _ e _ h a _ j o _ å g _ s a k k t _ m a n n g e _ s e i e _ å _ d e _ e _ k l a r t _ a t t _ d _ e _ j o _ l i t t _ a v h æ n n g i _ a _ d i _ f å r e l l d a _ å _ f å r e s a t t e _ å g _ a t t _ d i _ s k a _ b i _ n å _
+_ e n e _ y r r k e _ e _ j o _ l i k e _ v e k k t i _ s å _ d e _ a n n d r e _
+_ d _ e _ j u _ b æ r r e _ d u _ j ø _ j å b b e n _ å r r n t l i _
+_ d _ e _ j u _ d e _ s å _ e _ d e _ v æ s e n t l i e _ m e _ h e i l e _ g r e i a _
+_ j a _ d e _ v e t _ e _ k j e _ v i _ h a _ n o _ p r a t e _
+_ å _ g å t t _ n o r n å s s j k _ s å _ s e i e _ v i _ p r a t e _ e n _ m a s s e _ m a n n s j i t _
+_ æ _ e _ f ø d d _ i _ K j e l l b å t t ' n _ d e _ e _ j o _ e e _ e e _ h æ r _ i _ B a l l a n g e n _ t o _ m i l _
+_ j a _ e _ v å k k s e _ o p p _ d æ r _ t - _ e _ b å e _ f ø t t _ å _ o p p v o k k s t _ d æ r _
+_ e _ æ i _ f l å t t _ b y g g d _
+_ j a _ e _ k j æ m p e p l a s s _ b æ r e _ g o e _ g o e _ m i n n a _ i f r å _ b a r n d å m m e n _
+_ j a _ d e _ d e _ e _ k l a r t _ d e _ v i _ u - _ n u _ v a _ e _ j o _ h æ l l d i _ æ _ h a d d e _ f ø r e l l d r a _ s å m m _ v a _ v æ l l d i _ f r i l u f f s i n t r e s e r t _
+_ å _ v - _ h y t t a _ o p p e _ p å _ f - _ f j e l l e _ m e _ f e s s k e v a t t ' n _ p å _ f i r _ h u n n e _ m e t e r _ m e _ e n _ f a r _ s å _ v a _ j æ g e r _ å _ f e s s k a s j _
+_ s å _ d _ e _ k l a r t _ a t t _ e _ d i l l t a _ j o _ m e _ i f r å _ e _ v a _ k o _ m a n n g a _ r y p a _ æ _ h a d d _ i _ s k o l e r y g g s æ k k e n _ d e _
+_ å _ v a _ m e _ p å _ f e s s k e t u r a _ i f r a _ d i _ b a r _ m æ _ i _ r y g g s æ k k e n _ s å v _ i _ s k å t t ' n _ p å _ b å t ' n _
+_ j a _ s å _ d e _ d e _ d e _ å _ e l l e s j _ å _ s - _ å _ å _ v i n n t e s j t i _ å g _ p å _ j a k k t _ å _ r y p s n a r æ _ å _ e e _ h e i l e _
+_ j a _ j a _ j a _ j a _ s å _ d e _ d e n n _ t i a _ v a _ j u _ l å v _ m e _ r y p s n a r f a n n g s t _ å _ s å n n _ d e r e _ … _
+_ j o _ æ n n g k e r t e _ k o m u n a _ s å n n _ s å _ N a r r v i k _ h a _ j u _ v e l l _ l å _
+_ j a _ s å n n _ e _ d e _ m e n n _ n u _ e _ d _ n u _ i k k j e _ r y p a _ i j æ n n _ s å _
+_ n æ i _ d a _ s å _ d e _ d e _ e e _ s j - _ v - _ v i _ h a d d e _ j o _ æ _ v å k k s _ j o _ o p p _ p å _ e t t _ e e _ h a n n _ v a _ j o _ v - _ p å _ e t t _ s m å b r u k _ s å _ d e n n _ t i a _
+_ d e _ v a _ j o _ e n _ d e l _ s æ u e r _ å _ å _ a l l t _ å _ s å n n t _ å _ s å _ d r e i v _ a n n _ m e _ f e s s k e _ i _ t e l l æ g g _ å _
+_ å _ m - _ m o r _ h o _ j å b b a _ h o _ a r r b e i _ n e p å _ e e _ h o _ v a _ j o _ f ø r r _ s å _ v i t t _ t i l i _ u t _ h o _ v a _ j o _ y r r k e s a k k t i v _ h e i l e _ s e t t _ l i v _
+_ s å _ h o _ e e _ v a _ v e l l _ t r e _ å _ t i v e _ å r _ p å _ S a m m v i k l a g e _ f ø r r _ h o _ k å m m _ i f r å _ S 1 _ t i _ K j e l l b å t t ' n _ i _ f e m m å t r æ d d v e _ n e t t ' n f e m m å t r æ d d v e _
+_ å _ s å _ s å _ j å b b a _ h o _ d å _ t o _ å _ t i v e _ å r _ i _ t y g g d e t a t ' n _ t e _ h o _ d å _ t e _ h o _ v a _ s ø t t i _ å r _
+_ å _ h o _ e _ j o _ s t i l l _ g å o i n g _ s t r å n g _ b i _ h u n n e r _ å r _ i _ m a s s j _ s å _ d e _ e _ æ t t e _ f å r r h å l l a n _ s å n n _ s e t _ s å _
+_ n æ i _ d a _ s å _ e _ h a _ j o _ h a d d _ d e _ e _ k l a r t _ a t t _ d e _ æ _ h a r _ e e _ b å d e _ m e _ s k o l e _ å _ a l l t _ s å n n _ s e t t _
+_ s å _ v i _ v a _ t o _ s ø s s k e n _ å _ h a d d _ e n _ f l å t t _ o p p v e k k s t _ a l l t i _ n å k k a _ å _ j ø r _ s o m m a r _ s å m m _ v i n n t e r _ s å _ d e _ v a _
+_ å _ v i _ v a _ j o _ d r e i v _ d r e i v _ j o _ m y k k j e _ m e _ o m m _ v i n n t e r n _ s å _ v a _ d e _ j o _ u t e _ å _ s j i _ å _ v æ l l d i _ m y k k j e _ s å n n e r _ t e n n g _ å _ v æ r r t _ e l l e s j _ å _
+_ j a _ j a _ m e n n _ d e _ v a _ j o _ d e _ m a n n _ h a d d _ å _ l e k _ m e _ d e _ d e n n _ t i a _
+_ å _ s å _ n å _ n å _ n å _ v å ' r n _ k å m m _ s å _ v a _ d e _ m e _ å _ t a _ t r ø a _ e l l e r _ f e s s k e s t a n n g a _ v i _ k a l l _ d e _ j o _ f ø r r _ t r ø a _
+_ j a _ t r ø a _ d e _ v a _ e g e n t l i _ d e n n _ d u _ s m i a _ s j ø l l _ s å _ d u _ t o k _ å _ s å _ b e i _ d e _ b a m m b u s t r ø a _ n å r r _ n å r r _ n å _ b a m m b u s ' n _ k å m m _
+_ å _ s å _ n å _ d u _ f i k k _ d å _ s t a n n g _ s å _ b e i _ d e _ j o _ k a s s t s l u k s t a n n g _ e l l e r _ s j t a n n g _ s å _ d e _ h a _ f ø r r a n n d r a _ d e _ b e d d _ m o d æ r n _
+_ s å _ v i _ æ l l _ f ø r r b i _ d æ r _ å _ s å _ v a _ j o _ å _ f e s s k a _ k j ø e _ å _ s å _ s å n n _ s m å ø r r e t _ å _ s å _ v a _ d e _ t e _ f j e l l s _
+_ å _ s å _ v a _ d e _ j u _ s e f ø l g l i _ n å _ m a n n _ b e i _ g a m m e l _ n o k k _ s å _ v a _ d e _ j o _ s j l å t t æ _ å _ s j l å t t æ _ å _
+_ j a _ j a _ å _ s å _ d r e i v _ v i _ j o _ s å _ … _
+_ å _ s å _ d r e i v _ v i _ j o _ s å m m _ p å _ J e s u _ t i _ h e l l t _ e _ p å _ å _ s e i _ p å _ d e n n _ t i a _ d e _ v a _ j o _ d u _ k - _ h å l l t _ j o _ p å _ h e i l e _ s å m m a r n _ i k k e _ s å n n _ s å _ n u _
+_ m e n n _ d a _ t o k _ d i _ j o _ v a r e _ p å _ a l l t _
+_ j a _ i k k e _ s a n n t _ a t t _ d i _ v i _ d i _ v i - _ j a _ j a _
+_ d e _ e _ k l a r t _ a t t _ d e _ e _ s å n n _ s å _ v a _ t o n n g v i n n t _ å _ m e n n _ e e _ f ø r r _ a l l _ d e l _ m a n n _ h a _ j o _ k j e _ h a d d _ n å _ o n n t _ u t a _ d e _
+_ d e _ v a _ n u _ s å _ d e _ m e _ d e _ m e n n _ a n n _ v a _ j o _ n o _ v æ _ f a l l _ s y s s e l s a t t _ s å _ m a n n _ f a n n _ i k k j e _ p å _ a n n a _ j æ v e l s k a p _
+_ i k k j e _ f ø r r _ d e _ a t t _ d e n n _ t i a _ v a _ j o _ d e _ v a _ j o _ n o k k _ å _ j ø r _ s å _ s å _ d e _ v a _ j o _ n æ i _ d a _
+_ t å s - _ t å l l s k a p _ d e _ j o r _ v i _ m e n n _ e n _ s e f ø l l i _ v i _ v a _ k j e _ p å _ s å n n _ h æ r v æ r r k n i v å _
+_ s e f ø g e l i _ k a n n _ d e _ j o _ h e n n _ a t t _ d e _ v a _ i _ d a g _ s å _ h a _ d u _ k a n n s j e _ h e n n t _ a t t _ b a r n e v æ r n s j n e m m d a _
+_ s å _ h o _ s a t t _ v e l l _ m a n n g e _ r u n n a _ f ø r r _ v i l l _ æ _ t r u _
+_ n æ i _ d e _ v a _ k j e _ n å _ s å n n _ s p e s i e l l t _ m e n n _ e e _ d e _ v a _ n u _ d e _ h e n n t _ n u _ m a n n _ f i k k _ t a k _ i _ n å _ f æ n n g h æ t t e _ å _ l i t t _ s m å s p r e n n g i n g _ å _ s å n n _ d æ r _
+_ å _ d e n n _ t i a _ s å _ v a _ d e _ n u _ k j e _ d e _ v a _ d e _ n u _ i _ k v æ r r t _ u t h u s _ e l l e r _ s j å _ s å _ v a _ d e _ n u _ n å n n _ h a d d e _ n u _ k a l l a n _ l i t t _ a m u n i s j o n _ v e s s _ d i _ s k u _ j ø r _ e t t _ e e r _ a n n a _
+_ m e n n _ i k k e _ n å _ s å n n _ a t t _ e e _ n æ i _ d a _ v i _ h a d d e _ v e l l _ e g e n t l i _ e n _ f l å t t _ s å n n _ s e t t _ d e _ s y n n s t _ æ _ e n n u _
+_ å _ s e i n a r _ å g s å _ d e _ v a _ j u _ e i _ f - _ f l å t t _ b y g g d _ n å _ m a n n _ d a _ b e i _ v a k k s _ t e l l _ å g _ å _ m e _ e i g ' n t _ i d d r e s j l a g _ å _ o n n g d å m m s j l a g _ å _
+_ h a _ j o _ v å r e _ a k k t i v _ t i _ d e _ v æ r r t _ m e _ i _ l e d e l s ' n _ i _ b æ g g e _ p L a s s a n _ å _ d r e i v _ m y k k j e _ m e _ m e _ r e v y a _ å _ s k u e s p e l l _ å _
+_ j a _ j a _ j a _ d e _ h æ r _ K j e l l b å t t ' n _ h a _ a l l t i _ h a d d _ p å _ s æ _ å _ h å l l _ m e g e t _ g o _
+_ j u - _ j a _ i k k j e _ n u _ m e n n _ e e _
+_ d e n n _ t i _ j a _ j a _ v i _ s æ t t _ j u _ o p p _ d i _ h æ r _ Å s s k a r _ B r å t ' n s _ f l e i r e _ å _ r e i s t e _ r u n n t _ i _ h e i l e _ O f o t ' n _
+_ j a _ j a _ G o v a k k e r - M a r ' n _ b l a n n t _ a n n a _ a v _ Å s s k a r _ B r å t ' n _ å _ å _ e l l e s j _ s k e t t s a _ å _ å _ a l l t _ s å n n _ d æ r r e _
+_ d e _ v a _ e n _ f l å t t _ s j l å t t _ o p p _ å _ g a m m - _ å g _ v æ l l d i _ m y k k j e _ e e _ l æ i k a r i n n g a _ å _ s å n n t _ a k k t i f t _ å _ d e _
+_ s å _ å _ i d d r e s j l a g _ å g _ v a _ e _ m e _ p å _ e e _ å g _ å _ e e _ d i _ h e r _ o n n g d å m m e n e _ n å _ b e i _ s å _ g a m m e l _ å _ k j ø r t e _ r u r r n t _ å _
+_ n u _ s _ e _ v ø r r d e _ m y e _ m y e _ m i n n e r _ m e n n _ e e _ v i _ h a r _ v e l l _ O f o t ' n s _ e l l s t e _ m u s i k k å r r p s _ i _ e e _ i _ K j e l l b å t t ' n _
+_ n æ i _ a l l s å _ v å k k s ' n _ d _ e _ n - _ e e _
+_ j a _ j a _ d _ e _ j o _ e n _ b l a n n i n g _ f ø r r _ s å _ v i t t _ d _ e _ j o _ o n n g _ å _ g a m m e l _
+_ j a _ d a _ s å _ d e _ d e _ e e _ n æ i _ d a _ d e _ h a _ a l l t i _ v æ r r t _ d e _ m e _ d u g n a d _ å _ f å _ t e l l _ å _ a l l t _ d e _ h a _ e e _ … _
+_ f ø r r _ s å _ v i t t _ e n n d e _ å g _ m e n n _ d e _ t y n n e s _ j o _ d e s v æ l l _ i _ r æ - _ i _ r æ k k e n _ d æ r _ s å _ a n n d r e _ p l a s s a _ s å _
+_ m e n n _ e e _ d i _ h a r _ e e _ m e n n _ s e i n a r _ s å _ e e _ f l ø t t a _ j o _ æ _ d a _ e _ b e i _ j a _ e _ v a _ e n _ t j æ d d v æ _ v e l l _ d a _ f l ø t t a _ e _ i n n _ h i t _ t e _ B a l l a n g e n _
+_ d å _ b e i _ e _ j i f f t _ å _ f l ø t t a _ h i t _
+_ n u _ b o r _ å _
+_ s å _ f l ø t t a _ e i _ v - _ t e b a k e _ å _ v i _ h a _ j o _ e n _ s ø n n _ s å _ e _ f u n g s j o n s h e m m a _ s å _
+_ m å t t e _ f i n n _ h u s _ s å _ p å _ e i _ f l a t a _ s å _ f l ø t t a _ v i _ t e _ S 2 _ d e n n _ v e i e n _ f l ø t t a _ v i _ a l l s å _ d e _ v a _ b æ r r e _ r e i n _ t e l l f e l l d i h e t _
+_ m e n n _ d _ e _ j o _ i _ k o m u u n _ s å _ s å _ h a d d _ æ _ j o _ h e i m h u s _ i _ K j e l l b å t t ' n _ i n n t i _ n å n n _ å r _ s i a _ s å _ s å _ d e _ e _ n u _
+_ n æ i _ d a _ s - _ s å _ l æ n n g e r _ h a _ m a n n _ j o _ k j e _ b e v æ g d _ s e _
+_ n u _ e _ d e _ n o _ i k k j e _ n å _ k o _ m a n n _ s k a _ f l ø t t _ h e n _ b i _ n u _ e n _ a n n a _ t i n n g _
+_ t j a _ k a _ e _ s k a _ r e k l a m e r e _ m e _ d e _ v e t _ æ _ j u _ i k k j e _ n æ i _ a s s å _ d e _ e _ v e l l _ v æ r r k e n _ v æ r r e _ e l l e _ b e r e _ i _ B a l l a n g e n _ e n n _ a a n _ s å n n _ s e t t _
+_ t - _ d u _ s e r _ j o _ v i _ s l i t _ j o _ b å d e _ m e _ e l l d r e o m m s å r r g _ å _ a l l t _ m e n n _ d e _ j ø r _ d i _ j o _ f ø r r _ s å _ v i t t _ å v e r a l l t _ å _ s k o l e s t r u k t u r _ å _ h e l e _ g r e i a _ m e n n _ e e _
+_ v i _ h a r _ j o _ e t t _ n u _ e _ d e _ j o _ i k k j e _ l æ n n g e r _ u n n a _ t e _ N a r r v i k _ æ _ k j ø r t e _ j o _ t e _ N a r r v i k _ i _ f e m m _ å _ t r æ d d v e _ å r _ s å _ d _ e _ j o _ f u l l t _ m u l i _ å _ b o _
+_ j a _ å _ d e _ k a n n _ j o _ f ø r r _ o n n g d å m m e n _ å _ å _ å _ o n n g a _ s å _ e e _ s y n n s _ e _ j o _ d e _ v e s s j k a _ v æ l l d i _ b r a _ h e r _ b å d e _
+_ s å _ v æ l l d i _ m y k k j e _ f l å t t _ i n n _ e n n _ s y n n s _ j o _ æ _ i _ v æ r r t _ f a l l _ å _ f å r _ d i _ n u _ b a s æ n n g _ å _ a l l t _ d e _ h æ r _ i _
+_ å _ s å _ h a r _ u _ j o _ f a n t a s s t i s k _ o m m r å d a _ f ø r r _ å _ d r a _ p å _ t u r _ å _ a l l t _ s å n n _ d e _ s e i _ j o _ v i _ d æ r _ u t e _ p å _ S 2 _
+_ v i _ h a _ j o _ l a g a _ e i _ e i _ f l å t t _ l y s l ø y p a _ m e _ e n _ l a v v o _ å _ a l l t _ s å _ v i _ k a n n _ g å _ m e _ b å d e _ b a r n e v å n n g n _ å _ a r r t _ å _ d _ e _ j o _ p - _
+_ e n _ l i k k j e _ g r e n n a _ d _ e _ n u _ v e l l _ e n _ t å l l _ f e m m t ' n _ h u n n e _ m e n n e s k e _ i _ å r e _ s å _ b e s ø k _ d e n n _ h æ r _
+_ s å _ d e _ h a r _ d i _ j o _ i _ K j e l l b å t t ' n _ å g _ å _ b - _ p å _ f j e l l e _ s å _ o p p å _ H å f j e l l e _ d æ r _ e _ j o _ e n _ m a s s e _ h y t t e _ f l å t t _ f j e l l o m m r å d e _ t o _ v a t t ' n _
+_ å _ d æ r _ h a _ d i _ j o _ b - _ b y g g d _ s å n n e r _ k å t e _ å _ s å n n e _ j a k k - _ e i _ g o _ f å r r e n i n g _ s å _
+_ e g e t _ k l æ k k e r i _ f ø r r _ ø r r e t _ h a r _ d i _ å _ s æ t t _ u t _ å _ s å _ s å _ å _ d _ e _ j o _ b æ r e _ d u g n a d _ a l l t _ s å n n _ d i _
+_ s å _ e e _ s å _ s å n n _ s e t t _ s å _ e _ j o _ B a l l a n g ' n _ f ø r r _ s å _ v i t t _
+_ n u _ v e _ s å n n _ s å _ b y g g d e r _ e l l e s _ m e n n _ e e _ v æ r r t _ f a l l _ i _ s - _ d e _ b i _ j o _ e n _ d e l _ d æ r _ e r _ j o _ g r e n n d e l a g _ f å s j e l l i _ p l a s s a _ å _ s å n n _ s e t t _ s å _ e e _
+_ m e n n _ d _ e _ j u _ k l a r t _ d e _ æ _ s - _ m e i n e _ j o _ d e _ a t t _ d e _ b i _ a t s i l l i _ b e r e _ s a m m h a l l _ d e s s _ m i n n e r _ p l a s s ' n _ e _
+_ f å r r _ d e _ s e r _ æ _ j o _ b æ r r e _ e e _ l i t t _ t e b a k e _ i _ t i d _ k o _ m y k k j e _ b e r e _ l æ t t a r _ m e _ s å n n _ f ø r e n i n g s _ å _ d u g n a n s a r r b e _ d æ r _ e n n _ d i _ i _ B a l l a n g e n _ i _ s i n _ t i d _
+_ n u _ e _ n o _ B a l l a n _ b i d d _ m i n n e r _ s å _ d _ e _ j o _ … _
+_ d e _ b i _ j o _ t e _ d e _ d e _ b i _ j o _ t e _ d e _ s å _ s å _ å _ d e _ d æ r _ h a _ j o _ v e l l _ a v t a t t _ m e _ å r a n _ å g _ d e _ d æ r _ m e _ å _ j æ l l p _
+_ n æ i _ d _ e _ j o _ k l a r t _ a t t _ i k k j e _ s å n n _ n å r r _ æ _ h a _ v æ l l t _ å _ v æ _ h æ r _ s å _ i k k j _ e t t _ s e k u n n _ æ _ n u _ t æ n n g t _ m æ _ å _ f l ø t t _ t i _ e n _ b y _ e l l e r _ n å n n _ t e n n g _ s å n n _ s e t t _ s å _
+_ d _ e _ k l a r t _ a t t _ d e _ e _ a l l t i _ t e n n g _ m a _ k u n n e _ ø n n s k a _ v å r d e _ b e d r e _ å _ s å n n e r _ t e n n g _
+_ v i _ h a _ j o _ h a d d _ n å _ d e _ j e l l _ e l l d r e o m m s å r r g _ s å _ s å _ h a _ j o _ v i _ h a d d _ e n _ f ø r f æ r r d l i _ k a m m p _ f ø r r _ å _ f å _ m o r _ p å _ s y k e j e m m e _
+_ å _ d ' n n _ å _ d _ e _ k l a r t _ d e n n _ s e t t _ e e _ s e t t _ h a r r t _ i _ e n n d å _ d _ e _ n _ p a r r _ å r _ s i a _
+_ s å _ e e _ d _ e _ k l a r t _ a t t _ v i _ h a _ k j e _ i n n s e t t _ a t t _ v i _ a t t _ f å l l k _ i _ B a l l a n g e n _ e _ e n _ s p e s i e l l _ k o m u n e _ m æ _ m e n n _ n u _ h a _ d e _ v i s s _ m u l i h e t s _ ø k t _
+_ v i _ l i g g _ v e l l _ h ø g t _ å v e r _ h e r _ e _ j o _ v æ l l d i _ m a n n g e _ s å _ s e t t _ h e i m e _ å _ t r e n n g _ t i - _ t r e n n g e _ j a _
+_ j a _ d e t _ b æ i _ j o _ d e _ n å _ i _ l a _ n e _ B j ø s s j k å s ' n _ g r u v e r _ s å _ b e i _ d e _ j o _ … _
+_ j a _ å _ m y k k j e _ f å l l k _ s å _ k å m m e r _ t i b a k e _ t i _ k o m u n ' n _ d i _ e _ j o _ m y k k j e _ e l l d r e _ f å l l k _ s å _ h a _ b o d d _ i _ s i n _ t i d _ i _ B a l l a n g e n _
+_ j o _ d i _ e e _
+_ d e _ b L i _ j o _ s å n n _ a t t _ d u _ d e _ e _ r a r t _ m e _ d e _ d æ r _ d u _ e _ i f r a _ e n _ p l a s s _ å m m _ d u _ b i _ h u n n e r e _ å r _ s å _
+_ d e _ s e r _ j e _ o _ h o _ m - _ e e _ h o _ m o r _ s å _ m a m m a _ s å _ e _ h u n n e r _ å r _ h o _ s - _ e l l e r _ n i _ å _ n e t t i _ h o _ h o _ s e i _ h o _ e _ i f r å _ T y s s f j o r n _
+_ a _ h o _ i k k _ e _ o r _ d æ r _ p å _ s ø t t i _ å r _ i _ v æ r r t _ f a l l _
+_ d e _ e _ s a t t _ d e _
+_ n æ i _ n æ i _ d e _ h a _ n æ i _
+_ m a n n _ e _ e t a b l e r t _ s e _ å _ n å _ k å m m e _ i _ m i n _ a l l d e r _ å _ m a n n _ h a r _ h y t t a _ p å _ f j e l l e _ å _ a l l t _ s å n n _ s å _ e _ d e _ j o _ a v s t a n n a n _ e _ j o _ s å _ l a n n g _ t e _
+_ j a _ å _ n u _ h a _ j æ _ f å d d _ h æ l l s a _ i _ å r r d ' n _ å g _ s - _ s å n n _ n å g e l u n n d e _ s - _
+_ j a _ d a _ e _ d e _ k l a r t _ e e _

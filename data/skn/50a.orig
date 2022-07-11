@@ -1,0 +1,481 @@
+_ j u u u _ . _
+_ n o _ s e e _ o l _ s e m m o s t _ e t _ k o n _ , _ k o n _ t u a t t i _ j y v i _ s i t _ , _ n i i n _ k o _ s a n o n _ e t _ s a t a k a k s k y m e n t v i i s _ k i l o _ , _ r u k k i t a _ , _ r u i s j y v i _ . _
+_ j a _ s i t _ n e p _ p a n t t i n _ k a h t e _ s a a v i _ l i k k o n _ , _ v e t t e n _ . _
+_ v u a - _ , _ v u a r o k a u δ e k s I _ . _
+_ e t _ n e s _ s i t t _ o i k k e n _ o l i v a _ , _ m ä r k k i _ , _ k y l m ä _ v e t t e _ . _
+_ n o _ s i t _ n e _ o t e t t i _ s i i t _ k y l m ä s t _ v e δ e s t _ p o i j e s _ j a _ p i s t e t t i _ s e m m o s s e n _ , _ s e m m o s s e _ n i i n _ k o _ , _ a i k a _ , _ s e m m o s s e m _ m i k s _ m ä ä _ h ä n e _ s a n o i s i _ . . . _ s e m m o n e _ s e _ o n _ n i i n _ k o _ s u u r _ l e i p ä l a u t _ m u t _ s i i n _ o _ s y r j ä _ . _
+_ j a _ , _ p a n t t i _ . . . _ s a n o t t i _ m a l l a s m a n k i k s _ s i t _ s e m m o n e _ j a _ s i t _ n e p _ p a n t t i _ s i i h e _ l ä j ä n _ , _ k a s s a n _ . _
+_ j a _ s i t _ n e _ a l k o i _ r u v e t _ i t ä m ä _ s i i n _ , _ m u t _ n i i t _ t ä y δ y i _ s i i n ä k i _ j o k a _ p ä e v _ k a s t a _ e i _ n e _ m u u t o n _ i t ä n n y _ . _
+_ j a _ s i t ä _ p a r e m p p i _ m a l t t a i _ t u l _ m i t ä _ e n i m ä _ v a a _ s i t _ t u l _ i t t e i _ . _
+_ j a _ n i i h i n _ t u l U _ , _ a i k a _ p i t k ä _ i t t e s _ s i t _ k o _ n e _ o l _ h y v i n _ i t ä n n y _ . _
+_ j a _ a i k a _ p e h m i ö i _ n e _ j y v ä s _ s i t t E _ . _
+_ n o _ , _ s i t _ t u l _ s e _ , _ l ö y l y t t ä m i s e n _ a i k a _ . _
+_ s i t _ n e _ v i ä t t i _ s e m m o s e n _ k o _ m e i l _ o l _ s i ä l s _ s e m m o n e n _ n i i n _ k o _ h u a n e _ s e m m o n e _ , _ l a o _ m u t _ s i i h e n _ t e h t i _ s i t _ v i ä l _ , _ k o _ s i i n _ o l _ , _ s e _ o l _ o i k k e _ s e m n e _ n i i n _ k o m _ p a r e m i _ h u a n e _ m u t _ s i i n _ o l _ t ä m m ö n e _ i k k u n a k i _ n i n _ , _ t e h t i _ s i i h e _ s i t _ l a o δ o i s t _ s e m m o n e _ , _ l a v e _ s e m m o n e _ e t _ s e _ o l _ s i t _ n i i n _ G o _ s a u n a _ l a o _ . _
+_ m u t _ s e m _ p ä ä s _ s i t _ s i l l a l _ , _ e i _ i h a n _ y m p ä r _ k u l k e m a _ m u t _ , _ m u t t _ a i n a k i _ s i n _ s i t _ s o v e i _ m e n _ , _ s i n _ y l ö s _ j a _ , . _
+_ e t _ t ä l l ä t t i _ s i n s _ s i t t _ e n s i _ s i t _ , _ l ä j i h i n _ , _ j a _ a i k a _ k u u m a k s _ s i t _ s a u n A _ . _
+_ j a _ s i t _ , _ s i t _ k o n _ s a u n _ o l _ t a r p p e l i s e n _ k u u m _ n i _ s i t _ n e l _ l e v i t e t t i n _ , _ e i _ n e _ o i k k e n _ o h u v a k s _ s a a n _ l e v i t t ä _ e t _ n e _ o l i s _ l i i a m _ p i a n _ k u i v a n n u m _ m u t _ , _ n i i n _ , _ l e v i ä l t t ä _ k u m m i n k i _ s i t t _ i k ä n _ t ä m ä _ n y _ o o _ m u t _ v i ä l _ v ä h ä k i n _ , _ t a i k _ t u a l _ , _ v i ä l ä k i m _ p a k s e m a l t t a _ k o n _ t ä m ä _ o _ . _
+_ j a _ , _ s i t _ h e i t e t - _ , _ s i t _ p a n t t i _ s a u n _ a i k a _ k u u m a k s _ j a _ h e i t e t t i n _ o i k k e _ l ö y l y _ . _
+_ n i i m _ p a l j o n _ k o _ v a a _ , _ j a k s o i _ h e i t t ä _ e t e i _ , _ e t e i _ l i i a n _ , _ e t _ s a i _ h e i t e t y k s _ e t t e _ l i i a n _ k u u m _ D u l l u _ . _
+_ i s e _ o l k _ . . . _ k y l _ m a l t - _ , _ j y v ä _ o l i s i v a t _ k ä r s i n n y _ v a i k _ k u i p _ p a l j o _ m u t t _ e i _ i t e _ . _
+_ j a _ y k s _ p ä ä v _ n i i t _ l ö y l y t e t t i _ s i t _ s i l l a l l _ e t t Ä _ . _
+_ n i i l _ a n n e t t i n _ k u m m i n k i n _ k u u s _ s e i t t e m ä n _ t a i k _ , _ e n e m ä n k i _ n i i _ , _ s e m m o n e n _ k o v a _ l ö y l y _ , _ s i n ä _ p ä i v ä n _ . _
+_ j a _ n e e t _ t u l _ n i i n _ k u u m a k s _ e t t _ o i k k e n _ a i k a l a e l k _ k ä t _ p o l t t i _ . _
+_ j a _ s i t _ n e e p _ p i s t e t t i n _ k a s s a n _ . _
+_ s a n o t t i _ e t _ p i s t e t ä n _ k a r h e l _ e t _ s e _ o l _ k o k o _ t ä m m ö n e _ , _ y k s m i t t a n e n _ t ä m m ö n e _ a i k a _ k a r h e _ s i t _ n i _ , _ k o k o _ s e _ l a o _ l e v u δ e l t t a n _ . _
+_ j a _ h a k a t _ , _ n e _ o l _ n i i n _ k u u m i _ e t t _ o i k k e n _ a i k a l a e l k _ k ä t _ p o l t _ . . . _ j a _ h a k a t t i _ v i ä l _ v ä h ä _ n i i t _ e t _ n e _ o i k k e m _ p i u k k a _ m e n _ . _
+_ j a _ a n n e t t i n _ o l _ y ä _ s i t _ s i l l a l l a _ . _
+_ j a _ n e _ o l _ s i t _ a a m u s t _ m a k k i o i _ . _
+_ j a _ n i i _ m ä r k k i _ e t _ k ä s i _ k a s t u i _ k o _ s i n _ , _ p i s t i _ . _
+_ n o _ s i t _ n e t _ t ä y δ y i _ s a a δ _ ä k k i n _ k u i v a m a _ j ä l l e _ , _ e t _ m y l l y _ n i i t _ s i t _ k ä v i _ . _
+_ m u t t _ e i _ n i i t _ s a a n _ l i i a n _ ä k k i n _ k u i v a t _ s i t _ n e _ j ä l l e n _ , _ p a l o i v a s _ s i l l a l _ e t _ n i i s _ t u l _ k a r v a i j A _ . _
+_ e t _ s i i n _ m e n _ a i n a k i n _ , _ s i t _ s i i n _ m a l l a s t e n _ t e o s _ n i _ , _ a i n a k i _ s y k s y l ä k i n _ k o n _ o l _ v ä h ä _ e n e m ä n _ , _ j o _ k y l m ä _ n i _ m e n _ , _ v i i k k _ a i k k a _ s i i n _ m a l l a s t e n _ t e o s A _ . _
+_ m u t _ k y l l _ a i _ s i t _ k e h u m i s t _ s a i _ e t _ h y v i _ t u l I _ . _
+_ n o _ s i t _ , _ s i t t e v _ v i ä t t i n _ , . _
+_ n i i _ s e _ o l _ u s s e n k i _ . . . _ s e _ k ä v e i _ s i t _ s i l a l k _ k o _ n i i t _ o l _ s a t a k a k s k y m e n t v i i s _ k i l o _ k o _ n e t _ t u a t t i n _ n i _ , _ e i _ n i i t _ s i t t _ e n ä _ k o _ n e _ , _ v a l m i k s _ t u l _ n i n _ e i _ n i i t _ o i k k e n _ , _ p a l j o _ m i t t ä _ y l i _ s a δ a n _ k i l o n _ t a h t o n n _ o l l _ e t _ n e s _ s u r k a s t u i _ s i t _ v a a _ j a _ k o _ n e _ n i i n _ k e v i ä k s _ t u l _ k o n _ n e k _ k u i v i _ o l I _ . _
+_ m u t _ k y l _ s i t ä _ , _ s i t _ p i i s a s _ j a _ s i t _ m e t _ t e i _ v i ä l _ m o n t _ k e r t t a _ s i t _ s e m m o t t _ e t _ , _ p ä ä s s i ä i s e k s i k i n _ t e h t i n _ k o t t i _ n i i m _ p a l j o _ s i t t _ e t t _ o i k k e _ m y y t t i n _ k o _ s i t ä _ p ä ä s s i ä i s m ä m m i _ p r u u k a t t i n _ t a r v i t a _ . _
+_ j a _ v i ä l ä k i n _ D a r v i t a _ ! _
+_ e t _ s e l l a l _ n i i t _ s i t _ s i l l o n _ t e h t i n _ . _
+_ j u u _ . _
+_ j a _ h y v ä _ t u l _ . _
+_ m t ä _ ? _
+_ n o _ s i t ä _ , _ s i t ä _ t ä y t y _ o l t _ t a l o i s _ a i n _ , _ k a l j a _ k o _ n i i m _ p a l j o _ m i ä - _ , _ j u a t t i _ . _
+_ e i _ s i l l o _ m i t t ä n _ t o m m o s s i _ j u a m i _ o s t e t t u _ . _
+_ s t ä _ k a l j a _ v a i _ ? _
+_ n o _ s i t ä _ t e h t i _ s i t _ j a _ s i l l a i l k _ k u _ h y v ä _ k a l j a _ o i k k e n _ t e h t i _ j a _ , _ v e - _ v a n h a n _ a i k k a n _ k o _ m ä ä k i n _ , _ e n s _ r u p e s i _ j a _ j o u δ u i n _ t e k e m ä _ j o _ k o t o n k _ k a l j a _ n i _ s i t ä _ t e h t i _ s i l l a l _ e t _ , _ p i s t e t t i _ n i i t _ , _ m a l t t a i _ s i t _ s i l l a l _ , _ h i u k a _ v a a _ s a a v i h i _ j a _ , _ j a _ , _ j a _ s i t _ k u u m a l _ v e δ e l k _ k a s t e t t i _ . . . _ m u t t _ e i _ s e _ s a a n _ o l k _ k i a h u v a _ v e t t Ä _ . _
+_ s e n _ t ä y t y _ o l s _ s e m m o s t _ k o _ s a n o t t i n _ k i r p l ö i s s e v ä _ . _
+_ j a _ k a s t e t t i _ s i t _ s i l l a l _ v ä h i t e l l e n _ . . . _ k u i p _ p a l j o _ s i t _ m e i n a t t i _ s t ä _ t e h δ ä k k i _ . . . _ n i n _ k a s t e t t i _ v ä h i t e l l e _ j a _ , . _
+_ e t _ m o n t _ k e r t t a _ s i t _ k o _ m u n G i n _ k o t o n a n _ k o m _ p a l j o _ v ä k k i _ o l _ n i n _ k y l _ s i t ä _ s i t _ , _ s i t ä _ v i i m ä s s e k s _ s i t ä _ k a s t e t t i n _ o i k k e _ m o n t t e n _ k e r t - _ , _ m o n t _ k e r t t a _ s i t _ . . . _ s i i h e n _ a i _ l i s ä t t i n _ , _ m a l t t a i _ j a _ v ä h ä _ j a o h o i j a k k i _ j a _ s i t ä _ k u u m a _ v e t t Ä _ . _
+_ j a _ s i t _ v i i m ä s e k s _ s i t _ k o _ , _ s i t _ t ä l l ä t t i _ , _ s i i n _ p i δ e t t i _ s i t t _ a i m _ p u a l e n _ t u n t t i _ k u m i n k i _ v ä l i _ s e n _ k a s t a m i s e n _ G a n s _ , _ e t _ s e _ s i t _ i m e l y i _ . _
+_ m u t _ s i t _ k o _ v i i m ä n e n _ k e r t _ k a s t e t t i _ n i n _ s i t _ , _ s i t _ k ä - _ , _ l ä m m i t e t t i _ o i k k e n _ i s o _ p a δ a l i n e _ v e t t _ e t _ t u l _ s e _ , _ s a a v _ v a l l a n _ t ä y t t e _ s i t _ j o _ s i t ä _ , _ k a l j a _ . _
+_ j a _ s i t _ , _ s i t _ v a a n _ s i l l o n _ G o _ . . . _ e m _ , _ e i _ s i t t _ e n ä _ k o _ m ä ä k i n _ t u a l _ o l i n _ t u a l k _ k o _ m e s _ s i t _ o l i n k i _ n i _ e i _ s i ä l s _ s i t _ . . . _ e m _ m ä ä _ s i ä l _ e n ä _ s i t _ s i l l a l _ o l k _ k a l j a _ t e h n y _ m u t _ s i t _ t e h t i _ s i l l o n _ k o _ m ä ä k i n _ k o t o n _ o l i _ j a _ ä i t i k i _ v i ä l _ e l _ n i _ , _ t ä y δ y t t i m _ p a n n A _ , _ o i k k e _ s e m m o s s i _ , _ k r o u v v e i _ o l k k i _ p u n k k a n _ . _
+_ j a _ s e _ k a l j a _ s a k _ p a n t t i _ n i i t t e _ o l k k e i m _ p ä ä l l Ä _ . _
+_ j a _ , _ j a _ v e t _ s i t _ p ä ä l _ e t _ s e _ , _ t u l _ s e m m o s t _ k i r k a s t _ s e _ k a l j a _ s i t t _ e t e i _ s i t ä _ s a k k a _ j o u k k o _ m e n n y _ . _
+_ m u t t _ e i _ s i t t _ e n ä _ k o _ s i t _ , _ s e _ s a a t t i _ j o _ m u u t o _ s e l k k e m ä n _ k u _ a n n e t t i m _ p a r i _ k o l m t _ t u n t t i _ o l _ n i _ s e _ s e l k e s _ s i t _ j o _ m u u t o n _ e t _ s a i _ s i l l a l _ , _ k o _ s e _ o l _ s e m m o n e m _ , _ p u n k k a _ e t _ s i i n _ o l _ s e m m o n e n _ , _ r e i k ä _ e t _ s i i n _ o l _ t a p p I _ . _
+_ j a _ k o _ s e _ o l _ k o l m e k i n _ , _ t u n t t i _ s i t _ s e _ , _ s e _ k a l j a v e s i _ t a i k _ s e _ s e n _ , _ s a k a m _ p ä ä l _ n i _ s e _ s e l k e s _ n i _ e t _ k o _ j o s _ , _ p a r i _ r a u t k u p i l i s _ t u l _ e n s i _ s a k k a _ n i _ s i t _ t u l _ j o _ i h a n _ k i r k a s _ k a l j a _ . . . _ j a _ s e _ o n _ s i t _ j o _ p a l j o _ h u a k k e m p a _ t e h δ ä _ p i k e m i n _ k o _ s e n _ , _ s e _ e t _ s i l l o n _ k o _ o l k k e i n _ G a n s _ , _ s i t ä _ , _ t ä y δ y i _ , _ s e - _ , _ s e l i t t ä _ . _
+_ j a _ s i t _ k o _ s e _ , _ s a a t t i _ h y v ä k s _ j ä h t y m ä _ n i _ , _ h i i v a _ j o u k k o _ s i t _ v a a n _ e t _ s e _ r u - _ , _ k ä y m ä _ r u p e s _ j a _ . _
+_ m u n k i n _ G o t o n a n _ o l _ o i k k e n _ a i k a m o i n e _ s e m m o n e n _ t y n n y r _ e t _ s e _ o l _ s i t _ k e l l a r i s _ e t _ s i i h e _ m a h δ u i _ a i n a k i _ s a a v i l i n e n _ k a l j a _ j a _ s i n s _ s e _ s i t _ v i ä t t i _ . _
+_ j a _ k o _ l o p u _ n i i n _ t e h t i _ u u t _ j ä l l e _ . _
+_ e i i _ . _
+_ e i _ s e _ m i t t ä m _ p ä ä h ä _ m e n n y _ . _
+_ m u t _ j a n o _ l o p u i _ . _
+_ e m _ m ä ä _ k u m m i n k a n _ o l t _ t e h n _ m i s s ä _ m u t _ k y l _ m a r _ m i ä h e s _ s i t _ j o _ s i l l o n k i _ k o m _ m u n k i _ v e l j e n _ j o s k u s _ s i t ä _ , _ t e k i v ä _ s i i t _ k a l j a s t _ s i t _ s e m m o s t _ e t _ s a n o t t i n _ k i l j u k s _ . _
+_ e t _ p a n t t i _ h i i v a _ e n e m ä _ v i ä l _ j o u k k o _ j a _ s o k e r i _ . _
+_ n i _ s e e _ s i t _ t a i s _ v ä h ä _ p ä ä h ä n k i _ j o _ m e n n Ä _ . _
+_ k y l _ m a r _ m e i j ä n _ i s ä _ s e n _ t i ä t ä _ k a n s _ . . . _ k y l _ m a _ h ä n k i n _ o n _ , _ e m _ m ä ä _ t i ä δ _ j o s _ h ä n _ o n _ t e h n _ m u t _ k y l _ h ä n _ s e m m o s t _ s a a n n _ o _ . _
+_ k y l _ m a r _ s e _ n y _ s i t _ j o _ m a l t t a i s t _ j a _ k a l j a s t _ j o _ p i i s a s i k i _ ! _
+_ e i _ . _
+_ e i _ s i t ä _ s - _ t ä s ä _ p a i k o i l _ . _
+_ e m _ m ä ä _ k u m m i n k a n _ y m m ä r _ m i t t ä _ . _
+_ e n k _ o l k _ k o r s k a _ s a a n n U _ . _
+_ n o _ m ä m m i _ t e h δ ä _ s i t _ n i i s t _ m a l t t a i s t _ s i l l a l s _ s i k _ k a n s _ m u t _ s i i n _ t a r v i t a _ s i t _ p a l j o _ j a o h o i _ . . . _ e i _ , _ k o _ m ä ä k i n _ o l e _ m ä m m i _ t e h n s _ s i l l o n _ k o _ m e t _ t u a l _ o l i _ j a _ m e i t _ o l _ s e n t ä n _ k u u s _ h e n k k i _ k a n s _ v ä k k i _ n i n _ k y l _ m ä ä _ , _ a i k a l a i l t _ t e i _ m ä m m i _ . _
+_ j a _ o l _ s e m m o s i _ , _ v a n h a n a i k k a s i _ , _ o i k k e _ s e m m o s i _ t u a h i s s i _ r o p p i s s i _ . _
+_ k y l _ m a r _ t e k k i n _ n i i t _ o l e t _ n ä h n Y _ ! _
+_ m e i l ä k i n _ o n _ t ä ä l ä k k i _ n y k k i _ n i i t Ä _ . _
+_ n i i n _ s i t ä _ t e h δ ä _ s i l l a l _ m ä m m i _ , _ a i n a k i _ s i - _ , _ s i l l o n _ t e h t i _ . . . _ m ä ä _ t i ä δ _ m i l l a l t _ t u a l t _ t e h t a i s _ t e h δ ä n _ e t _ , _ e t _ k a k s _ o s s a _ j a o h o i _ j a _ k o l m a s _ v a a _ m a l t t a i j A _ . _
+_ j a _ s a m a l l a i l k _ k a s t e t a _ s i t _ k o _ m ä m - _ , _ s i t ä _ k a l j a k i _ m u t t a _ , _ e i _ s a a p _ p a n s _ s i t _ n i i m _ p a l j o _ v e t t _ e t _ s e _ s i t _ o n _ s e m m o s t _ s a k k i a _ . _
+_ r u k k i s s i _ j a o h o i _ . _
+_ k y l _ s i i t _ j a _ h y v ä _ t u l e _ k y l l ä _ . _
+_ j a _ k o _ e n s _ o v a _ h y v i _ m a l t t a i j A _ . _
+_ j a _ k o _ s e _ k a s t e t a _ , _ a i n a k i _ m ä ä k i _ n y _ s i t _ t ä s ä k i n _ o l e n _ k a s t a n _ v a a n _ t o m m o s s e n _ ä m p ä r i _ n i _ , _ s i t _ k o _ s e _ , _ t u l e _ s i t _ s e m m o s t _ , _ s e _ k o e t e - _ , _ t ä y t y _ k o e t t a s _ s i t _ t e h δ s _ s e _ v ä h ä _ s e m m o s t _ , _ p a r a s t a _ s e _ s a k k i a _ n i _ , _ s i t ä _ s i t _ v a a m _ p a n n a _ n i i h i _ r o p p i s s i _ m u t t _ e i _ s i t ä _ s a a p _ p a n s _ s i t _ o i k k e n _ , _ t ä y t _ m i t t ä n _ G o _ s i l l a l _ v a a n _ e t _ s i t ä _ o _ j o k u _ t o m m o n e _ , _ n e l i _ v i i s _ s e n t t i _ p a k s u l t t a _ . _
+_ j a _ s i t _ p a r e m i _ s e m m o s e _ m i a δ o n _ u u n i n _ e t _ k o l m e k i n _ t u n t t i _ s i t ä _ p i δ e t ä _ s i t _ u u n i s _ n i _ s i t _ s e _ s i ä l _ m a k k i a k s _ i m e l t y _ . _
+_ v i ä l _ l o p u n _ e δ e s t _ v a i k _ s e _ , _ m u u t o n k i _ j o _ m a k k i a _ o n _ . _
+_ m u t _ m e i j ä n _ o n _ n y y _ s e m m o n e n _ k o _ m e i t _ o n _ t ä s ä _ v a a n _ k o l m _ h e n k k i _ n i n _ e m _ m ä ä _ v i i m e _ , _ v u a n n a k a n _ t e h n _ e n ä _ l a i n k a _ m ä m m i _ k o _ o s t i n _ t u a l t _ k a u p a s t _ s i t _ s e _ v e r r a _ . _
+_ k o _ m e _ o l e n _ n i _ h u a n o i _ s y ä m ä n _ k o _ m e _ o l e _ j o _ v a n h o i _ . _
+_ k o _ m e i j ä n _ i s ä _ o n _ , _ j o _ p i a n _ k a h δ e k s a n k y m m e n e _ . _
+_ j a _ t u a _ p o i k _ s i t _ k o n _ t o m n e n _ o n _ k o _ n ä i t _ n i _ , _ h ä n _ o _ m u u t o _ h u a n _ s y ä m ä _ . _
+_ e i _ s i t ä _ j u u r _ m u u l l o s t _ t e h δ ä _ . _
+_ n e _ o l i _ v a n h a n - _ , _ o i _ v o i _ k y l _ s i l l o n _ o l _ s i t _ s e m m o s t _ k o _ m ä ä k i _ , _ m u i s t a n _ G o n _ , _ k o n _ e i _ v i ä l _ l a u t a s s i a k a n _ o l l u _ , _ k u m _ p u i s s i _ . _
+_ p u i s s i _ l a u t a s s i _ ! _
+_ k y l _ n e _ , _ s e v u a k s _ e i _ n i i n _ k a m a l o i _ o l l u _ n e _ o l _ t o m m o s i _ , _ t u a n _ k o k k o s - _ , _ n o _ k y l _ n e _ l a u t a s e n _ k o k k o s s i _ o l i v a s _ s e m m o s i _ m a t a l o i _ m u t _ n e _ o l _ p u u t a _ . _
+_ e t _ s i l l o n _ k o _ m ä ä _ o i k k e n t _ , _ v i ä l _ o l i _ s e m n e _ e t _ m ä ä _ a l k k u _ m u i s t a _ a r v e l i s i _ n i n _ k y l _ m u n k i n _ k o t o n a n _ s e m m o s s i _ m u t _ , _ n i i n _ s e m o s s i _ l a u t a s s i _ o l _ j a _ . _
+_ j a _ n i i t _ e i _ s i t _ , _ p r u u k a t _ m i t t ä _ l a u t a s s i _ k o _ , _ t o i s e s _ f a t i s _ o l _ v e l l u _ j a _ t o i s e s _ o l _ , _ p e r u n i _ j a _ , _ s i ä l t _ v a a _ , _ s a m a l - _ , _ l y - _ j o - _ s a m a s t _ j o k a i n e _ l u s i k a n _ k a n s _ a j o i _ s u u h u s _ . _
+_ e i _ m i t t ä _ l a u t a s s i _ t a r v i t t U _ . _
+_ j a _ s a m a s t _ t o o p i s t _ r y y p ä t t i m _ p i i m ä _ . . . _ e i _ m i t t ä n _ k l a s e i _ o l l _ e i k ä _ , . _
+_ j a _ e i _ k i p p i ä k s _ t u l t t U _ . _
+_ m u t _ s i t _ k o _ m ä ä k i _ j o _ o l _ s i t _ m u i s t a n _ k o _ s i t _ l a u t a s s i _ r u - _ o l _ s i t _ j o _ o i k k e _ l a i l i s s i _ n i _ m u t t _ e i _ n i i t ä k ä _ s i t _ m u u l o s t _ a n n e t _ k o _ j o u l u n _ j a _ s i l l o n k i n _ o l _ s i t _ s i l l a l _ e t _ m o n t _ k e r t t a _ t ä y δ y i _ k a h δ e n _ h e n k e n _ o t t a s _ s i t _ s i i h e _ s a m a l _ l a u t a s e l _ . _
+_ v a i k _ j o _ o l i k i _ s i t _ l a u t a s e _ , _ j o u l u n n A _ . _
+_ m u t t _ e i _ a r k k i a n _ m i t t ä n _ o l l u _ , _ l a u t a s s i _ . _
+_ j a _ p e r u n a k _ k u a r i t t i _ s i t _ v i ä l _ k o _ , . _
+_ m ä ä _ m u i s t a n _ k o _ m u n G i n _ , _ k o t o n a _ , _ m u - _ , _ m e i j ä _ , _ m u v _ v e l j e n _ t e k i v ä t _ s e m m o s s i _ p u i s s i _ k a f f e l e j a k i n _ e t _ , _ j a _ p u u l u s i k o i _ . _
+_ n i i t _ k a f f e l e i _ t e h t i _ s e m m o s e s t _ p a r e m i n _ n i n k o _ j o s t a i _ s e m m o s e s t _ p ä r e s t _ m u t _ s e _ e t _ s e _ , _ k y l _ m a r _ s e _ s e m o s t _ s i t t _ o l _ e t _ s e _ , _ s e m m o s t _ v a h v e m p p a _ o l _ e t e i _ s e _ i h a n _ t o m m o s _ t a v a l i s t _ p ä r e t t _ o l l _ e t _ , . _
+_ u s s e i n k i n _ n i i s _ s i t _ p a r i _ p i i k k i _ j a _ k o l m _ o l _ n i i n _ k y l _ n e s _ s e n D ä m _ p i δ ä t t I _ . _
+_ p a h a _ p e s t _ n i i t _ o l _ m u t _ s i l l o n _ k u u l u i _ s i t t _ o i k k e _ s e m m o n e n _ o h j e l m a n _ e t _ l a u a n t a i n _ n e t _ t ä y δ y i _ p e s t _ o i k k e _ h y v ä k s _ o i k k e _ s a n n a n _ k a n s A _ . _
+_ e t _ t u l i v a _ v a l k o s e k s i _ . _
+_ n o _ k y l _ s i l l o _ s i t _ s e v u a k s _ j o u l u n n a k i _ n i n _ k y l _ s i l l o _ s i t _ t o t a _ , _ k o _ s a l l a t i k s _ s a n o t a _ j a _ , _ j a _ s i t _ , _ n o i s t _ j u u r i k k o i s _ t e h t i _ s i t _ s e m m o s _ l a a t i k k o _ . _
+_ e t _ , _ j a _ s i t _ s i l a k o i _ s a - _ , _ s u a l a t t i _ j o k a _ s y k s _ a i k a _ l a i l _ j a _ n i i t _ s i t _ t ä y δ y t t i _ s y ä δ k _ k a n s _ k o n _ e i _ k e r r a _ v o i t _ j a _ l i h a _ , . _
+_ t a i k _ k y l _ m u u n _ k o t o n a n _ l i h - _ , _ s i o i _ t a p e t t i _ j a _ s e _ s i a n _ t a p p a m i n e n _ o l _ k a m a l a _ h o m m a _ . _
+_ p a l j o _ , _ p a l j o _ v ä k k i _ o l _ n i _ m o n t _ s i k k a _ r o - _ , _ t a p e t t i _ v u a t _ p ä ä l l Ä _ . _
+_ j a k _ k o n _ e i _ s i t _ n i i t _ m i l l ä _ s i i h e n _ a i k o i h i _ s i t t _ a m m u t t _ e i k _ m i t t ä m _ m u u k _ k o _ , _ k o h t _ v a a m _ p u u k k o _ k u r k k u _ . _
+_ j a _ n e _ h u u s _ j a _ s e _ o l _ k a m a l a _ t a l k k o t a _ . _
+_ e i _ s i l l o _ v i ä l _ , _ o i k k e n _ y m m ä r e t _ s i t ä _ e t _ n i i t _ m i l l ä _ , _ t a i n u t e t a n k a _ . _
+_ k o _ m i ä s v o i m i _ v a a n _ , _ k i i _ , _ j o k a _ , _ k i n t t u _ j a _ , _ p u u k k o _ k u r k k u _ . _
+_ j a _ s e _ o l _ k o v a _ ä ä n t _ . _
+_ n o _ k y l _ s i t ä _ , _ m o n t _ k e r t t a _ s i l l a l k _ k o _ m u u n k i n _ G o t o n a n _ t a p e t t i n _ k a k s i k i n _ e t _ t o i n e n _ t a p e t t i _ s i t _ j o _ s i i n k _ k o n _ k y l m ä _ i l m a _ r u p e s _ t u l e m a m _ p y h ä m i ä s t e n _ a i - _ k o _ s i ä l _ o _ s i t _ t o i n e _ , _ a i n a k i _ s i t _ j o _ j o u l u k s _ . _
+_ j a _ k a k s _ i s s o n _ , _ t i i n u _ s i t t _ o l _ n i _ n i i h i _ s u a l a t t i _ s i t _ s i t ä _ l i h a _ j a _ , . _
+_ j a _ , _ j a _ s i t t _ u s s e i n k i n _ t a p e t t i _ v i ä l _ t a l v e l l a k i n _ k o m _ p a l j o _ v ä k k i _ o l _ n i n _ t a p e t t i _ v i ä l _ t a l v e l l a k i _ j o k u _ s i k a _ j a _ s i t t e _ j o s _ o l _ , _ k e v ä s t ä _ j ä l i l _ l i h a _ n i _ s e _ p a l v a t t i _ . _
+_ s e _ p a l v a t t i _ s e m _ m a l t t a i n _ t e o n _ y h t e y δ e s _ e t _ t ä l _ , _ m u n G i n _ G o t o n a n _ e t _ p a n t t i _ s i n _ , _ s i n s _ s a u n a n _ k a t t o _ s i t _ n i i t _ , _ l i h a n _ k a p l i _ s i l l a l _ , _ k i l l u m a _ . _
+_ n e k _ k y p s y i _ s i ä l s _ s i t _ k o _ m a l t t a k k i _ . _
+_ j a _ s e _ o l _ s i t _ s e m o s t _ k o _ n y k y i s i n k i n _ t u a _ s a v u s t e t _ l i h a _ o n _ t a i k _ t u a _ j a _ , _ j a _ v ä h ä _ p a r e m p p a k i _ . _
+_ k y l _ m a r _ t e p _ p a l v i l i h a _ s y ä n _ o l e t t E _ ! _
+_ n o _ s i i t _ t e h δ ä m _ m a k k a r a _ j a _ s i i t _ t e h δ ä _ s y l t t y _ j a _ , _ j a _ s i t t E _ , _ t ä ä l s _ s a n o t a m _ p r e t u k s _ s e m m o s t _ k o _ s i i t _ v e r e s _ t e h δ ä _ . _
+_ s e _ o _ s i t ä _ k o _ , _ p a l t t u _ , _ p a l t t u _ s a n o t a n _ k i r j a k i ä l e l l Ä _ . _
+_ s e m m o s t _ k o _ , _ v e r t _ o t e t a _ j a _ p a n n a _ s i i h e _ v e t _ j o u k k o _ j a _ , _ j a _ p a n n u i s _ s i l l a l k _ k y p s e n e t ä _ s i t _ k o _ s e _ r u k k i s i l _ j a o h o i l _ v i ä l _ t e h δ ä _ s e m m o s e k s _ , _ s a k k i a k s _ j a _ , . _
+_ p a n n u i s _ k y p s e t e t ä n _ . . . _ k y l _ s e _ h y v ä _ s i t t _ o n _ k o n _ a i k a l a i l s _ s i i h e _ s a a _ s i a _ r a s v a _ t ä l l ä t _ j o u k k o _ . _
+_ k y l _ s e m - _ , _ s e _ o o _ s e _ s o r t t i s t _ k o n _ o l e t _ n ä h n y k _ k o _ n y k y i s i _ n o i s _ , _ k a u p o i s _ o _ s e m m o s s i s _ k o _ o n _ , _ k o n _ o n _ n i i n k o n _ o i k k e n _ t o m m o s t _ , _ t ä m m ö s t _ k a u h i a _ j o s a _ , _ m u a v i _ s i l l a l _ y m p ä r _ o _ j a _ , _ s i i n _ o _ s e m m o s t _ p u n a s t _ . _
+_ s e _ o _ v ä h ä _ s a m a _ s o r t t i s t _ m u t t A _ , . _
+_ e i _ t u a _ o l _ n i i _ h y v ä _ m a k u s t _ . . . _ k y l _ t ä ä l k _ k a u p a s a k i _ s i t ä _ u s s e _ n y y _ o _ . _
+_ m u t _ k y l _ s e _ o m a t e k o n e _ o l _ p a r e m p p a _ . _
+_ j a _ s i t _ s i i t _ t e h t i n _ k a h δ e l a i s t _ m a k k a r a _ . _
+_ s e m m o s s i n _ i s o i h i _ s u a l i m _ p i s t e t t i _ s i t _ s e m o s t _ , _ v e r i t a i k i n a _ t a i k _ s e m m o s t _ s i t _ k a n s _ k o _ v e r t _ j a _ r u k k i s s i _ j a o h o i _ t ä l l ä t t i _ . . . _ j a _ s e m m o s t _ v i ä l ä k i n _ t e h δ ä _ n y k k i n _ . _
+_ t u a l _ m e i j ä n _ e n t i s e s _ p a i k a s _ t ä s ä _ h i l j a _ s i k a _ t a p e t t i _ j a _ m ä ä k i n _ o l i _ s i ä l s _ s i t _ v i ä l _ j a _ t e h t i _ s e m m o s t _ n y t t y ä _ , _ t a l v e l l a _ . _
+_ j a _ p i ä n e m i s t _ , _ s u a l i s _ t e h δ ä _ s i t _ s e m m o s t _ m a k k a r a _ k o m _ p i s t e t ä _ s e m o s s i _ k a i k k i _ , _ l i h a j ä t t e i _ m i t ä _ s i i t _ s i a s t _ s i t _ t u l e _ n i _ . _
+_ n i i n _ , _ j a _ , _ j a _ k r y y n e i _ k e i t e t ä _ j a _ , _ t e h δ ä _ s e m m o n e _ , _ s e o t u s _ s i t _ j a _ p a n n a _ n i i h i m _ p i ä n e m p p i _ s u a l i n _ . _
+_ k y l _ s e m m o s t _ , _ s e v u a k s _ m y y δ ä n k i _ j a _ , _ s e m m o s t a k i _ m a k k a r a _ . _
+_ j a _ s i a m _ p ä ä s t _ s i t _ t e h t i _ s e m o s t _ k o _ s a n o t t i _ s y l t y k s I _ . _
+_ s e _ o o _ s e m m o s t _ s i t t _ e t _ s e _ o _ h i u k a _ s e m m o s t _ h y y t e l ö _ t a i k _ s e m m o s t a _ . _
+_ e t _ s e _ o n _ , _ k o _ s e _ s i a m _ p ä ä _ o _ s e m o s t _ e t _ s e _ s i l l a l _ m i ä l e l ä s _ h y y t y _ k o n _ , _ j a _ s i h e n _ , _ p i s t e t ä _ s i t ä _ k e i t i v e t _ s i t _ j a _ v ä h ä _ n i _ s e _ o l _ o i k k e _ s i l l a l _ e t _ s i t ä _ , _ p i s t e t t i n _ , _ m ä ä k i n _ o l e m _ p r u u - _ , _ s i l l a l _ s e m m o s s i _ m a t a l o i h i n _ a s t i o i h i n _ e t _ s e _ s i l l a l _ s i t _ h y y t y _ . . . _ n o _ s e _ s a a _ s i i t _ s i t _ v a i k _ p o i s _ t y h j e n t t ä _ j o h o n k k i _ v o i p p a p e r i m _ p ä ä l _ n i _ s e _ o n _ i h a _ s e m m o s t _ , _ h y y t e l ö _ . _
+_ j a _ s i i n _ o _ s i t _ , _ s i i n _ o _ s i t ä _ l i h a _ s i t _ s i t ä _ s e m m o s t _ k o n _ , _ p ä ä s _ t u l e _ s e m m o s t _ v ä h ä _ h u a n o m p p a _ . _
+_ j u u _ . _
+_ n e k _ k a r v a _ . _
+_ n e e h _ h a r j a k s e _ . _
+_ n o _ s e _ k ä v e i _ s i l l a l k _ k u m m i n k i _ s i h e n _ a i k k a _ m a i l m a _ s i t _ k o n _ , _ k o n _ s i k a _ t a p e t t i _ s i t _ j a _ , _ j a _ s e _ s i i n s _ s i t t _ a i n _ t i ä s i k i n _ k o _ , _ m i s ä _ t a l o s _ s i i k - _ , _ s i k a l a h t _ o n _ k o n _ a a m u s t _ p i m i ä m p ä i t e j _ j o _ v a l u _ u l k o n n _ o l i _ . _
+_ v a l k e a _ u l k o n n _ o l _ s e m m o n e _ . _
+_ k o _ v a n h a n _ a i k k a n _ o l _ s e m m o s e s _ s a h a s p u k i k s _ s a n o t t i n _ k o _ , _ k o n _ k ä s i _ s i t _ n o i s t _ , _ s u u r i s _ t u k e i s t a k i _ n i _ o - _ , _ s a h a t t i n _ , _ l a u t t a _ . _
+_ k ä s i n _ k o t o n _ m i ä h e _ ! _
+_ t o i n e n _ t u a l _ y l h ä l _ j a _ t o i n e n _ a l h a l _ j a _ s e m m o s t _ l a u t t a _ . . . _ n e _ o l _ s e m m o s e k _ k o _ s a h a s p u k i k s _ s a n o t t i _ n i _ , _ n i _ s i t _ s e m m o n e _ , _ s i t _ s i k a _ p a n t t i _ s e m m o s s e n _ n i i n k o _ j o t t a i _ s e m m o s e s t _ , _ n i i t t e _ s a h a s p u k k e i _ v ä l i m _ p a n t t i _ s e m m o n e _ , _ j o k u _ h y v i _ v a h v a _ p u u _ s i t t E _ . _
+_ j a _ n e _ , _ s i a n _ e t u s o r k a _ j a _ , _ k a i k _ j a l a _ j a _ t a k a s o r k a _ n e _ s i l l a l k _ k ö y t e t t i _ j o l l a i n _ , _ o h j a s n a r u l l _ y h t e _ j a _ , _ j a _ s e _ p u u _ p a n t t i _ s i t _ s i i t _ n i i n G o n _ , _ t ä l l ä i l k _ k o n _ s i a n _ t ä l l ä l _ n y _ o l i s i _ s e _ , _ s i l l a l _ m a h a _ , _ s e l k _ a l a s p ä i _ s i t _ p a n t t i _ s i h e n _ k i l l u m a _ s i l l a l s _ s i t t e _ . _
+_ j a _ o l j i s _ t e h t i _ v a l u _ a l l a _ . _
+_ j a _ , _ n e _ , _ h a r j a k s e s _ s i l l a l _ s i t _ , _ k ä r v e n e t t i m _ p o i s _ . _
+_ m u t t _ e i _ s e _ s i t _ v i ä l _ p u h t a k s _ t u l s _ s e _ v i ä t t i _ s i t _ v i ä l _ , _ s i t _ s i n _ n i i n _ , _ s a u n a n _ t a i k _ s a u n a m p o r s t o n _ k o _ s i ä l s _ s i t _ m u u r p a δ a s _ , _ k u u m a _ v e t t _ o l _ n i _ , _ s i t _ s e _ s a n o _ e t _ s i t _ s a n o t t i _ v i ä l _ e t _ s e _ k a l t a t a _ s i t _ v i ä l _ e t _ k y l _ s e _ s i t _ v i ä l _ t ä y δ y i _ . . . _ j a _ r a a k a t a n _ . _
+_ t e r ä v ä l p _ p u u k k o l s _ s i t _ n e _ , _ v i ä l _ n e _ l o p u p _ p o i s _ . _
+_ m u t _ s e _ e t _ k y l _ n y k k i _ v i ä l _ s i t _ k a l t a t a _ m u t t _ e i _ p o l t e t a _ . _
+_ n o _ e m _ m ä ä _ t i ä δ _ j o s _ s e _ . . . _ e i _ s e _ s e v v u a k s _ p a l a n n U _ . _
+_ e i _ n i i s t _ o l j i s t _ s i t _ n i i n _ k o v a _ v a l u _ j u u r _ t u l l _ e t _ s e _ m i t t ä _ i h a m _ p a l o i _ . . . _ k y l _ s i i h e n _ n y t _ k o _ , _ l i h a n k a p l i _ l e i k a t t i _ n i n _ k y l _ n i i s _ s i t ä _ n a h k a _ o l _ n i i n k o _ n y k k i _ . _
+_ k y l _ s e _ s e m m o s t _ , _ s e m m o s t _ s i t t _ o l _ e t _ , _ s e m m o s t _ v a n h a n _ a i k k a i s t _ m e i n i n k k i _ m u t _ , _ e i _ s i l l o n _ o l s _ s i t _ , _ m i t t ä _ m u u t a k a n _ t i a t t o _ . _
+_ n o _ k y y l _ s e _ , _ s e _ v ä h ä _ s i t _ s i i t _ j a _ , _ r i i p u i _ m i m m o s t _ l a i j a k i n _ o l i v a _ e t _ k y l _ m a r _ , _ p i ä n i s t _ j a _ h u a n o i s t _ l a m p p a i s t _ s i t _ t u l _ v ä h e m ä _ m u t _ , . _
+_ k y l _ m e i l l ä k i _ s i t _ t u a l _ j o _ o l _ h y v i _ l a m p p a i _ k o _ m e t _ t u a l _ o l i n _ e t _ k y l _ n i i s t _ s e n t ä n _ a i n a k i n _ , _ k i l o _ , _ k e r r a l l e s _ t u l _ k o n _ k e r i t t i _ . . . _ j a _ k o l m k _ k e r t t a _ v u a t t e s _ k e r i t t i _ . _
+_ n o o _ , _ a i n a k i n _ G e r i t t i _ s i t _ t ä l l ä l _ j u h a n - _ , _ j u h a n u k s e n _ a i k o i s _ u s s e i n k i _ s i t _ k e r i t t i _ j a _ s i t _ j ä l l e _ s y k s y l _ k o _ n a v e t t o n _ o t e t t i _ j a _ , . _
+_ j a _ s i t t _ u s s e i n k i _ l a s k i a i s t e n _ a i k o i s a _ . _
+_ k y l _ m u u n _ k o t o n a n _ s i l l o n _ k o m _ m e i l _ s i t _ k o n _ , _ v ä l i n _ o l _ n i i n _ k a u h i a s t e _ l a m p p a i _ s i t t e _ k o n _ , _ k o _ n i i t _ k a r k o i _ t u l _ s i t _ j o k a _ v u a s _ n i n _ e i _ n e s _ s i t _ t a h t o n u _ o i k k e _ h y v i _ o l _ . _
+_ m u t _ k o n _ t u a l k _ k o _ m e k k i _ o l i n _ n i n _ e i _ m e i l _ , _ o l k _ k o _ j o k u _ n e l i _ v i i s _ l a m m a s t _ j a _ n i i t _ s i t _ s a a t t i _ , _ s e n t ä _ s i l l a l s _ s ä ä n n ö s t e l t t y _ e t e i _ n i i t _ k a r k o i _ a i n _ t u l _ n i _ . _
+_ e m ä k _ k ä r s i _ s i l l o n _ k o n _ k a r k o i _ t u l e _ . _
+_ e t _ k y l _ m e i l s _ s i t _ j o _ t u a l _ m u t _ s i t t e _ k o n _ e i _ p i r e t _ n i i t _ s i t _ n i m _ p a l j o _ n i _ , . _
+_ e i k _ m e i j ä n _ i k ä _ s e n _ e n e m p p ä _ s i t _ , _ m i t t ä _ m u u k _ k o _ , _ o m a k s _ t a r p p e k s _ v i l l o i _ t u l l u _ . _
+_ t o t a k i _ m ä ä _ t a i s _ . . . _ t o h o _ m ä ä _ v a h e t i _ s i l l o _ , _ a i n a k i n _ t o s a _ o n _ , _ k y m m e n e n _ k i l o _ v i l l o i _ t ä s ä _ m a t t a s A _ . _
+_ j a _ s i t t _ o _ v i ä l _ m u i t _ , _ t y k ö t a r p p e i _ e t _ s a a t t i _ . _
+_ n o _ k y l _ n i i t _ u s s e i n k i _ k o _ n i i t _ t a l v e l _ s i t _ , _ u s s e i n k i _ n i i t _ t a l v e l t _ t u l _ n i i t _ k a r k o i _ n i n _ k y l _ n e s _ s y k s y l _ k e r i t t i _ . _
+_ e i _ n i i t _ o i k k e _ s u v e l s _ s i t _ v i ä l _ k e r i t t y _ . _
+_ e t _ e i _ n e _ m i t t ä _ s i t _ v i ä l _ v u a δ e _ v a n h o j a k a n _ o l l u _ . _
+_ k y l _ m a a r _ j o k u s e s _ s i l l a l s _ s i t _ k o n _ t u l _ n i n k o _ s y k s y l _ j o _ k a r k o i _ n i n _ k y l _ m a r _ n e k _ k e r e i v ä _ n e s _ s i t _ j o _ k e v ä s t e n _ k o n _ k u u m a _ i l m a t _ t u l i v a m _ m u t _ . _
+_ m u t _ k y l _ m e i j ä n _ u s s e i n k i n _ o l _ s i t _ s i l l a l _ e t _ n i i t _ t u l _ t a l v e l _ v a s t _ s i i n k _ k e v ä t t a l v e s t _ n i n _ e i _ n i i t _ s i t _ k e r i t t _ e n n e n _ k o _ s y k s y l l ä _ . _
+_ m u t _ n y y _ e i _ o l t _ t ä s ä _ k y l ä s ä k ä _ e n ä _ m o n t t a _ l a m m a s t A _ . _
+_ k y l _ , _ k a k s _ t a i k _ k o l m p _ p a i k k a _ m ä _ t i ä δ ä n _ k o _ v i ä l _ o _ . _
+_ m u t t _ e i _ n i i s _ m o n - _ m - _ , _ o m _ m a r _ s e n t ä n _ t o s a _ M a l o n _ t a l o s _ o _ v i ä l _ m o n t _ l a m m a s t A _ . _
+_ k y l _ m a r _ t e _ m a l o l a i s s i _ j a _ h a a s t a t e l l _ o l e t t E _ ? _
+_ j a a _ . _
+_ m ä _ a j a t t e l i n _ k o _ , _ M a l o l l _ o j _ j a _ s e m m o n e _ , _ v a n h _ p a r i _ e t _ n i i t t e n _ y h t e l a s k e t t _ i k ä _ o _ v ä h ä _ e n e m ä n _ k o _ m e i j ä _ . _
+_ e i _ . _
+_ n e _ o _ N a k k i l a s _ s y n t y n n Y _ . _
+_ j a a h a _ . _
+_ j u u u _ , _ s e _ o _ s i t t _ e r i _ a s i _ . _
+_ n o _ j u u _ . _
+_ n i i t t e n _ t ä y t y _ k - _ , _ j a l a _ k - _ , _ s i t t o _ . _
+_ k o _ n e _ , _ k o n _ , _ l a m p p a l _ k e r r a _ n e l i _ j a l k k a _ o n _ n i _ n e t _ t ä y t y _ s i t t o k _ k a i k _ y h t e _ j a s s a k k a _ . _
+_ m u t t _ e n s i _ s i t _ s e _ m a h a n _ a l u s t a _ n i _ s e n _ t ä y δ y _ s i t _ s a a δ k _ k e r i t y k s _ i l m a n _ k o _ n e s _ s i i m _ m a h a n _ a l t p ä i _ s i t _ p a r e m m i _ n i n k o n _ n e _ , _ j a l a s _ s i t _ k i i n i t e t ä _ s i t _ k o _ n e _ , _ y h t e _ j a s s a k k a _ n e _ , _ s i δ o t a _ n i i n _ e i _ s i t t _ o l i s k a n _ e n ä _ , _ m a h a n _ a l u s t a _ k e r i t t y _ e t _ s e n _ t ä y t y _ s i _ , _ s a a δ k _ k e r i t t y _ i l m a n _ . _
+_ m u t _ s i t _ v i ä l _ p i s t e t t i n _ n e l _ l a m p p a n _ e t u j a l a t _ t ä l l ä l t _ t ä n _ n ä i j _ j a _ , _ j a _ t o s a _ k o e t e t t i _ s i t _ k e r i k _ k o v a s t e _ s i t _ s i t ä _ m a h a n _ a l u s t a _ j a _ , _ p i δ e t t i _ s i t _ v a a r i _ e t e i _ s e _ s a a n t _ t a k a j a l k k a i n _ k a n s _ r u v e t _ o i k k e _ , _ s i l m i _ a i n a k a m _ p u h k o m a _ . _
+_ m u t _ k y l _ s e _ s i t _ j o _ , _ k i v a s t e n _ k ä v e i _ k o _ , . _
+_ a i n a k i _ m ä ä _ p r u u k k a s i n _ k e r i s _ s i l l a l _ s i t _ e t _ k o _ n e n _ , _ j a l a s _ s i t _ s a i _ k i i s _ s i n _ , _ n i _ a i _ s i t _ k o - _ , _ k a o l a s t _ a l k o i n _ , _ k e r i m ä _ . _
+_ j a _ s i t _ , _ t o i s e _ , _ s i t _ k a o l _ , _ k a o l a _ s i t _ , _ k a o l a s t _ a l k o j _ j a _ k e r e i n _ s i t _ s i l l a l _ n i n k o _ , _ s e l k - _ , _ s e l k ä r a n k a s t _ s a a k _ s i t _ s i i h e _ m a h a n _ a l s _ s a a k k a _ , _ j a _ n e _ , _ j a l a j _ j a _ k a i k _ , _ j a _ s i t _ k ä ä n e t t i n _ s e n _ k y l k k i _ j a _ k e r i _ t o i n e m _ p u a l I _ . _
+_ m u t _ k o _ i s o _ l a m m a s _ o n _ n i n _ k y l _ s i t _ t ä y δ y i _ v ä l i n _ k ä ä n t t ä s _ s i l l a l _ e t _ , _ e i _ s a a n t _ t a k a p u a l t _ k e r i t t y _ i l m a n _ e t e i _ k ä ä n t ä n _ . _
+_ j a _ s i l l o m _ p a n t t i _ s i t _ v ä h ä _ s e m m o n e n _ k a m a l e m p _ h a m e _ y l k _ k o _ m e n t t i n _ k e r i m ä _ . _
+_ k y l _ s e e _ h y v i _ s i t _ j o _ k ä v e i _ k o _ s i i h e n _ t o t u i _ . _
+_ e i _ s i i n _ n i n _ k a u v a _ v i i p y n k _ k o _ a i n _ y h δ e _ l a m p p a n _ k e r e i _ . _
+_ m u t _ k y l _ s e _ o p - _ , _ o p - _ o p p i - _ , _ o p e t t e l e v a i s e l t _ h u a n o s t _ k ä y _ . _
+_ n o o k _ k y l _ s e _ t a v a l i s e n _ t a r k k a _ k o _ s i i n _ o l _ s i t t _ o i k k e _ s i t ä _ v a r t e _ s e m m o s e s _ s a k s e _ . _
+_ s a n o t t i _ l a m p p a r a o δ o i k s _ e t t e i _ n e _ o l t _ t o m s e t _ t a v a l i s e s _ s a k s e k _ k o n _ , _ j o k a _ p e r h e l l _ o n _ k o _ n e _ o l _ v ä h ä _ e r i l a i s e _ . _
+_ m u t t _ e i _ m e i l ä k ä n _ o l t _ t ä m p _ p ä ä l k _ k o _ j ä i v ä s _ s i n k _ k o t t i k _ k o n _ , . _
+_ k y l _ s e e _ h y v i n _ k ä v e i _ k o _ v a a n _ n i i l l _ o l _ h y v ä _ . . . _ o l _ v a a n _ t e r ä v ä r _ r a o δ a _ . . . _ n e t _ t ä y δ y _ , _ t ä l l ä t _ t e r ä v ä k s _ m u t t a _ s i t ä _ t ä y δ y i _ s i t _ j a _ v a r o _ e t _ k y l _ n e t _ t a v a l i s e _ n u u k a s t e _ s a a t t i _ m u t _ t ä y δ y i _ s i t ä _ v a r o t _ e t e i _ l e i k a n s _ s i i h e _ n a h k a h a n _ , _ r e i k k ä _ . _
+_ v a i k k _ e i _ s e _ m i t t ä _ s e v v u a k s _ s i t _ v a i k _ s i i h e _ v ä h ä _ r e i k k ä k i _ m e n _ k o n _ k a r - _ , _ s e m m o s i s _ k a r i t s o i s _ o l _ k u m m i n k i n _ , _ s e e _ s a n o t t i _ e t t _ o n _ n a h k _ h e l t a s _ e t _ n i i h i _ m e n _ m i ä l e l ä s _ r e i k k i _ m u t _ , _ k y l _ l a m p p a _ s e m m o n e _ n a h k _ t a i k _ s e m m o n e _ , _ h a a v a s _ s i t _ p i a m _ p a r a n u i _ . _
+_ m u t t _ o n _ s e _ i l k k i ä _ m u u t o _ s i t t E _ . _
+_ e t _ k y l _ k o e t e t t i _ e t e i _ o l i s _ m e n n Y _ . _
+_ n i i n _ G o m _ p o t k e i v a k _ k a n s A _ . _
+_ o l _ k y l _ e i _ n e _ j a _ t o i n e _ l a m m a s _ s i t _ k o n _ o l _ a r k e m p _ t o l l a l _ m u u t o n k i _ , _ p e l k k ä m ä n k i _ i h m i s t _ n i n _ k y l _ m a r _ s e _ s i t t _ e n e m ä _ v i ä l _ s i t t E _ , _ p o t k e i _ j a _ , _ v ä h t ä s _ m u t _ , _ s e m n e n _ k o _ o n _ , . _
+_ m ä ä k i _ s i t _ p r u u k k a s i n _ k u m m i n k i _ s i l l a l _ e t _ , _ t a v a l i s e s t _ j o k a _ p ä e v _ a n n o i n _ a i _ h i u k a _ l e i p p ä _ n i n _ n e _ o l _ s i t _ n i i l _ l a k k i o i _ . _
+_ k y l _ s e _ v a n h a n _ a i k k a _ v ä h ä _ s e m m o s t _ m o n i p u a l i s t _ s e _ , _ s e m m o s e m _ p i ä n e m ä _ h u u s h o l l i n _ , _ m u i j j a n _ t o u h u _ o l i v a _ e t _ , _ k y l _ s i i n _ v ä h ä _ k a i k k i t a i t u r _ t ä y δ y i _ o l l a _ . _
+_ j o s _ l a p s e t _ t u l i v a k _ k i p p i ä k s _ n i n _ k y l l _ e n s i a v u n _ t ä y δ y i _ o s a t _ a n t t a _ , _ e i _ s i i t _ k o h t _ l ä ä k ä r i n _ t y ä _ l ä h δ e t t y _ . _
+_ e t _ k y l _ m o n t _ k e r t t a _ t u l _ s e m s s i _ t a p a u k s i _ e t _ v ä h ä _ , _ j o _ a j a t t e l _ e t _ , . _
+_ m u i s t a _ s i l l o n k i _ k o _ m e i j ä _ s i t ä _ U u δ e n t a l o _ s i t ä _ r i v i _ r a k e n e t t i n _ k o _ s e _ o l _ U u s - _ , _ U u δ e n t a l o _ n i m i n e _ m i s t _ m e m - _ m i s ä _ m e _ o l i _ n i n _ k a u v a _ n i _ , _ t u a _ t y t ä r _ j u u r _ k o n _ D ä s ä _ k ä v e i _ k o _ m e i j ä n _ t e h t i _ s e m m o n e _ , _ t e h t i n _ k a k s _ , _ h u a n e t _ n i _ l a o δ a s t _ , _ s i l l a l _ e t _ , _ k o l m _ l a u t t a _ s i l l a l _ p a n t t i _ e t _ t o m m o n e _ r a k o _ j ä i _ . _
+_ j a _ h ä ä n _ o l _ s i l l o _ s i t _ s e m m o n e _ j o k u _ n e l j ä n _ i k k ä n e _ j a _ m e n _ s i n _ v i n t t i _ j a _ a s t u i _ s i n n E _ , _ r a k k o _ . . . _ n o _ s i ä l t _ r e v ä s _ s i t t E _ , _ n a o l _ s i l l a l _ e t _ , _ o i k k e n _ k a u u h i _ h a a v _ m e n _ s i t _ s ä ä r e _ . _
+_ v i ä l _ , _ t ä l _ h a a v a _ s e _ a r p _ n ä k y _ v a i k _ h ä n _ t ä y t t ä _ n e l i k y m e n t _ v u a t _ t ä l _ v i i k k o _ . _
+_ o i k k e _ , _ n o _ e i _ s i t _ m i k k ä m _ m u u _ k u r i _ a u t t a n _ k o n _ s i ä l t _ v i n t i s t _ s i t _ t u l _ a l a s _ n i _ n i n _ k a u h i a s t _ s i t _ v e r i _ j u a k s _ j a _ , _ e m _ m ä ä _ m i t t ä m _ m u u t _ y m m ä r t ä n s _ s i t _ k o _ , _ p u h t a _ l i i n a s e _ v a a t t e n _ k a s t i n _ k y l m ä _ v e t t e _ j a _ , _ j a _ o t i _ s y l y n _ s i t _ j a _ o i k k e m _ p i u k k a _ s e _ s i i h e _ s i t t E _ , _ t ä l l ä s i _ . _
+_ j a _ e i _ m i h i n k k ä _ m i t t ä _ n e o l o m a _ m e n t t y _ , _ e t _ k y l _ v a a _ s i i t _ s i t _ p a r a n n u i _ . _
+_ a n n e t t i _ m o n t t a _ v y ä _ o l s _ s e _ s a m a _ r - _ , _ s i t _ s e _ s a m a _ k ä ä r e _ s i i n _ . _
+_ e t _ k y l _ s i t ä _ , _ s e m o s s i _ s i t _ j a _ n i i n _ k o _ s a n o i _ . . . _ j a _ s i i h e n _ a i k k a n _ o l _ s i t _ v i ä l _ s i i t t ä k i n _ k a m a l a _ e t t _ a i n _ o l _ k o v a _ p e l k _ k o n _ o l _ n i i m _ p a l j o n _ k ä r m e i j Ä _ , _ m e i j ä _ n u r k i s _ . _
+_ v ä l i l _ n ä h t i _ m o n t _ p ä e v ä s _ . _
+_ m u t t _ e i _ n e k _ k e t t ä n _ k o s k a _ s e n D ä m _ p i s t ä n n Y _ . _
+_ k o _ m e i j ä n _ o l _ s e _ , _ p a i k _ s i ä l _ s i l l a l _ e t _ s i ä l t _ o m _ , _ p u a l e n _ k i l o m e t r i _ m a a n t i ä l _ m a t k a _ m u t _ s e _ e t _ m a a n t i ä l t _ s e _ n ä k y _ k y l l Ä _ , _ s e _ m e i j ä n _ , _ t a l o _ s i ä l _ n ä y _ j a _ , . _
+_ v ä l i s t e n _ k o n _ o i k k e n _ o l _ t ä m m ö n e n _ k u u m a _ s u v i _ n i n _ , _ n i _ n ä k _ p a r i _ k o l m _ e n n e n _ k o _ m a a n t i ä l p _ p ä ä s I _ . _
+_ j a _ k y l _ s i ä l _ n y _ t ä n ä _ s u v e n k i n _ o _ n ä h t Y _ . _
+_ k y y l _ s i t ä _ j o s k u s _ v a n h a n _ a i k k a m _ p a u h a t t _ o _ . _
+_ n o _ e m _ m ä ä _ t i ä δ _ e m _ m ä ä _ , _ s e _ e t _ n i i n k o n _ j o k u _ o l i s _ n u k k u n _ j a _ o l i s _ m e n s _ s u u s t _ s i s ä l l E _ . _
+_ m u t t _ e m _ m ä _ t i ä δ _ o l l e k _ s e m m o s t _ s i t _ , _ e m _ m ä ä _ , _ s e m m o s t _ u s k o _ . _
+_ k y l l _ e n n e _ s e n t ä _ h e r ä _ e n n e n _ k o _ s e m n e _ m e n e _ . _
+_ e i _ k u k k a _ n i i _ r a s k a s t e _ n u k u _ . _
+_ k y l _ s e _ s u k k e l a _ o n _ k o _ s e m m o s i _ k a - _ , _ k ä r m e i _ o _ j a _ n e _ o _ , _ k y l _ m ä ä _ p e l k k ä _ s i t _ k a u h i a s t e _ k o _ m e _ , _ m e i j ä n _ t u l e _ n y v _ v i i s _ v u a t _ k o _ m e _ o l e n _ t ä s ä _ o l l u t _ t ä s ä _ h u u s h o l l i s _ j a _ , . _
+_ j a _ s i l l o n _ e n s m ä i s e n s _ s u v e n k _ k o n _ e m _ m ä ä _ s u n G a n _ y m m ä r t ä n _ l a i n G a n _ e t _ t ä ä l _ m i t t ä n _ k ä r m e i _ o _ j a _ k o n _ t u l _ m e i j ä n _ k e l l a r i n _ . _
+_ k o _ m ä ä _ m e n i n _ k e l l a r i s t _ h a k e m a m _ p e r u n i _ n i n _ k ä r m e _ l - _ , _ o l _ s i i n _ , _ k e s k e l _ l a a t t i a _ . _
+_ j a _ m ä ä _ p e l j ä s t y _ n i i m _ p a l j o _ j a _ , _ m u t _ s e _ m e n _ s i n _ , _ t ä m ä k i _ m e n e _ t o h o _ n y _ , _ s e _ m e n _ s i n _ l a a r i n _ a l _ j a _ , _ e i _ m e i l _ o l k _ k e t t ä n _ k o t o n k _ k o _ m ä ä _ y k s i _ j a _ e m _ m ä ä _ u s k a l t a n _ r u v e t _ m u t _ , _ s i t _ m ä _ j o _ a j a t t e l i n _ k o n _ t o s a _ , _ t o s a _ t o r p a s _ k o n _ t o s a _ o _ n i n _ s i ä l l _ o l _ k a k s _ p o i k k a _ e t _ m e n e n k _ m ä _ h a k e m a _ s i ä l t _ a p p u _ m u t _ s i t t _ i s ä _ r o o k a s _ t u l k _ k o t t i _ j a _ m ä ä _ s a n o i n _ e t _ n y _ , _ m ä ä _ n ä i n _ k e l l a r i s _ k ä r m e j _ j a _ e m _ m ä ä _ u s k a l _ e n ä _ m e n n _ i k ä m _ p e r u n i _ h a k e m a _ j a _ , . _
+_ j a _ , _ n o _ h ä n _ s a i _ s e _ s i ä l t _ k i i n I _ , _ j a _ t a p o i _ . _
+_ e i _ s e _ , _ h ä n _ o l _ o t t a n u _ j o n k u _ s e m o s e n _ , _ t e r ä v ä n _ k ö p i _ j a _ s a i _ s e _ s i ä l t _ v e r e t t y _ p o i s _ . _
+_ m e i j ä n _ i s ä _ o n _ t ä n ä _ s u v e n k i n _ k a k s _ k ä r m e t _ t a p p a n _ m u t _ v a a _ s i ä l _ , _ m e i j ä n _ , _ e n t i s e m _ p a i k a _ , _ n u r k i s a _ . _
+_ t a i k k _ e i _ k o _ m e i l l _ o n _ t u a l _ , _ v i i δ e n _ k i l o m e t r i m _ p ä ä s _ n i _ m e i l l _ o _ s i ä l _ v i ä l _ p e l t t o _ k a - _ , _ j a _ t o r p p A _ . _
+_ m u t t _ e i _ s i ä l _ a s _ k u k k a n _ e i k _ a s u k k a n _ k o _ v i i s _ k i l o m e t r i _ m e t ä _ s i s ä l _ . _
+_ s i ä l ä _ h ä n _ o l _ t a p p a n s _ s u u l i s t _ y h δ e n _ k ä r m e _ j a _ , _ t ä n ä _ s u v e _ . _
+_ m u t t _ e m _ , _ e m _ m ä ä _ o i k k e n _ u s k a l t _ t a p p a _ . . . _ m u u n _ r u p p e _ p a r i s - _ , _ v ä r i s e m ä n _ k a i k _ p a i k k a n _ k o _ m n ä ä _ n ä e _ s e m m o s s e n _ . _
+_ m u t t _ e m _ m ä ä _ u s k _ e t _ t ä s ä _ o n _ n y _ , _ e i _ k u k k a _ n ä i s t _ n a a p u r e i s t a k a n _ o l s _ s a n o n _ e t _ t ä n ä _ s u v e n _ o l i s _ o l l u _ . _
+_ n o _ k y l l _ a i _ s e m o s t a k i _ s a n o t t i _ m u t _ k y l _ s e n _ t ä y - _ , _ k y l k _ k u a l e _ k o _ v a a m _ p ä ä _ p o i s _ h a k a t a _ . _
+_ m u t _ k y l _ n e s _ s t ä _ s a n o n u _ o m _ m u t _ m ä ä _ t i ä δ _ o l i k _ s e m m o s e s _ p e r ä _ e t _ s e _ u s s e i m m a m _ p ä e v ä _ s e l l a l _ e t _ s e _ v i ä l _ s i t _ s e _ , _ h ä n t ä p ä ä _ h e i l u i s I _ , _ v a i k k _ e _ o l e k k a m _ p ä ä t ä _ . _
+_ m u t t _ e m _ m ä ä _ s u n G a m _ p a n u s _ s i l l o _ m e r k i l k _ . . . _ k y l _ h ä n _ s e n _ t o i _ t o h o n _ k o n _ t o s a _ , _ t o t a _ , _ m e i l _ t o s a _ n o i t _ t o m o s s i _ k a i k k i _ , _ t y n n y r e i _ n y y _ o _ m u t t _ e i _ n i i t _ s i l l o n _ o l _ . . . _ n i i n _ k y l _ h ä _ s e _ s i i h e n _ t o i _ j a _ s e _ s i i n _ o l _ u s s e m a n _ a j a _ m u t _ , _ e m _ m ä ä _ s u n k a n _ o t t a n _ v a a r i _ j o s _ s e _ s i t t _ e n ä _ h ä ä l y t t e l I _ . _
+_ v a r e k s e s _ s e _ s i i t _ s i t _ j o s k u s _ v e i v ä _ . _
+_ e i _ l a m p p a i s t _ m i t t ä n _ k a l j a _ s a a δ a _ . . . _ e i _ l a m p - _ , . _
+_ j a a _ n i n _ t a l i _ ! _
+_ k y l _ , _ n i i n _ s i t ä _ s a n o t t i _ l a m p p a _ h ö y s t ö k s I _ , _ s e m m o s t _ l a m p p a _ r a s v a _ . _
+_ s i t ä _ s a n o t t i _ v a n h a n _ a i k k a _ h ö y s t ö k s I _ . _
+_ e m _ m ä ä _ t i ä δ _ o i k k e _ m i s t _ s e m m o s t _ , _ m i s t _ s e m m o s t _ t a l i _ m a h δ o i _ t u l l A _ . _
+_ n o _ k y l l _ a i _ n i i t ä k i _ s i l l o i n _ , . _
+_ e m _ m ä ä _ o l _ i k ä _ n ä h n y k _ k y n t t i l ö i _ t e h t ä v ä n _ . _
+_ m ä ä _ o l e _ s e v _ v e r r a _ v i ä l _ , _ n u a r e - _ , _ j o _ n u a r e m p p a _ p o l v i _ . _
+_ m u t _ k y l _ m u n k i n _ k o t o n a n _ s e m m o n e n _ k i r n u k i n _ o l _ . . . _ j a _ h ä n e n _ k o t o n a s k i n _ k o n _ , _ k o _ n i i t _ o n _ t e h t y _ . _
+_ j a _ h ä n n _ o n _ t a i n _ n ä h δ ä k i n _ G o n _ o n _ k a s t e t _ k y n t t i l ö i _ . _
+_ s i i n _ o n _ s e m m o n e _ l a n k a _ s i t _ j a _ s i h e _ , _ s i t ä _ , _ j o n k u _ , _ k ö p i m _ p ä ä s _ j a _ s i t ä _ k a s t e t a _ s i t _ s i n _ , _ k u u m a r _ r a s v a h a j _ j a _ s e _ a i _ l i s s ä n t y _ j a _ l i s s ä n t y _ j a _ v i i m m e i n _ t u l e _ s i t _ k y n t t i l ä _ v a h v u n e _ . _
+_ e m _ m ä ä _ o l k _ k y l _ n ä h n t _ t e h t ä v ä _ m u t t _ o l e n _ k u u l _ e t _ n i i t _ s i l l a l t _ t e h δ ä _ . _
+_ m u t _ m ä ä _ e n _ t i ä δ _ e t _ o l i k s _ s e _ l a n k k a _ , _ m a h δ o i k s _ s e _ l a n k a k i n _ o l s _ s i t _ j o t t a i _ h i u k a n _ , _ e r i l a i s t A _ . _
+_ m ä ä _ o l e n _ k u u l _ j u t t u _ e t _ k y n t t i l ä s y δ ä n l a n k k a _ . _
+_ k y l _ s e _ p u m B u l l a n k k a _ o n _ t ä y t y n _ o l l A _ . _
+_ k y l _ m ä ä _ s i t ä _ o l e n _ G e i t t ä n n Y _ . _
+_ s e e _ o o j _ j a _ v ä h ä _ s e m m o s t _ t ä r k k i ä _ t y ä t Ä _ . _
+_ e m _ m ä ä _ o l _ o l _ m i k k ä _ m e s t a r _ k y l _ s i i h e m _ m u t _ j o _ , _ s i l l o _ s i t _ k o n _ a i _ , _ a i _ s i t _ s e m o s e s t _ k o _ s i t ä _ n i i t _ s i o i _ t a p e t t i _ n i _ s i i t _ s i t _ s e m m o s t _ j ä t e r a s v a _ t u l _ t a i k _ s e m m o s t _ k o n _ e i _ n i i n _ i h m i s i l l ä k ä _ s i t _ k e l v a n n U _ . _
+_ j a _ m u u t o n k i _ s i t ä _ o t e t t i _ s i t _ v a a v _ v a i k k _ o l i s _ t a r v i t t u k i n _ k o _ s a i p u o t _ j a _ t a r v i t t i _ . _
+_ m u t _ m ä ä _ o l e n _ s e n _ u n h o t t a n k _ k o _ s i i t t _ o n _ n i i m _ p a l j o n _ a i k k a _ e t _ m ä ä _ e _ l a i n k a _ m u i s t _ e t _ k o n _ s i i h e n _ t a l v i t - _ , _ t a r v i t t i _ s i t _ l i p p i k i v i _ t a i k _ s e m m o s t A _ . _
+_ m u t t _ e n _ h i u k k a k a n _ e n ä _ m u i s t _ e t _ k u i p _ p a l j o _ s i t ä _ t ä l l ä t t i _ n i i n k o _ , _ r a s v a k i l o _ p ä ä l l Ä _ . _
+_ m u t _ s e n _ t i ä δ ä n _ e t _ v ä h ä s - _ , _ v ä h ä _ , _ a i k a l a i l s _ s i t ä _ t ä l l ä t _ t ä y δ y _ j a _ m y ä s _ s i t _ t ä y δ y i _ t ä l l ä t _ h i u k a _ v e t t Ä _ . _
+_ j a _ , _ j a _ k a u v a n _ k e i t t ä _ , _ e m _ m ä ä _ , _ e m _ m ä ä _ o i k k e _ e n ä _ m u i s t _ . . . _ s i i t t _ o _ n i _ , . _
+_ j a _ e n k _ m ä ä _ s i t ä _ s i t _ k o _ m ä ä _ k e i t i _ s e m m o s t _ k o _ s a n o t t i _ s o o p p a k s _ v a a n _ e t _ s e _ o l _ s i t _ s e m m o s t _ e t _ e _ s e _ s i l l a l _ , _ s a i p u a k s _ h y y t y n k _ k o _ s e _ o t e t t i _ s i _ s a a v i h i _ v a a _ j a _ s i t _ k o n _ p y y k k i _ p e s t i _ n i i n _ s i i t _ s i t _ v a a _ v ä h ä _ s i i h e _ j o u k k o _ . _
+_ m u t _ k y l _ , _ k y l _ s a i p u a k i n _ k e i t e t t i n _ , _ m u t _ n i n k o _ s a n o n _ e t t _ e m _ m ä ä _ o l _ o l s _ s i i h e _ m i k k ä _ m e s t a r I _ . _
+_ m u t _ s i t _ k e i t e t t i n _ , _ s i l l o n _ , _ o l i k o s _ s i l l o n _ s i t _ s o t a a i k _ k o n _ G e i t e t t i _ s o k e r j u u r i k k a i s t _ k o t o n s _ s i i r a p p i _ . _
+_ s e _ o l _ j a _ , _ k o v a _ h o m m a _ . _
+_ o l e n _ . _
+_ m o n t a _ ä m B ä r i l l i s t Ä _ . _
+_ s i t ä _ k e i t e t t i n _ G u m m i n k i _ s i l l a l s _ s i t t _ e t _ s o k e r j u u r i k k a i _ e n s i n _ G o v a s t i _ s i t _ p e s t i n _ , _ j a _ p u h t a k s _ k u a r i t t i n _ , _ j a _ s i t _ n e p _ p a n t t i _ s u u r e m - _ , _ s e m m o s e m _ m u u r p a t t a n _ , _ m u n k i n _ , _ t u a l s _ s i t _ m i s ä _ m e _ o l i n _ n i _ o l _ k a h δ e k s a n k y m m e n e _ l i t r a _ m u u r p a t a _ . _
+_ s e _ p a n t t i _ s i t _ n i i t _ , _ p a l a s s i _ t ä y t t ö _ n i n _ e t _ i h a n _ , _ i h a _ v a l l a _ s i t t _ e t _ , _ m o n t _ k e r t t a _ v i ä l _ k u k k u _ p ä ä l _ o l _ e t _ e i _ k a i k _ m a h t u n u s _ s i n _ , _ s y r j ä i _ s i s ä p u a l l a _ e t t _ o l _ v i ä l _ , _ e n e m ä _ j a _ , . _
+_ j a _ v e t _ s i t _ n i n _ e t _ n e k _ k y p s y _ j a _ j a _ n i i t _ k e i t e t t i _ s i t _ n i i n _ k a u v a n _ e t _ , _ e t _ n e _ a i k a t a v a l s _ s i t _ l a s k _ o i k k e n _ . _
+_ j a _ , _ n o _ s i i t _ t u l _ s i t t _ a i k a _ m a k k i a _ l i ä n t _ j a _ , . _
+_ m u t _ s i t ä _ , _ s i t _ k o _ s i t ä _ r u v e t t i n _ o i k k e _ s i i r a p i k s _ k e i t t ä m ä _ n i i _ s i t ä _ t ä y δ y i _ s i t _ k e i t t ä _ o i k k e _ m o n t _ t u n t t i _ j a _ k a u h i a s t e n _ k i a h u t t a _ e t _ s e _ s i l l a l _ h a i h δ u i _ . _
+_ j a _ k y l _ s i i t _ s i i r a p p i _ t u l I _ . _
+_ s i l l o _ s i t _ j o s k u s _ k o _ m e i l l ä k i n _ k o _ , _ k o n _ , _ k o n _ e i _ k e r r a _ s i t ä _ s o k e r i _ m i s t ä _ s a a t _ n i n _ k y l _ s i t _ , _ s i i r a p p i _ k o e t e t t i n _ t e h δ _ n i _ , _ v ä l i l _ v a l l a _ v i i k - _ , _ - r a u _ , _ - k a u p a l _ o l t t i _ s i i n _ h o m m a s _ m u t _ k y l _ s i t ä _ s i t _ k a n s _ j o _ o l _ v a l l a _ s a a v i l i s - _ , _ s a a v i l i n e n _ k o n _ s a a t t i n _ t e h t y _ k a i k k I _ . _
+_ m u t _ s e _ o t t a _ k o v a n _ k i a h u t t a m i s e _ s e _ , _ s e _ l i ä m e n _ k o k k o n _ k e i t t ä m i n e _ . _
+_ j a _ s e n _ s a a _ s i i t _ s i t t _ a i n _ e t _ , _ m i t ä _ k a u v e m i _ v a a n _ k e i t t ä _ n i i n _ s i t ä _ s a k k e m p a _ t u l e _ m u t _ j o s _ h i u k a n _ k e i t t ä _ n i _ s e _ o l _ , _ s e m o s t _ , _ l ö y s s ä _ . _
+_ j a _ m ä ä _ a i _ s i l l o _ s a n o i n _ e t _ k o n _ s e _ n i i _ h y v ä _ s i t t _ o n _ o l e v a n a n s _ s e _ o m a _ v - _ , _ k e i t e t t y k i _ . . . _ j a _ e i _ s e _ m a k s a n s _ s i t _ m i t t ä n _ k o _ s i t ä _ o m i v ä i n _ t e h t i _ n i n _ . _
+_ e t _ k y l _ m ä ä _ s i t _ v i ä l ä k i _ s i i r a p p i _ k e i t ä _ v a i k _ s o k e r i _ r u p p e _ s a a m a _ m u t t _ e n _ k e i t t ä n _ o l E _ ! _
+_ k o _ s i i t t _ o n _ n i i n _ k a u h i _ v a e v A _ . _
+_ k o _ m e i l ä k i n _ k o _ n i i t _ f l i k o i _ s i t t _ o l _ n i _ m e i l _ o l _ a i k k a _ n i i t _ s i t _ p e l a t A _ . _
+_ k o l m _ f l i k k a _ o l I _ . _
+_ n i i j _ j a _ k y l _ n y y _ s i t _ t o t a _ s i i r a p p i _ s a a _ v a i k _ k u i n _ G o n _ , . _
+_ m u t _ k y l _ s e _ , _ s i l l o n _ k o _ o i k k e n _ , _ o i k k e n _ k o t o n s _ s i t ä _ t e h t i _ j a _ s i t ä _ t e h t i j _ j o k a _ t a l o i s _ j a _ s i i n _ o l _ , _ s i t _ j o _ s e m m o s s e k k i n _ k o _ s e _ , _ s e _ o l _ k o v a _ t - _ , _ k o v a _ t o i n t _ s i t _ s e _ k o n _ , _ k o n _ . . . _ n i _ m ä ä _ e n _ s i t ä _ e n ä _ m u i s t a n u k a _ m ä ä _ u n h o t i _ s e j _ j o _ k o _ n e s _ s o k e - _ , _ n e s _ s o k e r j u u r i k k a m _ p a l a s e s _ s i t _ k o _ n e k _ k y p s y _ n i _ n e p _ p a n t t i n _ k o v a r _ r u - _ , _ p u r i s t u k s e _ . _
+_ s e m m o s e n _ , _ k o n e n _ G a n s _ , _ p u r i s t e t t i _ n e _ . _
+_ t e h t i _ s e m m o s s i _ k o _ s a n o t a n _ k n y y t e i k s _ . _
+_ j a _ o l _ s e m m o n e _ e t _ , _ e m _ m ä ä _ e n ä _ o i k k e _ m u i s t _ k u m m o n e _ s e _ o l _ m u t _ , _ m u t _ j o k u _ s e m m o n e n _ k u m i n k i n _ e t t _ o l _ t ä m ä n _ k o k k o s s i _ s e m m o s s i _ , _ l a o δ o i _ . _
+_ j a _ s i t _ m y ä s _ o l _ s e m o s s e _ , _ v a a t t e _ e t _ n i i t t e _ v a a t t e _ s i s ä l p _ p a n t t i _ n i i t _ s o k e r j u u r i k k a n _ k a p p a l i _ j a _ , _ j a _ s i t _ , _ s i t _ t ä l l ä t t i n _ a i n _ s e m n e _ l a u t _ v ä l i _ j a _ j ä l l e n _ t o i n e n _ k n y y t _ j a _ j ä l l e _ , _ m ä ä _ e n _ e n ä _ m u i s t _ k u i m _ m o n t _ n i i t _ s i t _ p r u u k a t t i _ j a _ s i t t _ o l _ s e m m o n e _ n i n k o _ , _ j o k u _ t ä m m ö n e _ , _ t ä m m ö n e n _ k o m _ p a i n e t t i _ n i i t t e m _ p ä ä l l Ä _ , _ s e m m o n e _ , _ y m p y r k ä i n e _ j a _ , _ j a _ t ä ä l t _ s i t _ k i ä r e t t i n _ e t _ s e _ o i k k e m _ p i u k k a n _ o t t i _ . _
+_ j a _ s e _ o l _ s i t _ m a k k i a _ l i ä n t _ k o _ n i i s _ t u l _ . _
+_ j a _ s i t _ s e _ k e i t i v e s i _ j a _ o t e t t i _ . _
+_ j a _ n e e _ o l _ s i t _ j o _ , _ h y v i _ s e m s s i _ m a u t t o m i _ k o _ n e s _ s i i t _ o t e t t i _ j a _ v - _ , _ s i t ä _ s a k - _ , _ s i t ä _ s a k k a _ a n n e t t i _ s i t t _ e l ä v i l l E _ . _
+_ m u t _ k y l _ s e _ , _ v a e v a l o i s t _ h o m m a _ o l I _ . _
+_ e i k _ s e m m o s i _ , _ k o n e i j a k a _ s i t _ j o k a _ t a l o s _ o l _ e t _ n i i t _ t ä y δ y i _ s i t _ l a i n a t A _ . _
+_ v a i k k _ e i _ s e _ s e n _ , _ e r i n o m a s e m p _ k o n e _ o l l u _ . _
+_ k y l _ s i i h e n _ a i k k a n _ k a i k k _ o l i v a k _ k a i k _ h o m m a _ , _ k o v a n _ t y ä n _ t a k a n _ . _
+_ e i _ s u n k a n _ s e _ n i i r _ r a s k a s t _ h o m m a _ o l _ m u t t _ a i n a k i _ v a e v a _ . _
+_ n o _ k y l _ m a r _ s i t ä _ s i t _ t u l _ s e _ j ä l k k e n _ k u i _ , _ h y v ä _ r u a k k a _ a n n o i _ . _
+_ n i i n _ , _ t ä y δ y i _ p i t t ä k _ k o n _ e i _ t a h t o n _ o l l A _ . _
+_ k y l _ n e s _ s i t _ l y p s i v ä k _ k o _ v a a _ s a i v a _ i s o _ j o u k o _ j a o h o i _ j a _ k a i k k i _ . _
+_ m u t _ s i l l o n G i n _ k o _ m e k k i n _ t o n s _ s i t _ m e n i n _ e i _ s i l l o n _ , _ e i _ s i l l o n _ s i t _ t i ä δ e t _ m i t t ä v _ V i r t a s e _ r e h u i s t _ e i k _ s e m m o s i s t _ n i i n k o _ n y _ s i t _ j o _ t i ä δ e t t _ o n _ . _
+_ j a _ m e i ä n k i n _ t i ä δ e t t i _ s i t _ k o _ s o k e r j u u r i k k o j a k i n _ k a s o t e t t i _ n i n _ s i i t _ t u l _ s i t t _ a i k a l a i l s _ s i t ä _ V i r t a s e _ r e h u _ k o _ n e n _ n a a t i _ , _ s e m s e n _ k u a p p a m _ p a n t t i n _ k o _ , . _
+_ m e i l ä k i n _ o l _ s i t t _ o i k k e n _ , _ h y v ä _ s e m m o n e _ , _ k u a p _ k o n _ o l _ t i i l e i s _ t e h t _ n a v e t o n _ y h t e y t t e _ . _
+_ n i _ s e _ , _ s i ä l t _ t u l _ s i t _ j o _ h y v ä _ r e h u _ . _
+_ m u t _ s e _ e t _ k y l _ m e i j ä n k i _ s e v v u a k s _ s i t _ j o s k u s _ t e h t i n _ a p i l a s t a k i _ t o m m o s e s t _ a p i l h e i n ä s t ä _ V i r t a s e _ r e h u _ j a _ . _
+_ k y l _ m e i j ä n k i _ s i t _ j o _ v i i m e s s e l t t ä _ n i n _ , _ j o k u s s i _ s e m m o s s i a k i _ l e h m i _ s e n t ä n _ o l _ e t _ p a r i k y m e n t ä k i _ l i t r a _ p ä e v ä s _ t u l I _ . _
+_ m u t _ k y l _ n e _ s i t _ j o _ j a o h o i _ k a n s _ t a r v i s s _ a i k a l a i l l a _ . _
+_ m u t _ k o _ , _ s i i t _ t ä y δ y i _ s i t _ r a h a _ k o e t t a _ . _
+_ k o n _ k e r r a n _ t y ä s _ k o t o n t _ t e k _ n i _ r a h a _ s i t ä _ a i n _ t a r v i t t i _ . _
+_ j u u _ . _
+_ k y l _ m e i j ä _ v i ä t t i _ s e _ . . . _ v a i k _ s i h e n _ a i k o i h i n _ k o _ s e _ k a p i n a k i n _ o l _ n i _ v i ä t t i _ R a u m a l a k i _ j o h o n k k i _ m a i t o k a u p p a n k i _ n i _ v i ä t t i _ s i l l o _ m a i t o _ . _
+_ a s e m a l _ v a a _ v i ä t t i n _ k a n _ n i _ , _ j u n a s _ s i t _ , _ m e n I _ . _
+_ k y l _ m e i j ä _ v i s s i _ s e v u a k s _ k i r n u t t i n _ k o t o n _ j a _ s e p a r a a t t o r o i t t i _ . . . _ m e i l l _ o l _ , _ m e i l _ o l _ v i i m m ä s e k s _ o i k k e n _ a i k a m o i n e _ s e p a r a a t t o r i k i n _ e t _ , _ o m a _ v o i _ v a l l a n _ k o t o n t _ t e h t i _ . _
+_ s u n n u n t a m a i t o _ a i n _ k ä y t e t t i n _ k o t o n _ . _
+_ j a _ k i r n u t t i _ s i t t E _ . _
+_ j a _ s a a _ , _ o l t t i _ s a a v a n a s _ h y v ä _ v o i t _ k a n s _ . _
+_ n i i j _ j a _ s e _ p i i m _ k u m m i n k i _ h y v ä _ o l I _ . _
+_ k y l _ m e e k _ k i r n u n _ o l e _ m o n t a _ k e r t t a _ j a _ m y ä s _ s i t _ s e p a r a a t t o r i _ k ä y t e t t Y _ . _
+_ m e i l l _ o l _ s e m m o n e _ s e p a r a a t t o r i _ e t _ v i i s t o i s t _ l i t r a _ v e t ä _ s e _ k a n n u k i _ . _
+_ j a _ s i i n _ o n _ , _ s e _ o _ s u u r _ j a _ s i i n _ m e n e _ p i a _ , _ l ä p i _ . _
+_ m e i l _ o _ s e _ v i ä l Ä _ . _
+_ k o _ m ä ä _ o l e _ s a n o n _ e t _ e i _ s i t ä _ m y y δ ä k k ä n _ k o _ m e i l t _ t ä s ä _ s i t _ k o l m _ f l i k k a _ o _ j a _ o n _ k a i k i l s _ s e m m o n e n _ , _ p i ä n _ m a a m p a i k _ n i _ s a a v a s _ s i t _ j o s k u s _ j o s _ t u l e _ j ä l l e m _ p u l a a i k _ n i _ s a a v a s _ s i t ä _ s i t _ l a i n a t _ j a _ t e h δ _ v o i t a _ . _
+_ n o _ s i l l a i l s _ s e _ s i t _ t u l _ k o n _ , _ ä m p ä r i h i _ s e _ k e r m a _ s i t _ t ä l l ä t ä _ j a _ , _ j a _ p a n n a n _ , _ p o h i p i i m ä _ e t _ s e _ h a p a n t u _ . _
+_ s e n _ t ä y t y _ o l _ h a p a n n u _ , _ a i n a k i _ m u u m _ m i ä l e s t ä n I _ . _
+_ e t _ e _ m e i j ä n _ k u m m i n k a _ s a a t _ , _ s e m m o s s e s t _ m i t t ä n _ t u l e m a n _ k o n _ e i _ h a p a n t u n n U _ . _
+_ h a p a n u t e t t i _ n i i n k o n _ o l _ n y _ , _ a j a t t e l e _ n y y _ e t _ k o n _ u s s e i n k i _ n i n _ t o i s e n _ a a m u l s _ s i t ä _ s e p a r a a t t o r i _ k ä y t e t t i _ n i n _ t o i s e n _ a a m u n _ r u v e t t i n _ k i r n u m a _ . _
+_ n o _ s e _ o l _ s i t _ a i k a _ s e m m o s t _ s a k k i a _ . _
+_ m u t _ s e _ k i r n _ o l _ s i t _ s e m m o n e n _ , _ s i i h e n _ s i t _ m e i j ä n G i n _ k u m m i n k i _ n i _ , _ s e m m o n e _ s i t t _ e t _ s i i n _ o l _ s e m m o n e _ , _ s e _ o l _ s e m m o n e _ n i n k o _ j o k u _ p i ä n _ t y n n y r _ m u t _ s e _ o l _ p u a l i m i t t e _ n i n k o m _ p u a l - _ , _ s e m m o n e _ , _ e m _ m ä ä _ o s _ s i t ä _ s e l i t t ä k _ k u m n e _ s e _ t y n n y r _ o i k k e n _ o l _ m u t _ , . _
+_ m u t _ s i ä l k _ k u m m i n k i m _ p y ä r e i _ s i t _ s e m m o n e _ , _ s e m m o n e n _ k e h ä _ t a i k _ s e m m o n e n _ e t _ s i i n _ o l _ n i n k o _ , _ s e m s e s _ s i i v e _ . _
+_ j a _ s i t ä _ k ä y t e t t i _ s i t _ p u - _ v e - _ , _ r a u t a s e l _ v e i v i l t _ t ä l l ä l l ä _ . _
+_ j a _ , _ m i k ä _ s i i n _ n y _ k i i _ o t _ j a _ t ä l l ä t t i _ s i t _ s e _ k e r m a _ s i t _ s i n _ . . . _ m u t _ k o _ s i i n _ o l _ s i t _ s e m m o n e _ n i n k o _ , _ e i _ s i t ä _ o i k k e _ m u u n _ r ä - _ , _ j ä r k e n _ j ä l k k e _ s a a n s _ s t ä _ k e l - _ , _ s i t ä _ , _ k i r n u _ t ä l l ä t _ p a l i _ m u u k _ k o m _ p u a l e l l a s I _ . _
+_ k o _ s i i n _ o l _ k a n s _ s i t _ k a n s _ . _
+_ j a _ k o _ s e _ t ä y t y _ a i k a _ f a a r t t i _ p a n n _ y m p ä r _ n i _ s i ä l t _ p a k k a s _ s i t _ j o _ , _ p o i s _ , _ t r u i s k u m a _ j o s _ s e _ o l _ o i k k e n _ t ä y n _ . _
+_ j a _ , _ m u t _ s i l l a l _ m e i j ä n k i _ s i t ä _ s i t _ m o n t _ k e r t t a _ s i i t _ a n n o k s e s t _ s e n t ä n _ t u l _ e t _ p u a l t o i s t _ k i l o k i _ s i t _ v o i t a _ . _
+_ n o _ s i t ä _ k ä y t e t t i _ s i t _ , _ n i i n _ k a u v a n _ e t _ s i t ä _ s i t _ j o _ t a r k k a i l t t i n _ e t _ j o - _ , _ k o s k _ s e _ r u p p e _ s o r e l t _ t u l e m a _ . _
+_ n o _ s i t ä _ k e r m a _ m e n _ s i t _ n i i h i _ l a e δ o i h i _ j a _ s i h e n _ k a n t t e _ j a _ k o _ r u p e s _ , _ n ä y t t ä m ä _ s i l t _ e t _ n y _ s e _ r u p p e _ t u l e m a _ s o r e l _ , _ n i m _ p a n t t i _ s i t _ h a l i a _ v e t _ , _ p u h δ a s t _ h a l i a _ v e t _ n i m _ p a n t t i n _ , _ n i i s t _ s y r j i s t _ a l a s _ , _ k a f f e k u p i n _ G a n s _ j a _ , _ j a _ s i t _ m y ä s _ v a l e t t i _ s e _ s a n k - _ , _ k a n s _ e t t ä _ , _ e t _ s e _ k a i k _ m e n _ s i t t _ a l a s _ s e _ , _ n e _ v o i s o r e _ . _
+_ n o _ s i t t _ e i _ k ä y t e t t _ e n ä _ k o _ , _ v e r k e m i _ v a a n _ e t _ e i _ s e _ s i t t _ e n ä _ , _ p r ä i s k y _ n i i h i _ s y r j i _ n i n _ k o v a s t e _ j a _ , . _
+_ j a _ a i _ v e r k e m i _ j a _ v e r k e m i _ n i _ s i l l o n _ t u l _ a i k a _ k ö l i _ s i n s _ s i t _ j a _ s e e _ , _ s a n o t t i _ e t _ , _ h y v i _ s e _ n y _ k o k o s k i _ . _
+_ n o _ s e _ o t e t t i _ s i t _ s i ä l t _ , _ m ä ä _ k u i t e n k i m _ p r u u k k a s i _ s i t _ s i l l a l k _ k o _ , _ m ä ä _ k a a s i n _ k i r n u m - _ , _ t a i k _ s e m _ p i i m ä _ s i t _ p o i s _ j a _ j ä t i _ s e n _ , _ v o i _ s i n k _ k i r n u n _ , _ j a _ y l i m ä i s e l _ , _ p e s i _ s i t _ v i ä l _ e t _ s a m a l l a i l p _ p a n i _ j ä l l e _ s i t _ s e n _ , _ s e n _ e t _ s e _ k e h ä _ , _ s i t ä _ s i ä l s _ s i t _ v a e v a s _ s i l l a l _ e t _ s e _ t u l _ p u h t a k s I _ . _
+_ j a _ v i i m ä s s e k s _ s i t _ v a a n _ k o _ s i t _ t ä y δ y i _ o l s _ s e m o n e m _ p u i n e _ v o i l u s i k k a _ , _ e t _ e i _ s i i h e n _ k i i _ o t t a n n u _ . _
+_ j a _ s e m _ p u u l u s i k a n _ t ä y δ y i _ k a s t a _ , _ k u u m a _ v e t t e n _ e n s _ j a _ s i t _ , _ k y l m ä n _ e t _ e i _ s i i h e n _ o t t a n s _ s e _ v o i _ k i i _ . _
+_ j a _ s e _ v a e v a t t i _ s i t _ k o _ s i i m _ p i δ e t t i n _ k y l m ä _ v e t _ n i v _ v a e v a t t i _ m o n t t e n _ k e r t t a _ s i t _ j a _ n i i n _ k a u v a n _ e t _ s e _ v e s i _ o l _ i h a n _ k i r k a s t _ s i t _ m i t ä _ , _ m i s ä _ s e _ v o i _ o l I _ . _
+_ s i t _ s e _ o l _ p u h δ a s t A _ . _
+_ j a _ s i t _ p i s t e t t i _ s u a l a _ . _
+_ j a _ v a e v a t t i _ v i ä l _ o i k k e _ m o n t t e n _ k e r t t a n _ t o l l a l s _ s i t _ t o t a _ , _ j ä r j e s t ä s _ j a _ , _ j a _ k o _ s a a t t i _ s e _ t o i s e l s _ s y r j ä l _ n i n _ t o i s e l _ j ä l l e _ j a _ , . _
+_ j a _ s i t ä _ s i t _ h a u k u t t i n k i _ j o s s _ e i _ h y v ä - _ , _ h y v ä k s _ v a e v a n _ e t _ s i i t _ t u l _ k i r j a v a _ v o i t a _ , _ j o s s _ e i _ s e _ h y v ä k s _ v a e v a n n U _ . _
+_ s i l l a l _ s i t ä _ s i t _ t e h t i n _ . _
+_ n o _ s e _ o l _ p a h a _ v o i t _ k o n _ k i r j a v a _ o l i s _ o l l u _ . _
+_ s e n _ t ä y t y _ v a e v a t _ n i i n _ k a u v a n _ e t _ s e _ t u l _ , _ t a s a n _ , _ k e l l a s t a _ . _
+_ k y l _ s i t ä _ t u l e m a _ s a i s _ k o n _ k e r m a _ v a a n _ o l i s I _ , _ j a _ k i r n U _ . _
+_ j a _ k y l _ m e i l ä k i n _ t u a l s _ s i t _ v i ä l _ k i r n u k i n _ o n _ , _ t u a l _ v a n h a s _ p a i k k a _ . _
+_ m u t t _ e i _ s e m m o s i l _ n y _ e n ä _ k a n n a t _ , _ p e l a t _ k o n _ k a i k k i _ s a a _ v a l m i n _ . _
+_ j a _ k y l _ s i l l o n k i _ s a i _ s i t _ m u t _ , _ e m _ m ä ä _ t i ä δ k _ k u i s _ s e _ s i t _ v a a n _ k o _ s e _ o l _ s e m m o s t a k i _ s i t _ k a n s _ e t _ k o n _ , _ v a s i k o i _ j a _ p o r s s a i j a k i _ s i t _ p i δ e t t i _ j a _ t a l v e l a k i n _ k o n n _ e i _ , _ k o n _ n e t _ t a r v i t _ s i t t e _ , _ s e m o s t _ , _ j ä l k i m a i t o _ s i t _ t a i k _ s t ä _ , _ k u m _ p l u t t a n a k s _ s a n o t a _ n i _ , _ e i _ s i t ä _ t u l p _ p y h ä n s _ s i t _ m u u t o _ m u t _ k o m _ p a n _ s e p a r a a t t o r i n _ k ä y m ä _ n i _ s i t _ t u l I _ . _
+_ j a _ k o _ s i i t _ s i t t _ o l t t i n _ t y k k ä v ä n ä s _ s i t _ s i i t _ , _ k i r n u m p i i m ä s t _ j a _ k a i k i s t A _ . _
+_ j u u u _ . _
+_ k y l _ n e v _ v a a _ h y v i _ o l i v a _ j a _ a i k a n a s _ . _
+_ j a _ n i i n k o _ s a n o n _ e t _ k o n _ t ä m n e _ v ä h ä _ v a n h e m p i _ o o _ n i n _ k y l _ s e _ n i i t _ k a i k k i _ s i t t _ o n _ t ä y t y n p _ p e l a t A _ . _
+_ o o l I _ . _
+_ s e _ o n _ t e r n i _ . _
+_ s i i t _ t u l e _ h y v ä _ j u u s t o _ j a _ p a n n u k a k k o _ . _
+_ s e m m o s t _ j u u s t o _ k o _ u u n i s _ k y p s e n e t ä _ . _
+_ n o _ s i t ä _ t e h δ ä _ s i l l a i l s _ s i t _ v a a n _ e t _ k o _ s e _ , _ s i t _ , _ n i i n k o n _ t ä s ä k i n _ o n _ , _ m e i l ä k k i n _ o n _ o l l u k _ k u m i n k i _ s e m m o n e n _ t a p a _ e t _ n i i n k o _ , _ k o n _ o n _ t o m n e n _ t a l v i k i _ n i i n _ k o l m _ , _ k o l m e _ v o o r o k a u t _ s i t ä _ t e r n i m a i t o _ k o o t a _ l e h m ä s t _ k o _ s e _ p o i k i _ . _
+_ k o l m e m _ p ä i v ä n _ n i _ e n s m ä i n e _ , _ m a i t o _ , _ e n s m ä i n e _ m a i t o _ t a i k _ . . . _ j a _ s i i n t _ t ä y t y _ o l s _ s i t _ v ä l t t ä m ä t t ö m ä s t _ s i t ä _ k o _ s i l t _ o n _ e n s m ä i s e l _ k e r r a l t _ t u l l u k _ k o _ s e _ o n _ e n s m ä i n e n _ k e r t _ l y p s e t _ j a _ m u u t o n _ e i _ s e _ j u a k s e t u _ . _
+_ n i n _ k o l m _ v o o r o k a u t t _ o n _ s i t _ t u l U _ , _ p i δ e - _ , _ s ä i l y t e t _ s i t ä _ , _ m a i t o _ s i t _ k o _ l e h m - _ , _ l e h m ä s t _ o t e t t i - _ e n s i n _ t u l _ n i i _ . _
+_ j a _ s i t _ n e k _ k a i k k _ y h δ i s t e t ä _ n i _ s i i t _ t u l e _ s i t _ s i t ä _ , _ u u n i j u u s t o _ , _ t e r n i j u u s t o _ . _
+_ j a _ s i i t _ t u l e _ a i k a l a i l _ h y v ä _ p a n n u k a k k o _ j a _ s i t _ m y ä s _ s e m m o s t _ j u u s t o _ . _
+_ j a _ s i t ä _ v i ä δ ä _ s i t _ n a a p u r e i l k _ k a n s _ k o _ h y v i s _ v ä l e i s _ o l l a _ . _
+_ m e i l l _ o v _ v i ä l ä k i _ l e h m _ t ä ä l _ . _
+_ k y l _ s e _ , _ k y l _ s i t ä _ t e h δ ä _ n y k k i _ s i t _ v i ä l _ j o k a _ p a i k a s A _ . _
+_ m e i l ä k i _ s i t _ k o n _ t o s a _ k o _ m ä ä _ o l e _ s a n o n _ e t _ v a i k _ m e e _ , _ o l e _ n y _ s i t _ t ä s ä _ t ä l l ä l _ n i _ m e i j ä _ , _ n o i l f _ f l i k o i l k _ k a i k i l _ y h t e s _ n i _ , _ a i n a k i _ s i t _ m e i - _ , _ n i i v _ v i i s t o i s t _ l e h m ä _ j a _ e n e m ä n k i _ j a _ k o _ n e _ , _ s i t _ k a n t a v a _ n i _ u s s e i _ s i t _ m e i l ä k k i n _ t u a δ a n _ t e r n i _ e t _ v ä l i n _ o n _ o i k k e n _ , _ j a t k u v a s t _ s i t ä _ . _
+_ m u t _ v ä l i n _ s i t _ t ä y t y _ s i t ä k i _ j o _ v i ä δ _ n a a p u r e i h i n _ k o n _ e i _ t u l _ i s e s _ s y ä t t y _ . _
+_ e m _ m ä ä _ u s k _ e t _ n i i t _ e n ä n _ n y k y i s i n _ G u m m i n G a m _ p a l j o _ k u k k a n _ D e k e _ . _
+_ e i _ s e _ t e e _ m i t t ä n _ k a n n a t u s t _ k o n _ k e r r a n _ , _ m e i j j e r i _ j o k a i n e _ m a i t o _ v i ä _ . _
+_ m u t _ k y l _ m a r _ n u a s _ s i t t _ o t t a v a _ m e i j j e r i s t ä k i _ s i t t _ o t t a v a k _ k y l _ j u u s t o i j A _ . _
+_ m u t _ k y l _ s i l l o n _ k o m - _ , _ n o i t _ t o m m o s s i _ h a u t a j a i s s i _ j a _ h ä i t _ j a _ s e m m o s i _ j u h l i _ p i δ e t ä _ n i i n _ k y l _ s i l l o n _ k o t o n t _ t e h δ ä _ j u u s t o _ . _
+_ p i i m ä j u u s t o _ j a _ , _ j a _ m a i t o j u u s t o _ ! _
+_ j u u _ . _
+_ m u t _ s i i h e _ s e v u a k s _ e i _ s i t ä _ p a l j a s t _ p i i m ä s _ t e h δ ä _ e k _ k y l _ s i i n _ , _ m a i t o _ p ä ä a s i _ o n _ . _
+_ n o _ s i t ä _ t e h δ ä _ s i l l a l _ n i n _ e t t _ e n s i n _ , _ e n s i _ s i t _ l ä m m i t e t ä _ m a i t o _ s i l l a l _ e t _ s e _ o i k k e n _ t ä y t y _ k i a h u v _ v ä h ä _ , _ n i i n k o n _ k i a h u j _ j a _ , . _
+_ m ä ä _ e _ s u n k a _ m u i s t _ e n ä _ . . . _ k y l _ m ä ä _ o l e _ s i t ä _ s i l l o n _ , _ j o s k u s _ s i l l o n k i n _ , _ t e i n _ o i k k e n _ , _ l ä h e s _ j o k a _ v - _ , _ p ä ä v _ k o _ m e t _ t o n n _ e n s i _ m e n i n _ k o n _ e i _ s i t _ n i i n _ , _ m u u t a k a _ , _ s ä r v i n t _ o l _ n i _ , . _
+_ s i l l a l _ m ä ä _ k u m m i n k i _ s i t ä _ s i t _ t a v a l i s e s _ t e i n _ e t _ s i i n _ v o i s _ o l l a s _ s i t _ n i i n k o n _ k o l m a s o s a _ p i i m ä _ . _
+_ e t _ k o _ , _ k u v i t e l l a i s _ n y _ e t t _ o l i s _ o l _ n e l j ä _ l i t r a _ , _ m a i t o _ , _ m u t _ s e _ s a i _ o l s _ s i t _ s i t ä _ j ä l k i m a i t o _ k o _ m e i j j e r i s _ t u l I _ . _
+_ n i i n _ , _ s e m _ p a n t t i _ s i t _ s i l l a l _ e t _ s e _ o i k k e _ , _ v ä h ä _ n i i n k o n _ k i a h u i _ , _ j a _ s i t _ p a n t t i _ n i i n k o n _ k a k s _ l i t r a _ p i i m ä _ j a _ s i i h e m _ p a r i _ m u n a _ . _
+_ j a _ v i s p a t t i _ s e _ s i t _ s i l l a l _ s e k a s i _ . _
+_ j a _ k o _ s e _ m a i t o _ r u p e s _ k i a h u m a _ n i i _ s e _ k a a δ e t t i _ s i l l a l _ e t _ s i t ä _ m e n _ i h a m _ p i s i _ s i n _ n i i n _ , _ s e m _ p a δ a n _ , _ t a i k _ k a t t i l a _ j o k a _ , _ e t _ i h a _ , _ i h a j _ j o k a _ p a i k k a _ s i i h e _ s e _ , _ k a a δ e t t i _ s i i h e m _ p ä ä l s _ s e _ m a i - _ , _ s e _ p i i m ä _ . _
+_ n o _ s i t _ s e n _ a n n e t t i n _ o l s _ s i n p _ p ä ä l _ v i ä l _ s e n _ h e l l a m _ p ä ä l _ v ä h ä n _ a i k k a _ n i _ e t _ s e _ r u p e s _ s i l l a l p _ p y r e i l e m ä _ n i i n k o n _ o l i s _ m e i n a n _ r u v e t _ n i n k o _ u u δ e s t a s _ k i a h u m a _ . _
+_ n i _ s i t _ s e _ n o s t e t t i m _ p o i s _ , _ k u u m a s t _ p a i k k a _ , _ s e _ , _ k a t t i l A _ . _
+_ j a _ a n n e t t i _ v ä h ä n _ a i k k a _ s e i s s o _ n i n _ s e e _ , _ s e _ , _ s e _ j u u s t o _ n o u s _ s i h e _ s e n _ , _ l i ä m e m _ p ä ä l l E _ . _
+_ j a _ s e _ p a n t t i _ s i t t E _ , _ m e i l l ä k i n _ o l _ s e m m o n e _ l e i p ä k o r i _ s e m m o n e _ v a n h a n a i k k a n e _ j a _ s i i h e m _ p a n t t i _ s i t _ s e m m o n e _ h a r v a _ v a a t e _ , _ s i i h e n _ , _ l e i p ä k o r i _ j a _ , _ j a _ , _ v ä h i t e l l e n _ a j e t t i _ s e _ s i ä l t _ s i t t e _ j a _ r - _ j u u - _ , _ s u a l a _ a i _ v ä h ä _ v ä l i _ j a _ , . _
+_ s i i t _ t u l _ k a u n i s _ s i t t E _ . _
+_ k o _ s e _ k a i k _ s a a t t i _ s i i h e n _ a j e t t u _ j a _ v ä l i n _ t u l _ o i k k e m _ p a k s U _ . _
+_ e i _ s i t ä _ t e h t _ t o m s e s _ t a v a l i s e s _ k e h ä s _ k o n _ o i k k e n _ t o t a _ m u u t _ j u u s t o _ t e h δ ä n _ k o _ s e _ t e h t i l _ l e i p ä k o r i s _ . _
+_ m e i l _ o _ , _ m ä ä _ t e i n _ n y k k i n _ y h t e n _ t y ä n _ v i ä l ä _ . . . _ o n _ t u a l a s _ s e m m o n e _ , _ k o r i k i _ m i s ä _ m ä _ t e i _ m u t _ s e _ o m _ p i ä n _ n y _ s i t _ v a a _ . _
+_ j u u _ j a _ k y l _ s e e _ , _ s e _ o l _ , _ k a n s _ h y v ä _ s i t _ k o _ s e _ o l _ , _ k o _ s i i n _ m u n a _ j a _ k a i k k i _ o l _ n i _ s e _ o l _ s e m o s t _ p e h m i ä _ j a _ h y v ä _ s i t t e _ . _
+_ k y l h ä _ s e n _ n y t _ t i ä t ä _ e t _ s e _ o l i s _ v i ä l _ p a r e m p p a _ k o n _ t ä y s m a i t o s t _ o l i s _ t e h n Y _ . _
+_ m u t _ k o _ s e n _ t ä y δ y i _ m y y δ s _ s e n _ t ä y s m a i δ o n _ e t _ r a h a _ t u l i _ . _
+_ k y l _ m a r _ t ä m ä _ v ä h ä _ h u l m a i s t _ h a a s t a t t e l u _ t a i t a _ o l _ n y _ ! _
+_ e i i _ n i i t ä k ä m _ p a l j o n _ o l l u _ . _
+_ j a _ s e _ o l _ s i t _ s e m m o s t _ k o _ n i i t _ s i t _ t ä y δ y t t i n _ k a n a s t e n _ k a n s _ h a u t t o _ n i i t _ , _ n i i t _ p e n i k o i _ . . . _ e i _ s i l l o n _ k o n e i s t _ n ä h t _ u n t a k a _ . _
+_ k y l _ m e t _ t u a l s _ s i t _ j o _ k o v a s t e _ r u v e t t i n _ k o e t t a m a _ j a _ s i l l a l _ e t _ , _ e t _ m e i l l _ o l _ , _ j o s k u s k i _ m e i l l _ o l _ k o l m k _ k a n a _ y h t a i k k a _ h a u t o m a s A _ . _
+_ j a _ j o k a s s e n _ a l t _ t u s i n _ m u n i _ . _
+_ j a _ s i t _ k o _ n i i t _ , _ n i i t ä _ p e n t u i _ , _ p e n i k o i _ t u l _ n i _ n e p _ p a n t t i _ s i t t _ y h δ e n _ k a n a m _ p e r ä n _ k a i k k I _ . _
+_ y k s _ k a n a _ h o i t _ n e s _ s i t t e _ . _
+_ s a a t t i _ n e t _ t o i s e k _ k a k s _ k a n a _ j ä l l e m _ m u n i m a _ . _
+_ m u t _ s i t _ k o _ j o k u _ k o l k k y m e n t _ t a i k _ k o l k k y m e n t y k s _ k i r j o t e t t i _ n i _ s i l l o n _ s i t _ n e _ m e i j j ä _ , _ m e i j j ä n _ i s ä _ j a _ h ä n e _ , _ v a n h i n _ , _ v e l j ä s _ s i t _ t u a l _ R a u l - _ , _ R a u v o l a s _ n i _ , _ o s t i v a s _ s i t _ , _ t ä h ä n _ k y l ä _ y h t e s e n _ , _ e n s m ä i s s e _ h a u t o m a k o n e n _ . _
+_ n e l j ä s a δ a _ m u n a _ h a u t o m a k o n e n _ . _
+_ k y l _ s i t _ k a n a m p o i k k i _ r u p e s _ t u l e m a _ . _
+_ m e i l ä k i n _ D u l _ s i t _ k o h t _ e n s m ä i s e n _ u a n s _ s a t a _ k a n a _ . _
+_ j a _ s i l l o n _ o l _ j u h u l a _ ! _
+_ s i i h e n _ o l _ , _ s i l l o n _ o l t t i _ n i i n _ i n n o s t u n n u i _ e t t Ä _ . _
+_ j o k a _ m u n a _ p a n t t i n _ k i r j a h a n _ y l ö s _ k o n _ t u l _ a i m _ p ä i v ä _ p ä ä l _ j a _ k a n a _ , _ k a n a _ , _ j a l a s _ o l _ , _ m e r k k _ e t _ m i n k _ n u m e r o i n e n _ k a n a _ o l _ m u n i n _ j a _ a i n _ k a i k _ k a n a _ o t e t t i n _ k i i _ , _ t a r k k a i l u p e s i s t Ä _ . _
+_ j a _ l i s t a _ o l _ s e i n ä s _ k o n _ k a i k _ p a n t t i _ y l ö s _ , _ k u i p _ , _ k u i p _ p a l j o n _ k u k i n _ k a n a _ o _ m u n i n U _ . _
+_ k o _ n e _ n u m m e r o i t t i _ . _
+_ j a _ s i t _ m e i l l _ o l _ j o _ n i i m _ B a l j o n _ k a n o i _ e t _ , _ m e i l l _ o l _ k e r r a _ j o _ k o l m e s a t t a n _ k a n a _ s i t _ s i l l o n _ k o m _ p a r h a l l _ a i k k a _ o l t t i _ j a _ s i t _ , _ k o _ m e e k _ k e r r a n _ o l i _ s e m m o s s i _ n i _ , _ n i m _ m e e h _ h a o δ o i _ j o _ m u i l a k i n _ k a n a m - _ , _ k a n o i _ . _
+_ e t _ m e e _ , _ i s ä _ t e k i k i _ s i t _ j o _ i s e k k i n _ k a k s _ h a u t o m a k o n e t t A _ . _
+_ e t _ j o s k u s _ o l _ k o l m e k i n _ k o n e t _ s i t _ j o _ s i l l o _ , _ a i n a k i _ s i i h e n _ a i k o i h i n _ k o _ n e l i k y m m e n t ä k i n _ k i r j o t e t t i _ n i _ o l _ , _ k ä y n i s Ä _ . _
+_ e m _ m ä ä _ t a h δ _ o s a t _ o i k k e _ s e l i t t ä s _ s i t ä _ k u m s s i _ n e _ o l _ . _
+_ n e _ o l _ s e m m o s s i _ n i i n k o _ , _ t ä m m ö n e _ j o k u _ i s o _ p ö y t ä _ . _
+_ j a _ s i ä l _ o l _ s i t _ s e m m o s s e _ , _ e i _ t ä s ä _ p ö y δ ä s _ m i t t ä _ l a a t i k k o _ o l _ m u t _ s i i n _ o l _ s i t _ s e m m o s e _ n i i n k o _ , _ o l i k _ s e _ s i m m o s e s _ , _ o l i k _ s e _ n e l j ä s a δ a m _ m u n a n _ n i _ o l i k _ s e _ n i i n k o _ , _ k o l m _ s e m m o s t _ l a a t i k k o _ e t _ n i i h i _ s i t _ s e m m o s e _ , _ s e m m o s t e _ l e v y i m p _ p ä ä l p _ p a n t t i _ m u n i _ s i t _ s i n n E _ . _
+_ j a _ ö l j y l a m p p U _ , _ l ä m m i t _ s e _ s i t t e _ . _
+_ m u t _ s i ä l k _ k ä v e i _ s i t _ p u t k e _ y m p ä r I _ . _
+_ e t _ l ä m p e s _ s i l l a l t _ t a s a n _ . _
+_ y m p ä r _ j a _ s i t _ v i ä l _ t ä l l ä l _ , _ p o i k i n k i _ . _
+_ m u t _ h u a n o s t _ n i i t _ u s s e n k i m _ p a k k a s _ n i i t _ p e n i k o i _ t u l e m a n _ e t _ k o _ n e l j ä k i s a t a _ m u n a _ s i n t _ t ä l l ä t t i _ n i i _ , _ e i _ t a h t o n p _ p a l j o _ y l i _ k a h δ e s a δ a n k a n _ t u l _ m u t _ , _ v ä l i s t _ s e n t ä n _ D u l _ s i t _ k a k s _ j a _ p u a l i k i _ , _ p e n i k k a _ . _
+_ n o _ n i i s _ o l _ k u k o i _ s i t _ v i ä l _ t o i n e m _ p u a l I _ . _
+_ j a _ n e e m _ m u n a t _ t ä y δ y i _ s i t _ j o k a _ a a m u _ j a _ e h t o _ k ä n t t ä _ , _ h a u t t e l _ o l l e s A _ . _
+_ k ä s i n _ o i k k e _ ! _
+_ j a _ k y l _ s e _ o l _ j ä n n i t t ä v ä _ s i t _ k o _ r u p e s _ s e _ k a k s k y m e n t _ , _ v o o r k a u t _ t u l e m a n _ t ä y t t ö _ n i _ s i l l o _ s e _ s u l j e t t i _ s i t t _ e t _ e i _ s i t t _ e n ä _ s a a n _ n i i t _ k a t t o _ e i k _ , _ k o l i s t e l _ n i _ . _
+_ k y l _ s e _ o l _ s i t _ j ä n n i t t ä v ä _ k o _ n e _ r u p e s _ s i ä l _ v ä h ä _ h a j o m a _ n e _ m u n a _ j a _ , _ p e n i k o i _ r u p e s _ n ä k y m ä _ . _
+_ e t _ k u i p _ p a l j o _ n y _ m a h t a _ s i t _ t u l _ j a _ , . _
+_ j a _ s i t _ t u l _ , _ a i k a _ p i i p i t y s _ m u t _ k y l _ s e e _ o l _ s i t _ j a _ a i k a _ , _ j ä n n i t t ä v ä _ s i t _ k o _ n i i t _ s i t _ t ä y δ y i _ r u v e t _ s e m m o s i s t _ k a s o t t a m a _ . _
+_ m e i j ä n k i n _ o l _ s i t _ s e m n e n _ t a p a _ e t _ , _ e t t _ a i n _ k a s o t e t t i n _ e n s m ä i s s e s _ s i t _ k o n _ , _ s a a t t i n _ t u l e m a _ j a _ m y y t t i _ n e _ s i t _ s e m m o s e n k _ k u u δ e _ s e i t t e m ä _ v i i k k o _ v a n h a n n A _ . _
+_ s i t _ r u v e t t i _ j ä l l e _ h a u t o m a _ j a _ s i t t _ u s s e n k i m _ p i δ e t t i _ s i t _ n e n _ j o _ j a _ s i t _ j o s _ j o k u _ v i ä l _ t i l a s _ , _ n i i _ h a o δ o t t i _ s i t t _ a i _ v a a _ l i s s ä _ . _
+_ e t _ k y y l _ s e _ s i t _ s e m m o s t _ o l i _ . _
+_ m u t _ k e r r a n _ o l _ h u a n o _ k e r r a n _ k e v ä s t _ . . . _ m ä ä _ m u i s t a _ s i l l o _ o l _ j o k u _ t o u k k o k u u _ k o n _ , _ o l _ k a n s _ s i t _ v i s s i n _ k a k s _ k o n e t _ h a u t o m i s e s _ j a _ s i t _ p a k a t t i n _ t u l e m a _ n i n _ k i p p i ä k s _ e t _ e i _ m e i n a t _ l a i n k a _ n i i t t e m _ p y s t y t _ t e k e m ä _ m i t t ä n _ . _
+_ s e _ o l _ s i l l o _ s i t _ h u a n o _ . _
+_ k u _ m u n i a k i n _ k ä ä n e t t i _ n i _ , _ t ä y δ y i _ a i v _ v ä l i l _ m a a t A _ . _
+_ s e m m o s t _ f l e n s s a _ r u p e s _ p a k k a m a _ . _
+_ m u t _ , _ k y l _ m ä ä _ o l e _ n y k k i _ v i ä l _ k a s o t t a n _ , _ j o k a _ v u a s _ . _
+_ m n ä _ o l e n _ t ä s ä k i _ h u u s h o l l i s _ v i ä l _ k a s o t t a n _ a i n _ k a k s s a t a _ k a n a _ n i _ , . _
+_ m u t _ n e _ o n _ o l s _ s i t _ j o _ k a n o i _ e t _ n i i s t _ o n _ t u a l _ s i t _ j o _ m i s t _ n e _ o n _ t u a t _ n i _ e r o t e t _ n e k _ k u k k o p o j a p _ p o i s _ . _
+_ m u t _ t ä m ä _ k e v ä n _ e m _ m ä ä _ o l k _ k a s o t t a n _ l a i n k a _ . _
+_ m u t _ k y l _ m e i l _ n y k k i n _ o n _ t u a l s _ s i t t E _ , _ k o _ o s e - _ , _ o s t e t t i n _ k a s o t e t u i _ v ä h ä _ . _
+_ m ä ä _ o _ , _ o s - _ , _ s e _ , _ v i - _ v i i m e _ k e v ä n k i _ n i _ m n ä ä _ k a k s s a t a _ , _ k a n a _ t u a l k _ k a s o t i n _ k o _ m e i l l _ o n _ t u a l s _ s e m n e _ , _ m u k a v a s _ h u a n e _ k y l _ m u t _ , . _
+_ j a _ , _ f l i k a n _ n i i s t _ s i t _ . . . _ n ä ä _ o m a _ . . . _ o v a s _ s i t t _ a i _ s a a n u _ n i i s t _ s i t t E _ , _ k o _ h e p _ p i t ä _ k a n o i _ k a n s A _ . _
+_ k y l _ n i i s t _ m e l k k e n _ o _ . _
+_ m u t _ n y _ o o _ s e e _ s i t _ s e _ , _ t i ä δ e _ k e h i t t y n _ n i n _ e t _ , _ n e v _ v o i v a _ n e p _ p ä i v ä _ v a n h a n _ s i t _ j o _ e r o t t a _ . _
+_ e t _ n y k k i n _ , _ v i i m e _ v u a n a k i n _ k o _ m e i l s _ s i t _ t u a t t i n _ k a k s s a t a _ , _ t u a l t _ s i t _ t u a l t _ k i r k o n k y l ä s t _ n i _ , _ v a i k _ n e p _ p ä ä v ä _ v a n h o i _ o l i v a _ n i n _ t u l i k _ n i i s t _ s i t t E _ , _ t u l i k _ n i i s t _ k a k s _ k u k k o _ . _
+_ e t _ k y l _ n e n _ n e _ n i i _ h y v i n _ o s s a _ e r o t t a _ . _
+_ j a _ j o s k u s _ o n _ k ä y n _ n i i _ e t _ e i _ o l t _ t u l _ y h t ä n _ . _
+_ m ä _ o l e n _ o t t a n _ a i _ s i ä l t _ s a m a s t _ p a i k k a _ . _
+_ s e _ o n _ e n - _ , _ e n t i s s i _ t ä m ä n k y l ä l a i s s i _ . _
+_ j a _ m ä ä _ l u a t a _ s i t _ s i i h e n _ e t _ , _ k o n _ t u t t u _ o n _ n i n _ e i _ s e _ t e e s _ s i t _ m i t t ä _ , . _
+_ e i _ n y k y i s i n _ k a n n a t _ p a l i _ m u u t _ p i t t ä k _ k o n _ k a h δ e _ v u a δ e _ . _
+_ j u u _ . _
+_ m u t _ n e _ o s t - _ , _ s i t _ t u l e _ t e u r a s k a n a n _ o s t a j a _ k o _ o s t a _ e i _ n i i l _ , _ e i _ n i i t _ s i t _ v i ä l _ t a r v i s _ , _ m e t t ä _ h e i t t ä _ . _
+_ v i i m e _ v u a n a _ , _ e i s _ s i l l o n k i _ , _ e δ e l i s e n _ v u a n k _ k o _ m ä ä k i _ s i t _ , _ s i l l o _ m ä ä _ u u s e i n _ n i _ e t t e m _ m ä _ j ä t t ä n _ y h t ä _ v a n h a _ j a _ , . _
+_ m e i l l _ o l _ j o t t a i n _ , _ k a h δ e k s a n k y m m e n t _ n i i t _ s i t _ t u a l _ j a _ , . _
+_ j a _ t ä n t _ t u l _ s i t _ t u a l t _ n o i n _ , _ S ä k y l ä s t _ o s t a j a _ j a _ , _ m ä ä _ o l i _ s i t _ t y h m ä _ k o h a _ m ä ä _ t o s a _ o l i n _ u l k o n _ e m _ m ä ä _ s i t ä _ s i t _ h u a m a n _ . . . _ h e k _ k y s y v ä _ e t _ m y y δ ä n k s _ , _ t e u r a s k a n o i _ j a _ m ä ä _ s a n o _ e t _ , _ k y l _ t u a h o m _ p u a l e m p p a _ m u t t _ e i _ v i ä l _ . _
+_ n e _ r u p e s _ n i i n _ G o v a s t _ s i t _ t a h t o m a _ n i i t _ k u m m i n k i n _ k o h t _ j a _ , _ j a _ m a k s o v a k _ k a k s s a t a _ m a r k k a _ k a p l e s t A _ . _
+_ s e _ o m _ m i ä l e s t ä n _ h y v ä _ h i n t _ s i t t E _ , _ k o _ j o _ o l i v a s _ s i t _ k a h δ e _ j a _ p u a l e _ v u a δ e _ . _
+_ n o _ s i l l o _ m e i l t _ . . . _ s e _ o l _ s i t _ s e m m o s t _ k o n _ e i _ , _ m e i l _ o l _ s i t _ t u a l k _ k o _ m e i l l _ o n _ t u a l t _ t o m m o n e _ t i i p i l ä _ n i _ , _ e i _ n e _ o l l u s _ s i t _ v i ä l _ , _ m u n i - _ , _ m u n i m i s a s t e l _ n e _ m i t ä _ m e i l s _ s i t _ . . . _ k o _ m e i l l _ o l _ s i l l o i n _ G a n s _ j o k u _ e t _ n i i t _ t u l _ u u δ e s t a _ s i t _ j ä l l e _ j o k u _ k a h δ e k s a n k y m m e n t _ s i t _ n u a r t a _ . _
+_ m u t t _ e i _ n e _ m u n i n u v _ v i ä l _ s i t _ m u t _ , _ k y l _ n e s _ s i i t _ s i t _ r u p e s _ . _
+_ k y l _ n e s _ v i i δ e n _ k u u k a u δ e _ v a n h a n _ a i n a k i _ r u p p e _ a l k k u _ j o _ . _
+_ j a _ m e i l ä k i n _ o n _ n y k _ k ä y n s _ s i t _ m u n a - _ , _ - a u t o _ o i k k e n _ D ä s ä _ k o t o n k _ k o _ , _ V i ä n t i k u n t a _ M u n a h a n _ o _ s i t _ m e n n y n _ n e _ . . . _ m i t ä s t _ m e i l s _ s i t _ p a l j o n _ o m _ m u t _ , _ n e _ o n _ t a h t o n _ h a k k i _ v a a _ v a i k _ m ä ä _ o l e _ s a n o n _ e t _ k y l _ m ä ä _ n e _ o s u s k a u p p a n k i _ v i ä n _ . _
+_ m u t _ n y _ s e _ o s t _ , _ s a i _ , _ u u δ e _ n i i m _ p i k ä n _ a u t o n _ e t t e i _ s - _ , _ t ä n ä p ä n _ o l _ m u n a p ä i v _ e t _ m ä ä _ s a - _ , _ k o e t i _ s ä ä l i s _ s a n a _ e t e i _ t u l i s _ l a i n k a n _ t o s t _ , _ k o n _ t o s a _ n i _ ä k m u t k a _ , _ k o n _ t ä n _ v ä ä r ä t ä _ . _
+_ e t e i _ k u m i n k a _ r i k _ m e n e _ . . . _ j a _ v i ä t t i _ o s u s k a u p a n _ t y ä _ s i t _ k o p p a _ . _
+_ j a _ k y l _ n ä i _ o l l u n _ k ä y n k _ k o s k _ s e _ o l _ j o _ v a i h t u n s _ s i t _ l a a t i k k o _ . . . _ s e _ j ä t t ä _ t o i s e _ s a n g o n _ t o i s e _ v i ä _ . _
+_ j a _ e δ e l i s e - _ , _ - v i i k k o s e s t _ s i t _ t u a _ a i _ r a h a n _ t u l l e s a s I _ , _ k a u p p a n _ . _
+_ k a k s _ m a r k k a _ k o l k k y m e n t _ p e n n i _ . _
+_ m u t _ t u a _ o o _ s i i t _ e δ u l i s e m p _ k o n _ , _ s i n s _ s a a _ k a i k _ p o r e s e k k i _ s ä ä l i _ j a _ e i _ n i i s t _ m - _ , _ v ä h e n e t ä k _ k o _ m a r k a n _ k a p l e s t a _ . _
+_ t a i k _ p e n n i n _ k a p l e s t _ n y _ . _
+_ k y l _ m a r _ n e k _ k a k s _ m a r k k a _ v i i - _ , _ v i i s k y m e n t _ p e n n i _ k u m m i n k i n _ o t t a _ . _
+_ k o s k _ , _ k o - _ , _ k o s k _ s e _ m i ä s _ a i n _ o _ s a n o n k _ k o _ m ä ä _ s a n o _ e t _ e i _ n y y _ o l p _ p a l j o _ m u n i _ k o _ n a a p u r i _ o _ h a k e n u _ j a _ h ä n _ s a n o _ e t _ n o _ t e i j ä n _ t ä y t y _ o t t a _ e n e m ä _ . . . _ m ä ä _ s a n o _ e t t _ e m _ m ä ä _ o t _ e n e m p p ä _ , _ k o _ s e n _ k o _ s ä ä k i n _ t u a _ . _
+_ n a a p u r e i n _ k a n s _ t ä y t y _ o l s _ s o v i n o s _ e i _ s i i t _ t u l _ m i t t ä n _ e t _ n i i t t e n _ G a n s _ m i t t ä n _ k r ä n ä _ . _
+_ t ä y t y _ v e l j e i l _ v a a _ . _
+_ o n _ . _
+_ s e _ m ä ä _ k a s o _ , _ e m _ m ä ä _ o l _ o i k k e n _ i k ä n _ o l k _ k e n e n k k ä n _ k a n s _ r i i δ a s _ . . . _ e m _ m ä ä _ , _ m ä ä _ o i k k e n _ , _ k a m m o _ s e m m o s t _ k o _ j o k u s e _ r i i t e l e _ . _
+_ m n u u _ m i ä l e s t ä n _ s e _ o n _ n i i _ h y v ä _ k o _ j o k a s s e n _ o v e s t _ u s k a l t a _ m e n s _ s i s ä l _ e t _ e i _ , _ v a i k _ j o k u _ s i t _ , _ v ä h ä _ j o t t a i n _ k a u n a _ k a n n a i s k i _ m u t _ k o n _ e i _ k u m m i n k a _ r u p p i _ m i t t ä _ , _ k r ä n ä m ä _ . _
+_ n o _ n i i n _ o _ . _
+_ k y l _ m e i j ä n _ k u l m i l t _ t u a l _ m i s s ä _ , _ m i s t _ m e t _ t u l i n _ t ä n h ä ä n _ . . . _ j a _ o n _ n y _ v i ä l _ n i _ s e m m o s _ , _ o l _ v ä h ä _ s e m m o s s i _ o m i t u i s s i _ n a a p u r e i _ m u t t A _ , . _
+_ e i _ m e i l ä k ä _ s i ä l _ s e n t ä _
