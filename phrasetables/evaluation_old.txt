@@ -1,0 +1,121 @@
+
+eflomal/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                42825
+Avg variants per key:     4.1666
+Avg texts per key:        9.9400
+Keys with single variant: 49.2960 %
+Keys with single text:    32.9901 %
+Keys with single v or t:  50.4028 %
+After singleton removal:
+Norm keys:                21240
+Avg variants per key:     7.3598
+Avg texts per key:        17.7634
+
+giza/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                42616
+Avg variants per key:     5.6226
+Avg texts per key:        10.0598
+Keys with single variant: 47.1842 %
+Keys with single text:    32.7811 %
+Keys with single v or t:  49.1412 %
+After singleton removal:
+Norm keys:                21674
+Avg variants per key:     10.0422
+Avg texts per key:        17.7370
+
+levenshtein/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                43435
+Avg variants per key:     4.1900
+Avg texts per key:        10.1103
+Keys with single variant: 49.2023 %
+Keys with single text:    32.8284 %
+Keys with single v or t:  50.0449 %
+After singleton removal:
+Norm keys:                21698
+Avg variants per key:     7.3672
+Avg texts per key:        18.0002
+
+---------
+eflomal/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                75232
+Avg variants per key:     4.5194
+Avg texts per key:        35.3033
+Keys with single variant: 48.1630 %
+Keys with single text:    30.0444 %
+Keys with single v or t:  49.4178 %
+After singleton removal:
+Norm keys:                38054
+Avg variants per key:     7.9297
+Avg texts per key:        66.8815
+
+giza/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                71810
+Avg variants per key:     8.4713
+Avg texts per key:        34.8177
+Keys with single variant: 41.7198 %
+Keys with single text:    30.1448 %
+Keys with single v or t:  45.2667 %
+After singleton removal:
+Norm keys:                39304
+Avg variants per key:     14.5502
+Avg texts per key:        61.8206
+
+levenshtein/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                75753
+Avg variants per key:     4.3391
+Avg texts per key:        35.2153
+Keys with single variant: 48.8126 %
+Keys with single text:    30.2971 %
+Keys with single v or t:  49.6627 %
+After singleton removal:
+Norm keys:                38132
+Avg variants per key:     7.6144
+Avg texts per key:        67.0227
+
+---------
+eflomal/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                43954
+Avg variants per key:     5.4711
+Avg texts per key:        19.6885
+Keys with single variant: 46.3280 %
+Keys with single text:    25.9112 %
+Keys with single v or t:  47.1857 %
+After singleton removal:
+Norm keys:                23214
+Avg variants per key:     9.4475
+Avg texts per key:        34.1221
+
+giza/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                40014
+Avg variants per key:     9.2459
+Avg texts per key:        18.0092
+Keys with single variant: 40.0060 %
+Keys with single text:    26.8381 %
+Keys with single v or t:  43.0999 %
+After singleton removal:
+Norm keys:                22768
+Avg variants per key:     15.4164
+Avg texts per key:        29.8238
+
+levenshtein/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                44055
+Avg variants per key:     5.5855
+Avg texts per key:        19.6823
+Keys with single variant: 45.4205 %
+Keys with single text:    25.8245 %
+Keys with single v or t:  46.1991 %
+After singleton removal:
+Norm keys:                23702
+Avg variants per key:     9.5068
+Avg texts per key:        33.7603
+
+---------
