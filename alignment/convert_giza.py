@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
 
+# converts the A3.final file format (produced by GIZA) to Pharaoh format (required for symmetrization)
+
 import re, sys
 
 def parse_giza_alignments(inputfile, outputfile, reverse=False):

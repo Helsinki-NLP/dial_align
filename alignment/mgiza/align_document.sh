@@ -11,12 +11,13 @@ MGIZABINDIR=/projappl/nlpl/software/modules/moses/4.0-a89691f/mgiza
 PROJECT=$1
 FID=$2
 NTASKS=$3
+DATADIR=../../data
 
 echo "Aligning file: $PROJECT/$FID"
 
 mkdir -p $PROJECT
-cp ../data/$PROJECT/$FID.orig $PROJECT/$FID.orig
-cp ../data/$PROJECT/$FID.norm $PROJECT/$FID.norm
+cp $DATADIR/$PROJECT/$FID.orig $PROJECT/$FID.orig
+cp $DATADIR/$PROJECT/$FID.norm $PROJECT/$FID.norm
 
 $GIZABINDIR/plain2snt.out $PROJECT/$FID.orig $PROJECT/$FID.norm
 # creates $PROJECT/$FID.orig_$FID.norm.snt (both ways) + $PROJECT/$FID.orig.vcb + $PROJECT/$FID.norm.vcb
@@ -38,6 +39,6 @@ FILES=`ls $PROJECT/$FID.align.rev.A3.final.part*`
 echo $FILES
 python $MGIZABINDIR/merge_alignment.py $FILES > $PROJECT/$FID.align.rev.A3.final
 
-python3 convert.py $PROJECT/$FID.align.fwd.A3.final $PROJECT/$FID.fwd
-python3 convert.py $PROJECT/$FID.align.rev.A3.final $PROJECT/$FID.rev -r
+python3 ../convert_giza.py $PROJECT/$FID.align.fwd.A3.final $PROJECT/$FID.fwd
+python3 ../convert_giza.py $PROJECT/$FID.align.rev.A3.final $PROJECT/$FID.rev -r
 rm $PROJECT/$FID.align.* $PROJECT/$FID.orig* $PROJECT/$FID.norm*

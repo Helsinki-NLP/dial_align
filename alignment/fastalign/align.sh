@@ -14,14 +14,16 @@
 module use -a /projappl/nlpl/software/modules/etc
 module load nlpl-moses
 
+DATADIR=../../data
+
 for PROJECT in archimob ndc skn; do
 	echo $PROJECT
 	mkdir -p $PROJECT
-	FILES=`ls ../data/$PROJECT/*.orig`
+	FILES=`ls $DATADIR/$PROJECT/*.orig`
 	for F in $FILES; do
 		FID=`basename $F .orig`
 		echo "  $FID"
-		python ../mergefiles.py ../data/$PROJECT/$FID".orig" ../data/$PROJECT/$FID".norm" > $PROJECT/$FID".text"
+		python ../mergefiles.py $DATADIR/$PROJECT/$FID".orig" $DATADIR/$PROJECT/$FID".norm" > $PROJECT/$FID".text"
 		fast_align -i $PROJECT/$FID".text" -d -o -v > $PROJECT/$FID".fwd"
 		fast_align -i $PROJECT/$FID".text" -d -o -v -r > $PROJECT/$FID".rev"
 		atools -c grow-diag-final-and -i $PROJECT/$FID".fwd" -j $PROJECT/$FID".rev" > $PROJECT/$FID".sym"

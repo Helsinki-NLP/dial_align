@@ -14,10 +14,12 @@
 module use -a /projappl/nlpl/software/modules/etc
 module load nlpl-moses
 
+DATADIR=../../data
+
 for PROJECT in archimob ndc skn; do
 	echo $PROJECT
 	mkdir -p $PROJECT
-	FILES=`ls ../data/$PROJECT/*.orig`
+	FILES=`ls $DATADIR/$PROJECT/*.orig`
 	for F in $FILES; do
 		FID=`basename $F .orig`
 		echo "  $FID"
