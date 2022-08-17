@@ -47,6 +47,7 @@ if len(files) == 0:
 	sys.exit()
 
 VAR_OCC_THRESH = 10
+MAX_N_LEN = 1
 print("Reading phrase tables (remove variants with <{} variants)...".format(VAR_OCC_THRESH))
 data = {}
 fileids = []
@@ -62,6 +63,8 @@ for f in files:
 		probs = [float(x) for x in elements[2].split(" ")]
 		links = [x for x in elements[3].split(" ")]
 		counts = [int(x) for x in elements[4].split(" ")]
+#		if len(orig_str) > MAX_N_LEN or len(norm_str) > MAX_N_LEN:
+#			continue
 		if counts[2] < VAR_OCC_THRESH:
 			continue
 		if norm_str not in data:
@@ -131,16 +134,29 @@ for n in sorted(data):
 		continue
 	#print(n, min(distance_list), max(distance_list), statistics.mean(distance_list))
 	means[n] = statistics.mean(distance_list)
-	stdevs[n] = statistics.stdev(distance_list)
+	stdevs[n] = statistics.variance(distance_list)
 print("  Skipped comparisons:", skipped)
 
 print()
+print("MEANS")
 i = 0
 for k, v in sorted(means.items(), key=lambda x: x[1], reverse=True):
-#for k, v in sorted(stdevs.items(), key=lambda x: x[1], reverse=True):
 	i += 1
 	print(i, k, v)
-	displayKey(k, data[k])
+	#displayKey(k, data[k])
+	print("  ", " ".join(data[k].keys()))
+	print()
+	if i > 20:
+		break
+
+print()
+print("VARIANCES")
+i = 0
+for k, v in sorted(stdevs.items(), key=lambda x: x[1], reverse=True):
+	i += 1
+	print(i, k, v)
+	#displayKey(k, data[k])
+	print("  ", " ".join(data[k].keys()))
 	print()
 	if i > 20:
 		break
