@@ -14,14 +14,16 @@
 module use -a /projappl/nlpl/software/modules/etc
 module load nlpl-efmaral
 
+DATADIR=../../data
+
 for PROJECT in archimob ndc skn; do
 	echo $PROJECT
 	mkdir -p $PROJECT
-	FILES=`ls ../data/$PROJECT/*.orig`
+	FILES=`ls $DATADIR/$PROJECT/*.orig`
 	for F in $FILES; do
 		FID=`basename $F .orig`
 		echo "  $FID"
-		align_eflomal.py -s ../data/$PROJECT/$FID".orig" -t ../data/$PROJECT/$FID".norm" -f $PROJECT/$FID".fwd" -r $PROJECT/$FID".rev"
+		align_eflomal.py -s $DATADIR/$PROJECT/$FID".orig" -t $DATADIR/$PROJECT/$FID".norm" -f $PROJECT/$FID".fwd" -r $PROJECT/$FID".rev"
 		atools -c grow-diag-final-and -i$PROJECT/$FID".fwd" -j$PROJECT/$FID".rev" > $PROJECT/$FID".sym"
 	done
 done
