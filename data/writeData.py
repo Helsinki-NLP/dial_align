@@ -9,9 +9,9 @@ def mkdirp(path):
 		pass
 
 def writeCSMT(folder, fileid, data):
-	mkdirp(f"data/{folder}")
-	f_orig = open(f"data/{folder}/{fileid}.orig", "w")
-	f_norm = open(f"data/{folder}/{fileid}.norm", "w")
+	mkdirp(f"{folder}")
+	f_orig = open(f"{folder}/{fileid}.orig", "w")
+	f_norm = open(f"{folder}/{fileid}.norm", "w")
 	for sent_orig, sent_norm in data:
 		orig = [" ".join(list(w.replace(" ", "_"))) for w in sent_orig]
 		orig = "_ " + " _ ".join(orig) + " _"
