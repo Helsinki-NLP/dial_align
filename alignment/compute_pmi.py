@@ -1,19 +1,26 @@
 #! /usr/bin/env python3
 
-import collections, sys, os, math
+import collections, sys, os, math, glob
 
 paircounts = collections.defaultdict(int)
 origcounts = collections.defaultdict(int)
 normcounts = collections.defaultdict(int)
 
-project = sys.argv[1]
-levfolder = sys.argv[2]
+# Pattern representing all alignment files to be considered
+# For single document, e.g. "../leven/archimob/1007.fwd"
+# For entire corpus, e.g. "../leven/archimob/*.fwd"
+pattern = sys.argv[1]
+files = glob.glob(pattern)
+datadir = "../../data"
+print(f"Computing PMI scores from {len(files)} files")
 
-files = [x.replace(".fwd", "") for x in os.listdir(f"../{levfolder}/{project}") if x.endswith(".fwd")]
 for f in files:
-	of = open(f"../data/{project}/{f}.orig")
-	nf = open(f"../data/{project}/{f}.norm")
-	af = open(f"../{levfolder}/{project}/{f}.fwd")
+	dirname, basename = os.path.split(f)
+	project = dirname.split("/")[-1]
+	fileid = basename.split(".")[0]
+	of = open(f"{datadir}/{project}/{fileid}.orig")
+	nf = open(f"{datadir}/{project}/{fileid}.norm")
+	af = open(f)
 
 	for origline, normline, alignline in zip(of, nf, af):
 		origs = origline.strip().split(" ")
@@ -65,5 +72,7 @@ for o in origcounts:
 		if (o, n) not in costs and (o, n) != ("@", "@"):
 			costs[o, n] = 1.0
 
+outfilename = open(sys.argv[2], 'w')
 for x, y in sorted(costs):
-	print(f"{x} {y} {costs[x,y]:.6f}")
+	outfilename.write(f"{x} {y} {costs[x,y]:.6f}\n")
+outfilename.close()

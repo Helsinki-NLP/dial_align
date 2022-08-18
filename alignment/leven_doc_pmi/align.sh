@@ -18,13 +18,13 @@ source ../../pyenv/bin/activate
 
 for PROJECT in archimob ndc skn; do
 	echo $PROJECT
-	python3 ../compute_pmi.py "../leven/$PROJECT/*.fwd" $PROJECT.costs
 	mkdir -p $PROJECT
 	FILES=`ls $DATADIR/$PROJECT/*.orig`
 	for F in $FILES; do
 		FID=`basename $F .orig`
 		echo "  $FID"
-		python ../levenshtein_align.py -method weighted -src $DATADIR/$PROJECT/$FID".orig" -tgt $DATADIR/$PROJECT/$FID".norm" -fwd $PROJECT/$FID".fwd" -costs $PROJECT.costs
+		python3 ../compute_pmi.py "../leven/$PROJECT/$FID.fwd" $PROJECT/$FID.costs
+		python ../levenshtein_align.py -method weighted -src $DATADIR/$PROJECT/$FID".orig" -tgt $DATADIR/$PROJECT/$FID".norm" -fwd $PROJECT/$FID".fwd" -costs $PROJECT/$FID.costs
 		python ../add_adjacent_identicals.py $DATADIR/$PROJECT/$FID".orig" $DATADIR/$PROJECT/$FID".norm" $PROJECT/$FID".fwd" $PROJECT/$FID".fwd+aai"
 	done
 done
