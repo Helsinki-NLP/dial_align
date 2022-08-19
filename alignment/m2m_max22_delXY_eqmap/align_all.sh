@@ -1,8 +1,8 @@
 #! /bin/bash -l
 
-#SBATCH -J m2minsdel
-#SBATCH -o log_m2minsdel.%j.out
-#SBATCH -e log_m2minsdel.%j.err
+#SBATCH -J m2m_max22_delXY_eqmap
+#SBATCH -o log.%j.out
+#SBATCH -e log.%j.err
 #SBATCH -p small
 #SBATCH -n 1
 #SBATCH -N 1
@@ -16,5 +16,5 @@ module load parallel
 for PROJECT in archimob ndc skn; do
 	echo $PROJECT
 	mkdir -p $PROJECT
-	ls ../data/$PROJECT/*.orig | parallel -j $SLURM_CPUS_PER_TASK source align_document.sh $PROJECT {}
+	ls ../../data/$PROJECT/*.orig | parallel -j $SLURM_CPUS_PER_TASK source align_document.sh $PROJECT {}
 done

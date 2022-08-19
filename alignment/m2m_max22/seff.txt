@@ -1,0 +1,15 @@
+Job ID: 12835424
+Cluster: puhti
+User/Group: yvessche/yvessche
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 10
+CPU Utilized: 15:14:28
+CPU Efficiency: 93.60% of 16:17:00 core-walltime
+Job Wall-clock time: 01:37:42
+Memory Utilized: 567.91 MB
+Memory Efficiency: 5.55% of 10.00 GB
+Job consumed 17.91 CSC billing units based on following used resources
+Billed project: project_2005047
+CPU BU: 16.28
+Mem BU: 1.63

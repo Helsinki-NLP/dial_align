@@ -26,7 +26,21 @@ for line in sys.stdin:
 			# no alignment
 		else:
 			if sepInChar in src_chunk and sepInChar in tgt_chunk:
-				print("Not implemented 2-2 correspondence:", src_chunk, tgt_chunk)
+				src_elem = src_chunk.split(sepInChar)
+				tgt_elem = tgt_chunk.split(sepInChar)
+				assert(len(src_elem) == len(tgt_elem) and len(src_elem) == 2)
+				if src_elem[0] == tgt_elem[0] or src_elem[1] == tgt_elem[1]:
+					alignments.append((srcid, tgtid))
+					alignments.append((srcid+1, tgtid+1))
+				elif src_elem[0] == tgt_elem[1] or src_elem[1] == tgt_elem[0]:
+					#print("Swap detected:", src_chunk, "<=>", tgt_chunk)
+					alignments.append((srcid+1, tgtid))
+					alignments.append((srcid, tgtid+1))
+				else:
+					alignments.append((srcid, tgtid))
+					alignments.append((srcid+1, tgtid+1))
+				srcid += 2
+				tgtid += 2
 			elif sepInChar in src_chunk:
 				for i in range(src_chunk.count(sepInChar)+1):
 					alignments.append((srcid, tgtid))
