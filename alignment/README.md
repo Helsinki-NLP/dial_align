@@ -23,6 +23,8 @@ For all methods, the `add_adjacent_identicals.py` script is applied to increase 
 
 All experiments are based on the [m2m-aligner](https://github.com/letter-to-phoneme/m2m-aligner) toolkit by Jiampojamarn et al.
 
+We only use `m2m_max11_delXY` and `m2m_max22_delXY_eqmap` for further evaluation.
+
 ## Word alignment methods
 
 * `giza`: [GIZA++](https://github.com/moses-smt/giza-pp) with default parameters (except `mkcls` with 10 classes)
