@@ -1,0 +1,41 @@
+
+m2m_max11_delXY/archimob/*.fwd+aai
+Number of files: 43
+Unaligned source tokens: 14.29%
+Unaligned target tokens: 23.22%
+Alignment to identicals: 91.81%
+Alignment to differents: 8.19%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.42%
+Format errors:   0
+
+m2m_max11_delXY/archimob-gold/*.fwd+aai
+Number of files: 6
+Unaligned source tokens: 14.77%
+Unaligned target tokens: 24.52%
+Alignment to identicals: 91.11%
+Alignment to differents: 8.89%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.62%
+Format errors:   0
+
+m2m_max11_delXY/ndc/*.fwd+aai
+Number of files: 438
+Unaligned source tokens: 2.31%
+Unaligned target tokens: 10.49%
+Alignment to identicals: 91.43%
+Alignment to differents: 8.57%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.15%
+Format errors:   0
+
+m2m_max11_delXY/skn/*.fwd+aai
+Number of files: 99
+Unaligned source tokens: 3.42%
+Unaligned target tokens: 7.97%
+Alignment to identicals: 97.27%
+Alignment to differents: 2.73%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.04%
+Format errors:   0
+

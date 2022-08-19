@@ -24,13 +24,14 @@ print(pattern)
 print("Number of files: {}".format(len(files)))
 if len(files) == 0:
 	sys.exit()
+datadir = sys.argv[2]
 
 for f in files:
 	dirname, basename = os.path.split(f)
 	project = dirname.split("/")[-1]
 	fileid = basename.split(".")[0]
-	srcfilename = f"data/{project}/{fileid}.orig"
-	tgtfilename = f"data/{project}/{fileid}.norm"
+	srcfilename = f"{datadir}/{project}/{fileid}.orig"
+	tgtfilename = f"{datadir}/{project}/{fileid}.norm"
 
 	srcfile = open(srcfilename)
 	tgtfile = open(tgtfilename)

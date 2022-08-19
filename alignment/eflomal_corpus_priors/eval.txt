@@ -1,0 +1,59 @@
+
+eflomal_corpus_priors/archimob/*.sym
+Number of files: 43
+Unaligned source tokens: 3.04%
+Unaligned target tokens: 12.45%
+Alignment to identicals: 86.28%
+Alignment to differents: 13.72%
+Crossing alignments:     3.18%
+Vowel-cons alignments:   0.75%
+Format errors:   0
+
+eflomal_corpus_priors/archimob-gold/*.sym
+Number of files: 6
+Unaligned source tokens: 3.15%
+Unaligned target tokens: 13.17%
+Alignment to identicals: 84.61%
+Alignment to differents: 15.39%
+Crossing alignments:     3.42%
+Vowel-cons alignments:   1.12%
+Format errors:   0
+
+eflomal_corpus_priors/ndc/*.sym
+Number of files: 438
+Unaligned source tokens: 3.65%
+Unaligned target tokens: 9.00%
+Alignment to identicals: 89.44%
+Alignment to differents: 10.56%
+Crossing alignments:     1.67%
+Vowel-cons alignments:   0.35%
+Format errors:   0
+
+eflomal_corpus_priors/skn/*.sym
+Number of files: 99
+Cannot parse alignment in file eflomal_corpus_priors/skn/21a.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/27a.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/45b.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/45b.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/13b.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/12b.sym:
+
+Cannot parse alignment in file eflomal_corpus_priors/skn/10a.sym:
+
+Unaligned source tokens: 2.01%
+Unaligned target tokens: 6.61%
+Alignment to identicals: 95.15%
+Alignment to differents: 4.85%
+Crossing alignments:     11.21%
+Vowel-cons alignments:   0.30%
+Format errors:   9
+

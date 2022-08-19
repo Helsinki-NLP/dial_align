@@ -1,0 +1,137 @@
+
+m2m_max22_eqmap/archimob/*.fwd
+Number of files: 43
+Cannot parse alignment in file m2m_max22_eqmap/archimob/1198.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/archimob/1147.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 72.56%
+Alignment to differents: 27.44%
+Crossing alignments:     0.58%
+Vowel-cons alignments:   5.21%
+Format errors:   2
+
+m2m_max22_eqmap/archimob-gold/*.fwd
+Number of files: 6
+Cannot parse alignment in file m2m_max22_eqmap/archimob-gold/1198.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 70.49%
+Alignment to differents: 29.51%
+Crossing alignments:     0.72%
+Vowel-cons alignments:   5.51%
+Format errors:   1
+
+m2m_max22_eqmap/ndc/*.fwd
+Number of files: 438
+Cannot parse alignment in file m2m_max22_eqmap/ndc/steigen_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/steigen_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/hattfjelldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/hattfjelldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/time_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/time_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/gauldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/gauldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/gauldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/aaseral_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/heroeyN_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/heroeyN_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/vegaarshei_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/vegaarshei_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/lakselv_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/aal_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/aal_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/stavanger_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/beiarn_05um.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/gjesdal_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/kalvaag_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/kalvaag_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/kalvaag_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/kalvaag_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/nissedal_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/skaugdalen_39.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/heroeyMR_01um.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/heroeyMR_01um.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/fusa_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/fusa_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/eidfjord_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/roeros_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/valle_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/tinn_01um.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/bud_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/bud_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/trysil_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/tinn_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/vinje_08gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/vinje_08gk.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/ndc/lindaas_04gk.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 78.91%
+Alignment to differents: 21.09%
+Crossing alignments:     0.46%
+Vowel-cons alignments:   5.07%
+Format errors:   41
+
+m2m_max22_eqmap/skn/*.fwd
+Number of files: 99
+Cannot parse alignment in file m2m_max22_eqmap/skn/44a.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/skn/02b.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/skn/09a.fwd:
+
+Cannot parse alignment in file m2m_max22_eqmap/skn/29a.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 87.15%
+Alignment to differents: 12.85%
+Crossing alignments:     0.29%
+Vowel-cons alignments:   1.98%
+Format errors:   4
+

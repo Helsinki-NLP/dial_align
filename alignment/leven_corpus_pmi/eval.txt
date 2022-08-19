@@ -1,0 +1,41 @@
+
+leven_corpus_pmi/archimob/*.fwd+aai
+Number of files: 43
+Unaligned source tokens: 2.33%
+Unaligned target tokens: 11.71%
+Alignment to identicals: 85.17%
+Alignment to differents: 14.83%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   1.29%
+Format errors:   0
+
+leven_corpus_pmi/archimob-gold/*.fwd+aai
+Number of files: 6
+Unaligned source tokens: 2.06%
+Unaligned target tokens: 12.28%
+Alignment to identicals: 83.52%
+Alignment to differents: 16.48%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   1.63%
+Format errors:   0
+
+leven_corpus_pmi/ndc/*.fwd+aai
+Number of files: 438
+Unaligned source tokens: 1.26%
+Unaligned target tokens: 8.78%
+Alignment to identicals: 89.06%
+Alignment to differents: 10.94%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.53%
+Format errors:   0
+
+leven_corpus_pmi/skn/*.fwd+aai
+Number of files: 99
+Unaligned source tokens: 1.62%
+Unaligned target tokens: 5.82%
+Alignment to identicals: 94.94%
+Alignment to differents: 5.06%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.38%
+Format errors:   0
+

@@ -1,0 +1,261 @@
+
+m2m_max22/archimob/*.fwd
+Number of files: 43
+Cannot parse alignment in file m2m_max22/archimob/1198.fwd:
+
+Cannot parse alignment in file m2m_max22/archimob/1147.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 71.79%
+Alignment to differents: 28.21%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   5.35%
+Format errors:   2
+
+m2m_max22/archimob-gold/*.fwd
+Number of files: 6
+Cannot parse alignment in file m2m_max22/archimob-gold/1198.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 69.76%
+Alignment to differents: 30.24%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   5.66%
+Format errors:   1
+
+m2m_max22/ndc/*.fwd
+Number of files: 438
+Cannot parse alignment in file m2m_max22/ndc/steigen_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/steigen_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/stranda_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/hattfjelldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/hattfjelldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/time_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/time_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/tana_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gauldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gauldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gauldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/meraaker_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/aaseral_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/heroeyN_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/heroeyN_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/vegaarshei_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/vegaarshei_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/surnadal_19.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/lakselv_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/botnhamn_03.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/roeros_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/soemna_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/stamsund_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/aal_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/aal_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/enebakk_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/enebakk_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/enebakk_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/enebakk_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/enebakk_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/enebakk_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kvaefjord_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kirkenaer_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/dalsbygda_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/luster_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kjoellefjord_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kjoellefjord_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/stavanger_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/vardoe_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/beiarn_05um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/beiarn_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gjesdal_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/sokndal_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/sokndal_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/suldal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kalvaag_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kalvaag_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kalvaag_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kalvaag_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/nissedal_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/roemskog_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/skaugdalen_39.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/medby_74.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/heroeyMR_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/heroeyMR_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kjoellefjord_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/aremark_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/bjugn_15.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gjesdal_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gjesdal_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kvam_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/fusa_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/fusa_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/evje_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kaafjord_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gausdal_05um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/eidfjord_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/stavanger_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/rauma_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/rauma_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/todalen_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/lierne_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/beiarn_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/mo_i_rana_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/roeros_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/roeros_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/valle_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/gjesdal_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/rauma_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kirkenes_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kirkenes_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/kirkenes_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/tinn_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/bud_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/bud_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/bud_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/valle_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/lindaas_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/narvik_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/trysil_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/aal_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/bjugn_19.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/tinn_03gm.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/dalsbygda_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/fusa_04gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/stange_06uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/namdalen_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/namdalen_02uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/rena_01um.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/vinje_08gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/vinje_08gk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/luster_06uk.fwd:
+
+Cannot parse alignment in file m2m_max22/ndc/lindaas_04gk.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 78.24%
+Alignment to differents: 21.76%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   4.90%
+Format errors:   103
+
+m2m_max22/skn/*.fwd
+Number of files: 99
+Cannot parse alignment in file m2m_max22/skn/44a.fwd:
+
+Cannot parse alignment in file m2m_max22/skn/02b.fwd:
+
+Cannot parse alignment in file m2m_max22/skn/09a.fwd:
+
+Cannot parse alignment in file m2m_max22/skn/29a.fwd:
+
+Unaligned source tokens: 0.00%
+Unaligned target tokens: 0.00%
+Alignment to identicals: 86.45%
+Alignment to differents: 13.55%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   2.25%
+Format errors:   4
+

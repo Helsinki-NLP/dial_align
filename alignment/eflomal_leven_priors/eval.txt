@@ -1,0 +1,59 @@
+
+eflomal_leven_priors/archimob/*.sym
+Number of files: 43
+Unaligned source tokens: 3.22%
+Unaligned target tokens: 11.53%
+Alignment to identicals: 85.84%
+Alignment to differents: 14.16%
+Crossing alignments:     3.32%
+Vowel-cons alignments:   1.16%
+Format errors:   0
+
+eflomal_leven_priors/archimob-gold/*.sym
+Number of files: 6
+Unaligned source tokens: 3.16%
+Unaligned target tokens: 12.17%
+Alignment to identicals: 84.26%
+Alignment to differents: 15.74%
+Crossing alignments:     4.41%
+Vowel-cons alignments:   1.46%
+Format errors:   0
+
+eflomal_leven_priors/ndc/*.sym
+Number of files: 438
+Unaligned source tokens: 2.58%
+Unaligned target tokens: 9.08%
+Alignment to identicals: 89.76%
+Alignment to differents: 10.24%
+Crossing alignments:     1.08%
+Vowel-cons alignments:   0.29%
+Format errors:   0
+
+eflomal_leven_priors/skn/*.sym
+Number of files: 99
+Cannot parse alignment in file eflomal_leven_priors/skn/21a.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/27a.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/45b.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/45b.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/13b.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/13b.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/13b.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/12b.sym:
+
+Cannot parse alignment in file eflomal_leven_priors/skn/10a.sym:
+
+Unaligned source tokens: 1.90%
+Unaligned target tokens: 6.31%
+Alignment to identicals: 95.18%
+Alignment to differents: 4.82%
+Crossing alignments:     4.55%
+Vowel-cons alignments:   0.27%
+Format errors:   9
+

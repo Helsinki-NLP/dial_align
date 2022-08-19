@@ -1,0 +1,59 @@
+
+eflomal/archimob/*.sym
+Number of files: 43
+Unaligned source tokens: 2.68%
+Unaligned target tokens: 9.12%
+Alignment to identicals: 82.86%
+Alignment to differents: 17.14%
+Crossing alignments:     2.96%
+Vowel-cons alignments:   1.26%
+Format errors:   0
+
+eflomal/archimob-gold/*.sym
+Number of files: 6
+Unaligned source tokens: 2.37%
+Unaligned target tokens: 9.54%
+Alignment to identicals: 80.93%
+Alignment to differents: 19.07%
+Crossing alignments:     3.71%
+Vowel-cons alignments:   1.75%
+Format errors:   0
+
+eflomal/ndc/*.sym
+Number of files: 438
+Unaligned source tokens: 2.75%
+Unaligned target tokens: 8.75%
+Alignment to identicals: 89.45%
+Alignment to differents: 10.55%
+Crossing alignments:     0.97%
+Vowel-cons alignments:   0.45%
+Format errors:   0
+
+eflomal/skn/*.sym
+Number of files: 99
+Cannot parse alignment in file eflomal/skn/21a.sym:
+
+Cannot parse alignment in file eflomal/skn/27a.sym:
+
+Cannot parse alignment in file eflomal/skn/45b.sym:
+
+Cannot parse alignment in file eflomal/skn/45b.sym:
+
+Cannot parse alignment in file eflomal/skn/13b.sym:
+
+Cannot parse alignment in file eflomal/skn/13b.sym:
+
+Cannot parse alignment in file eflomal/skn/13b.sym:
+
+Cannot parse alignment in file eflomal/skn/12b.sym:
+
+Cannot parse alignment in file eflomal/skn/10a.sym:
+
+Unaligned source tokens: 2.00%
+Unaligned target tokens: 6.07%
+Alignment to identicals: 94.92%
+Alignment to differents: 5.08%
+Crossing alignments:     4.55%
+Vowel-cons alignments:   0.26%
+Format errors:   9
+
