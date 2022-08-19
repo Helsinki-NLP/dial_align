@@ -25,3 +25,13 @@ All experiments are based on the [m2m-aligner](https://github.com/letter-to-phon
 
 ## Word alignment methods
 
+* `giza`: [GIZA++](https://github.com/moses-smt/giza-pp) with default parameters (except `mkcls` with 10 classes)
+* `mgiza`: [MGIZA](https://github.com/moses-smt/mgiza) with default parameters (except `mkcls` with 10 classes) - yields (almost) the same results as `giza` but isn't significantly faster
+* `fastalign`: [fast_align](https://github.com/clab/fast_align) with default parameters
+* `eflomal`: [eflomal](https://github.com/robertostling/eflomal) with default parameters
+* `eflomal_corpus_priors`: eflomal with priors estimated on the entire corpus
+* `eflomal_leven_priors`: eflomal with priors simulating Levenshtein distance (high probability for character identity, low probability for character difference)
+
+All word alignment methods are run in both directions and are then symmetrized with atools (from `fast_align`) using the *grow-diag-final-and* method. Other symmetrization methods are not considered here.
+
+The `gdfa.py` script from [NLTK](https://github.com/nltk/nltk/blob/develop/nltk/translate/gdfa.py) is an alternative to `atools`, but seems to have various problems/bugs. We decided not to use it here.
