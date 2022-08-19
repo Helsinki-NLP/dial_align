@@ -32,6 +32,7 @@ All experiments are based on the [m2m-aligner](https://github.com/letter-to-phon
 * `eflomal_corpus_priors`: eflomal with priors estimated on the entire corpus
 * `eflomal_leven_priors`: eflomal with priors simulating Levenshtein distance (high probability for character identity, low probability for character difference)
 
-All word alignment methods are run in both directions and are then symmetrized with atools (from `fast_align`) using the *grow-diag-final-and* method. Other symmetrization methods are not considered here.
+All word alignment methods are run in both directions and are then symmetrized with atools (from `fast_align`) using the *grow-diag-final-and* method. 
+Other symmetrization methods are not considered here.
 
-The `gdfa.py` script from [NLTK](https://github.com/nltk/nltk/blob/develop/nltk/translate/gdfa.py) is an alternative to `atools`, but seems to have various problems/bugs. We decided not to use it here.
+**Note:** There are (at least) three implementations of the *grow-diag-final-and* method: `atools`, `symal` (from Moses) and `gdfa.py` (from [NLTK](https://github.com/nltk/nltk/blob/develop/nltk/translate/gdfa.py)). They all yield different results, in particular `gdfa.py` seems to have various problems/bugs. The `symcheck` directory contains a few experiments.
