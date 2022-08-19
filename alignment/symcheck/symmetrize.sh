@@ -23,7 +23,7 @@ for F in $FILES; do
 	FID=`basename $F .fwd`
 	echo "  $FID"
 	atools -c grow-diag-final-and -i../$ALIGNER/$PROJECT/$FID.fwd -j../$ALIGNER/$PROJECT/$FID.rev > $PROJECT/$FID.atools
-	python3 ../gdfa.py ../data/$PROJECT/$FID.orig ../data/$PROJECT/$FID.norm ../$ALIGNER/$PROJECT/$FID.fwd ../$ALIGNER/$PROJECT/$FID.rev > $PROJECT/$FID.nltk
-	python3 ../pharaoh2bal.py ../data/$PROJECT/$FID.orig ../data/$PROJECT/$FID.norm ../$ALIGNER/$PROJECT/$FID.fwd ../$ALIGNER/$PROJECT/$FID.rev > $PROJECT/$FID.bal
+	python3 gdfa.py ../../data/$PROJECT/$FID.orig ../../data/$PROJECT/$FID.norm ../$ALIGNER/$PROJECT/$FID.fwd ../$ALIGNER/$PROJECT/$FID.rev > $PROJECT/$FID.nltk
+	python3 pharaoh2bal.py ../../data/$PROJECT/$FID.orig ../../data/$PROJECT/$FID.norm ../$ALIGNER/$PROJECT/$FID.fwd ../$ALIGNER/$PROJECT/$FID.rev > $PROJECT/$FID.bal
 	symal -alignment=grow -diagonal=yes -both=yes < $PROJECT/$FID.bal | awk -F' {##} ' '{print $3}' > $PROJECT/$FID.symal
 done
