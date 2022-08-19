@@ -8,3 +8,6 @@ The code in this repo addresses the following task:
 * `alignment`: The character alignment methods.
 * `phrasetables`: The n-gram pairs extracted from the alignments.
 
+An overview of the results can be found in our presentation at *Methods in Dialectology* 2022:
+
+https://researchportal.helsinki.fi/en/activities/corpus-based-computational-dialectology-with-normalization
