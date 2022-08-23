@@ -1,0 +1,33 @@
+
+leven/archimob/*.rev
+Number of files: 43
+Unaligned source tokens: 4.51%
+Unaligned target tokens: 13.27%
+Alignment to identicals: 87.69%
+Alignment to differents: 12.31%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.84%
+Format errors:   0
+
+leven/archimob-gold/*.rev
+Number of files: 0
+leven/ndc/*.rev
+Number of files: 438
+Unaligned source tokens: 5.79%
+Unaligned target tokens: 9.46%
+Alignment to identicals: 89.96%
+Alignment to differents: 10.04%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.41%
+Format errors:   0
+
+leven/skn/*.rev
+Number of files: 99
+Unaligned source tokens: 2.43%
+Unaligned target tokens: 7.54%
+Alignment to identicals: 95.53%
+Alignment to differents: 4.47%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   0.30%
+Format errors:   0
+

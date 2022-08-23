@@ -1,8 +1,8 @@
 #! /bin/bash -l
 
-#SBATCH -J leven_pmi
-#SBATCH -o log_leven_pmi.%j.out
-#SBATCH -e log_leven_pmi.%j.err
+#SBATCH -J leven_corpus_pmi
+#SBATCH -o log.%j.out
+#SBATCH -e log.%j.err
 #SBATCH -p small
 #SBATCH -n 1
 #SBATCH -N 1

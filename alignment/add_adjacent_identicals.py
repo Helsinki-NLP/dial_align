@@ -34,7 +34,7 @@ for srcline, tgtline, alline in zip(srcfile, tgtfile, alfile):
 	try:
 		alignments = [(int(x.split("-")[0]), (int(x.split("-")[1]))) for x in alline.strip().split(" ")]
 	except ValueError:
-		print(f"Cannot parse alignment in file {f}:")
+		print(f"Cannot parse alignment in file {sys.argv[3]}:")
 		print(alline.strip())
 		errors += 1
 		outfile.write(alline)		# write the line without change

@@ -1,8 +1,8 @@
 #! /bin/bash -l
 
 #SBATCH -J leven
-#SBATCH -o log_leven.%j.out
-#SBATCH -e log_leven.%j.err
+#SBATCH -o log.%j.out
+#SBATCH -e log.%j.err
 #SBATCH -p small
 #SBATCH -n 1
 #SBATCH -N 1
@@ -25,6 +25,7 @@ for PROJECT in archimob ndc skn; do
 		echo "  $FID"
 		python ../levenshtein_align.py -method edlib -src $DATADIR/$PROJECT/$FID".orig" -tgt $DATADIR/$PROJECT/$FID".norm" -fwd $PROJECT/$FID".fwd" -rev $PROJECT/$FID".rev"
 		python ../add_adjacent_identicals.py $DATADIR/$PROJECT/$FID".orig" $DATADIR/$PROJECT/$FID".norm" $PROJECT/$FID".fwd" $PROJECT/$FID".fwd+aai"
+		python ../add_adjacent_identicals.py $DATADIR/$PROJECT/$FID".orig" $DATADIR/$PROJECT/$FID".norm" $PROJECT/$FID".rev" $PROJECT/$FID".rev+aai"
 	done
 done
 
@@ -40,5 +41,6 @@ for PROJECT in archimob ndc skn; do
 		FID=`basename $F .orig`
 		echo "  SYM $FID"
 		atools -c grow-diag-final-and -i $PROJECT/$FID".fwd" -j $PROJECT/$FID".rev" > $PROJECT/$FID".sym"
+		python ../add_adjacent_identicals.py $DATADIR/$PROJECT/$FID".orig" $DATADIR/$PROJECT/$FID".norm" $PROJECT/$FID".sym" $PROJECT/$FID".sym+aai"
 	done
 done

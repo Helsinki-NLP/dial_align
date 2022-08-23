@@ -13,8 +13,8 @@ if [ ! -d "$EXP/archimob-gold" ]; then
 	done
 	cd $CURPWD
 fi
-touch $EXP/eval.txt
-echo "" > $EXP/eval.txt
+touch $EXP/eval.$EXT.txt
+echo "" > $EXP/eval.$EXT.txt
 for PROJ in archimob archimob-gold ndc skn; do
-	python3 evaluate.py "$EXP/$PROJ/*.$EXT" ../data >> $EXP/eval.txt
+	python3 evaluate.py "$EXP/$PROJ/*.$EXT" ../data >> $EXP/eval.$EXT.txt
 done

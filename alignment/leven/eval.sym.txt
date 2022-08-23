@@ -1,0 +1,33 @@
+
+leven/archimob/*.sym
+Number of files: 43
+Unaligned source tokens: 4.14%
+Unaligned target tokens: 12.78%
+Alignment to identicals: 87.22%
+Alignment to differents: 12.78%
+Crossing alignments:     0.39%
+Vowel-cons alignments:   1.03%
+Format errors:   0
+
+leven/archimob-gold/*.sym
+Number of files: 0
+leven/ndc/*.sym
+Number of files: 438
+Unaligned source tokens: 5.73%
+Unaligned target tokens: 9.41%
+Alignment to identicals: 89.92%
+Alignment to differents: 10.08%
+Crossing alignments:     0.09%
+Vowel-cons alignments:   0.42%
+Format errors:   0
+
+leven/skn/*.sym
+Number of files: 99
+Unaligned source tokens: 2.39%
+Unaligned target tokens: 7.51%
+Alignment to identicals: 95.51%
+Alignment to differents: 4.49%
+Crossing alignments:     0.05%
+Vowel-cons alignments:   0.31%
+Format errors:   0
+

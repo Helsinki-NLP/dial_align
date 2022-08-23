@@ -1,6 +1,6 @@
 #! /bin/bash -l
 
-#SBATCH -J leven_doc_pmi
+#SBATCH -J leven_swap
 #SBATCH -o log.%j.out
 #SBATCH -e log.%j.err
 #SBATCH -p small
@@ -23,8 +23,7 @@ for PROJECT in archimob ndc skn; do
 	for F in $FILES; do
 		FID=`basename $F .orig`
 		echo "  $FID"
-		python3 ../compute_pmi.py "../leven/$PROJECT/$FID.fwd" $PROJECT/$FID.costs
-		python ../levenshtein_align.py -method weighted -src $DATADIR/$PROJECT/$FID".orig" -tgt $DATADIR/$PROJECT/$FID".norm" -fwd $PROJECT/$FID".fwd" -costs $PROJECT/$FID.costs
+		python ../levenshtein_align.py -method damerau -src $DATADIR/$PROJECT/$FID".orig" -tgt $DATADIR/$PROJECT/$FID".norm" -fwd $PROJECT/$FID".fwd"
 		python ../add_adjacent_identicals.py $DATADIR/$PROJECT/$FID".orig" $DATADIR/$PROJECT/$FID".norm" $PROJECT/$FID".fwd" $PROJECT/$FID".fwd+aai"
 	done
 done
