@@ -29,7 +29,7 @@ Norm keys:                21674
 Avg variants per key:     10.0422
 Avg texts per key:        17.7370
 
-levenshtein/archimob/*.phrasetable.gz
+leven/archimob/*.phrasetable.gz
 Number of files: 43
 Norm keys:                43435
 Avg variants per key:     4.1900
@@ -75,7 +75,7 @@ Norm keys:                39304
 Avg variants per key:     14.5502
 Avg texts per key:        61.8206
 
-levenshtein/ndc/*.phrasetable.gz
+leven/ndc/*.phrasetable.gz
 Number of files: 438
 Norm keys:                75753
 Avg variants per key:     4.3391
@@ -121,7 +121,7 @@ Norm keys:                22768
 Avg variants per key:     15.4164
 Avg texts per key:        29.8238
 
-levenshtein/skn/*.phrasetable.gz
+leven/skn/*.phrasetable.gz
 Number of files: 99
 Norm keys:                44055
 Avg variants per key:     5.5855

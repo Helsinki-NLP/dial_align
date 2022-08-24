@@ -6,27 +6,27 @@
 #SBATCH -p small
 #SBATCH -n 1
 #SBATCH -N 1
-#SBATCH --cpus-per-task 1
+#SBATCH --cpus-per-task 6
 #SBATCH --mem-per-cpu=4G
 #SBATCH -A project_2005047
 #SBATCH -t 2:00:00
 
-module use -a /projappl/nlpl/software/modules/etc
-module load nlpl-moses
+module load parallel
 
-#ALIGNER=giza
-#ALIGNEXT=sym
-ALIGNER=levenshtein
-ALIGNEXT=fwd+dtw
+PHRASELEN=4
+SLURM_CPUS_PER_TASK=5
+
+# ALIGNER=giza
+# ALIGNEXT=sym
+
+ALIGNER=leven
+ALIGNEXT=fwd+aai
+
+# ALIGNER=eflomal
+# ALIGNEXT=sym
 
 for PROJECT in archimob ndc skn; do
 	echo $ALIGNER $PROJECT
 	mkdir -p $ALIGNER/$PROJECT
-	FILES=`ls ../$ALIGNER/$PROJECT/*.$ALIGNEXT`
-	for F in $FILES; do
-		FID=`basename $F .$ALIGNEXT`
-	 	echo "  $FID"
-		source extract_moses.sh $PROJECT $FID $ALIGNER $ALIGNEXT 4
-		rm -f $ALIGNER/$PROJECT/$FID.extract.* $ALIGNER/$PROJECT/$FID.lex.* 
-	done
+	ls ../alignment/$ALIGNER/$PROJECT/*.$ALIGNEXT | parallel -j $SLURM_CPUS_PER_TASK source extract_moses.sh $PROJECT {} $ALIGNER $ALIGNEXT $PHRASELEN
 done
