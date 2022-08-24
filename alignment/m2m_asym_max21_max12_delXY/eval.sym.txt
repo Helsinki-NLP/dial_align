@@ -1,0 +1,41 @@
+
+m2m_asym_max21_max12_delXY/archimob/*.sym
+Number of files: 43
+Unaligned source tokens: 3.45%
+Unaligned target tokens: 16.89%
+Alignment to identicals: 71.09%
+Alignment to differents: 28.91%
+Crossing alignments:     2.67%
+Vowel-cons alignments:   6.43%
+Format errors:   0
+
+m2m_asym_max21_max12_delXY/archimob-gold/*.sym
+Number of files: 6
+Unaligned source tokens: 2.64%
+Unaligned target tokens: 17.07%
+Alignment to identicals: 70.76%
+Alignment to differents: 29.24%
+Crossing alignments:     2.77%
+Vowel-cons alignments:   6.24%
+Format errors:   0
+
+m2m_asym_max21_max12_delXY/ndc/*.sym
+Number of files: 438
+Unaligned source tokens: 0.97%
+Unaligned target tokens: 11.13%
+Alignment to identicals: 74.26%
+Alignment to differents: 25.74%
+Crossing alignments:     1.11%
+Vowel-cons alignments:   4.79%
+Format errors:   0
+
+m2m_asym_max21_max12_delXY/skn/*.sym
+Number of files: 99
+Unaligned source tokens: 2.29%
+Unaligned target tokens: 10.27%
+Alignment to identicals: 75.00%
+Alignment to differents: 25.00%
+Crossing alignments:     1.32%
+Vowel-cons alignments:   4.85%
+Format errors:   0
+

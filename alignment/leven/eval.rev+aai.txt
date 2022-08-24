@@ -10,7 +10,15 @@ Vowel-cons alignments:   0.84%
 Format errors:   0
 
 leven/archimob-gold/*.rev+aai
-Number of files: 0
+Number of files: 6
+Unaligned source tokens: 3.00%
+Unaligned target tokens: 13.44%
+Alignment to identicals: 86.23%
+Alignment to differents: 13.77%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   1.17%
+Format errors:   0
+
 leven/ndc/*.rev+aai
 Number of files: 438
 Unaligned source tokens: 1.49%

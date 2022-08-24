@@ -1,0 +1,63 @@
+
+m2m_asym_max21_max12_delXY/archimob/*.rev
+Number of files: 43
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/archimob/1063.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/archimob/1048.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/archimob/1212.rev:
+
+Unaligned source tokens: 34.85%
+Unaligned target tokens: 33.63%
+Alignment to identicals: 64.97%
+Alignment to differents: 35.03%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   8.05%
+Format errors:   3
+
+m2m_asym_max21_max12_delXY/archimob-gold/*.rev
+Number of files: 6
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/archimob-gold/1063.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/archimob-gold/1048.rev:
+
+Unaligned source tokens: 40.81%
+Unaligned target tokens: 38.83%
+Alignment to identicals: 63.66%
+Alignment to differents: 36.34%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   8.43%
+Format errors:   2
+
+m2m_asym_max21_max12_delXY/ndc/*.rev
+Number of files: 438
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/ndc/surnadal_19.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/ndc/surnadal_19.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/ndc/oppdal_31.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/ndc/oppdal_03gm.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/ndc/oppdal_04gk.rev:
+
+Cannot parse alignment in file m2m_asym_max21_max12_delXY/ndc/oppdal_04gk.rev:
+
+Unaligned source tokens: 31.93%
+Unaligned target tokens: 29.53%
+Alignment to identicals: 76.52%
+Alignment to differents: 23.48%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   5.53%
+Format errors:   6
+
+m2m_asym_max21_max12_delXY/skn/*.rev
+Number of files: 99
+Unaligned source tokens: 23.49%
+Unaligned target tokens: 26.04%
+Alignment to identicals: 72.74%
+Alignment to differents: 27.26%
+Crossing alignments:     0.00%
+Vowel-cons alignments:   6.65%
+Format errors:   0
+

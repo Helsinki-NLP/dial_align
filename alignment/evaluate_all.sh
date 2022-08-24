@@ -17,6 +17,8 @@ module load parallel
 
 # parallel -j $SLURM_CPUS_PER_TASK source evaluate_exp.sh {} "fwd" ::: m2m_max22 m2m_max22_delXY m2m_max22_delXY_eqmap m2m_max22_eqmap
 
-parallel -j $SLURM_CPUS_PER_TASK source evaluate_exp.sh "leven" {} ::: fwd fwd+aai rev rev+aai sym sym+aai
+#parallel -j $SLURM_CPUS_PER_TASK source evaluate_exp.sh "leven" {} ::: fwd fwd+aai rev rev+aai sym sym+aai
 
-parallel -j $SLURM_CPUS_PER_TASK source evaluate_exp.sh {} "fwd+aai" ::: leven_corpus_pmi leven_doc_pmi leven_swap m2m_max11_delXY m2m_max11_delXY_init
+#parallel -j $SLURM_CPUS_PER_TASK source evaluate_exp.sh {} "fwd+aai" ::: leven_corpus_pmi leven_doc_pmi leven_swap m2m_max11_delXY m2m_max11_delXY_init
+
+parallel -j $SLURM_CPUS_PER_TASK source evaluate_exp.sh "m2m_asym_max21_max12_delXY" {} ::: fwd rev sym

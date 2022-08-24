@@ -10,7 +10,15 @@ Vowel-cons alignments:   1.02%
 Format errors:   0
 
 leven/archimob-gold/*.sym+aai
-Number of files: 0
+Number of files: 6
+Unaligned source tokens: 2.57%
+Unaligned target tokens: 12.87%
+Alignment to identicals: 85.70%
+Alignment to differents: 14.30%
+Crossing alignments:     0.43%
+Vowel-cons alignments:   1.39%
+Format errors:   0
+
 leven/ndc/*.sym+aai
 Number of files: 438
 Unaligned source tokens: 1.43%
