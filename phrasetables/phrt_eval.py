@@ -12,6 +12,7 @@ if len(files) == 0:
 	sys.exit()
 
 data = {}
+n_types, n_tokens = 0, 0
 for f in files:
 	dirname, basename = os.path.split(f)
 	project = dirname.split("/")[-1]
@@ -29,6 +30,8 @@ for f in files:
 		if orig_str not in data[norm_str]:
 			data[norm_str][orig_str] = {}
 		data[norm_str][orig_str][fileid] = counts[2]
+		n_types += 1
+		n_tokens += counts[2]
 
 OCC_THRESH = 100
 HALF_THRESH = int(len(files) / 2)
@@ -78,6 +81,7 @@ print("Keys with single text:    {:.4f} %".format(100 * single_text_count / norm
 print("Keys with <{} texts:      {:.4f} %".format(HALF_THRESH, 100 * half_text_count / norm_count))
 print("Keys with <{} occur.:     {:.4f} %".format(OCC_THRESH, 100 * low_occ_count / norm_count))
 print("Keys with any filter:     {:.4f} %".format(100 * all_filters / norm_count))
+print("Phrase pair TTR:          {:.4f} %".format(100 * n_types / n_tokens))
 
 # remove keys with single variant and keys with single text
 for n in list(data.keys()):

@@ -1,18 +1,7 @@
 
-eflomal/archimob/*.phrasetable.gz
-Number of files: 43
-Norm keys:                42825
-Avg variants per key:     4.1666
-Avg texts per key:        9.9400
-Keys with single variant: 49.2960 %
-Keys with single text:    32.9901 %
-Keys with <21 texts:      81.2469 %
-Keys with <100 occur.:     87.5213 %
-Keys with any filter:     87.6918 %
-After singleton removal:
-Norm keys:                21240
-Avg variants per key:     7.3598
-Avg texts per key:        17.7634
+---------
+giza
+---------
 
 giza/archimob/*.phrasetable.gz
 Number of files: 43
@@ -24,41 +13,11 @@ Keys with single text:    32.7811 %
 Keys with <21 texts:      80.9884 %
 Keys with <100 occur.:     86.9134 %
 Keys with any filter:     87.0753 %
+Phrase pair TTR:          9.7011 %
 After singleton removal:
 Norm keys:                21674
 Avg variants per key:     10.0422
 Avg texts per key:        17.7370
-
-leven/archimob/*.phrasetable.gz
-Number of files: 43
-Norm keys:                43435
-Avg variants per key:     4.1900
-Avg texts per key:        10.1103
-Keys with single variant: 49.2023 %
-Keys with single text:    32.8284 %
-Keys with <21 texts:      80.8196 %
-Keys with <100 occur.:     87.1279 %
-Keys with any filter:     87.3236 %
-After singleton removal:
-Norm keys:                21698
-Avg variants per key:     7.3672
-Avg texts per key:        18.0002
-
----------
-eflomal/ndc/*.phrasetable.gz
-Number of files: 438
-Norm keys:                75232
-Avg variants per key:     4.5194
-Avg texts per key:        35.3033
-Keys with single variant: 48.1630 %
-Keys with single text:    30.0444 %
-Keys with <219 texts:      94.4266 %
-Keys with <100 occur.:     87.4840 %
-Keys with any filter:     94.4345 %
-After singleton removal:
-Norm keys:                38054
-Avg variants per key:     7.9297
-Avg texts per key:        66.8815
 
 giza/ndc/*.phrasetable.gz
 Number of files: 438
@@ -70,41 +29,11 @@ Keys with single text:    30.1448 %
 Keys with <219 texts:      94.5272 %
 Keys with <100 occur.:     86.9948 %
 Keys with any filter:     94.5272 %
+Phrase pair TTR:          17.4488 %
 After singleton removal:
 Norm keys:                39304
 Avg variants per key:     14.5502
 Avg texts per key:        61.8206
-
-leven/ndc/*.phrasetable.gz
-Number of files: 438
-Norm keys:                75753
-Avg variants per key:     4.3391
-Avg texts per key:        35.2153
-Keys with single variant: 48.8126 %
-Keys with single text:    30.2971 %
-Keys with <219 texts:      94.4319 %
-Keys with <100 occur.:     87.6190 %
-Keys with any filter:     94.4385 %
-After singleton removal:
-Norm keys:                38132
-Avg variants per key:     7.6144
-Avg texts per key:        67.0227
-
----------
-eflomal/skn/*.phrasetable.gz
-Number of files: 99
-Norm keys:                43954
-Avg variants per key:     5.4711
-Avg texts per key:        19.6885
-Keys with single variant: 46.3280 %
-Keys with single text:    25.9112 %
-Keys with <49 texts:      84.4929 %
-Keys with <100 occur.:     83.5942 %
-Keys with any filter:     85.2846 %
-After singleton removal:
-Norm keys:                23214
-Avg variants per key:     9.4475
-Avg texts per key:        34.1221
 
 giza/skn/*.phrasetable.gz
 Number of files: 99
@@ -116,10 +45,151 @@ Keys with single text:    26.8381 %
 Keys with <49 texts:      86.2848 %
 Keys with <100 occur.:     84.9028 %
 Keys with any filter:     86.6047 %
+Phrase pair TTR:          13.1988 %
 After singleton removal:
 Norm keys:                22768
 Avg variants per key:     15.4164
 Avg texts per key:        29.8238
+
+---------
+eflomal
+---------
+
+eflomal/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                42825
+Avg variants per key:     4.1666
+Avg texts per key:        9.9400
+Keys with single variant: 49.2960 %
+Keys with single text:    32.9901 %
+Keys with <21 texts:      81.2469 %
+Keys with <100 occur.:     87.5213 %
+Keys with any filter:     87.6918 %
+Phrase pair TTR:          9.3088 %
+After singleton removal:
+Norm keys:                21240
+Avg variants per key:     7.3598
+Avg texts per key:        17.7634
+
+eflomal/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                75232
+Avg variants per key:     4.5194
+Avg texts per key:        35.3033
+Keys with single variant: 48.1630 %
+Keys with single text:    30.0444 %
+Keys with <219 texts:      94.4266 %
+Keys with <100 occur.:     87.4840 %
+Keys with any filter:     94.4345 %
+Phrase pair TTR:          15.7055 %
+After singleton removal:
+Norm keys:                38054
+Avg variants per key:     7.9297
+Avg texts per key:        66.8815
+
+eflomal/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                43954
+Avg variants per key:     5.4711
+Avg texts per key:        19.6885
+Keys with single variant: 46.3280 %
+Keys with single text:    25.9112 %
+Keys with <49 texts:      84.4929 %
+Keys with <100 occur.:     83.5942 %
+Keys with any filter:     85.2846 %
+Phrase pair TTR:          9.6422 %
+After singleton removal:
+Norm keys:                23214
+Avg variants per key:     9.4475
+Avg texts per key:        34.1221
+
+---------
+fastalign
+---------
+
+fastalign/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                40272
+Avg variants per key:     11.6223
+Avg texts per key:        9.8823
+Keys with single variant: 39.0470 %
+Keys with single text:    33.0999 %
+Keys with <21 texts:      81.5579 %
+Keys with <100 occur.:     86.1268 %
+Keys with any filter:     86.2882 %
+Phrase pair TTR:          15.5224 %
+After singleton removal:
+Norm keys:                22274
+Avg variants per key:     20.0219
+Avg texts per key:        16.4683
+
+fastalign/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                70907
+Avg variants per key:     16.3607
+Avg texts per key:        34.9665
+Keys with single variant: 30.7614 %
+Keys with single text:    30.7812 %
+Keys with <219 texts:      94.4886 %
+Keys with <100 occur.:     84.1581 %
+Keys with any filter:     94.4886 %
+Phrase pair TTR:          22.8217 %
+After singleton removal:
+Norm keys:                41790
+Avg variants per key:     26.7035
+Avg texts per key:        58.0326
+
+fastalign/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                41896
+Avg variants per key:     39.5059
+Avg texts per key:        18.6985
+Keys with single variant: 14.8534 %
+Keys with single text:    26.0717 %
+Keys with <49 texts:      85.4926 %
+Keys with <100 occur.:     72.6012 %
+Keys with any filter:     85.4974 %
+Phrase pair TTR:          24.1625 %
+After singleton removal:
+Norm keys:                29556
+Avg variants per key:     54.7071
+Avg texts per key:        25.9871
+
+---------
+leven
+---------
+
+leven/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                43435
+Avg variants per key:     4.1900
+Avg texts per key:        10.1103
+Keys with single variant: 49.2023 %
+Keys with single text:    32.8284 %
+Keys with <21 texts:      80.8196 %
+Keys with <100 occur.:     87.1279 %
+Keys with any filter:     87.3236 %
+Phrase pair TTR:          9.0577 %
+After singleton removal:
+Norm keys:                21698
+Avg variants per key:     7.3672
+Avg texts per key:        18.0002
+
+leven/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                75753
+Avg variants per key:     4.3391
+Avg texts per key:        35.2153
+Keys with single variant: 48.8126 %
+Keys with single text:    30.2971 %
+Keys with <219 texts:      94.4319 %
+Keys with <100 occur.:     87.6190 %
+Keys with any filter:     94.4385 %
+Phrase pair TTR:          15.4161 %
+After singleton removal:
+Norm keys:                38132
+Avg variants per key:     7.6144
+Avg texts per key:        67.0227
 
 leven/skn/*.phrasetable.gz
 Number of files: 99
@@ -131,9 +201,165 @@ Keys with single text:    25.8245 %
 Keys with <49 texts:      84.5125 %
 Keys with <100 occur.:     83.6023 %
 Keys with any filter:     85.2094 %
+Phrase pair TTR:          9.6458 %
 After singleton removal:
 Norm keys:                23702
 Avg variants per key:     9.5068
 Avg texts per key:        33.7603
 
 ---------
+leven_corpus_pmi
+---------
+
+leven_corpus_pmi/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                43763
+Avg variants per key:     4.3546
+Avg texts per key:        10.1354
+Keys with single variant: 48.7444 %
+Keys with single text:    32.7606 %
+Keys with <21 texts:      80.7417 %
+Keys with <100 occur.:     87.1627 %
+Keys with any filter:     87.3272 %
+Phrase pair TTR:          9.3140 %
+After singleton removal:
+Norm keys:                22107
+Avg variants per key:     7.6250
+Avg texts per key:        17.9158
+
+leven_corpus_pmi/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                75931
+Avg variants per key:     4.4356
+Avg texts per key:        35.4516
+Keys with single variant: 48.5493 %
+Keys with single text:    30.0562 %
+Keys with <219 texts:      94.4107 %
+Keys with <100 occur.:     87.5268 %
+Keys with any filter:     94.4147 %
+Phrase pair TTR:          15.6870 %
+After singleton removal:
+Norm keys:                38559
+Avg variants per key:     7.7507
+Avg texts per key:        66.9848
+
+leven_corpus_pmi/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                44129
+Avg variants per key:     5.6356
+Avg texts per key:        19.7201
+Keys with single variant: 44.9750 %
+Keys with single text:    25.7699 %
+Keys with <49 texts:      84.4637 %
+Keys with <100 occur.:     83.5754 %
+Keys with any filter:     85.1640 %
+Phrase pair TTR:          9.7151 %
+After singleton removal:
+Norm keys:                23948
+Avg variants per key:     9.5265
+Avg texts per key:        33.5955
+
+---------
+m2m_max11_delXY
+---------
+
+m2m_max11_delXY/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                43390
+Avg variants per key:     6.0925
+Avg texts per key:        10.1204
+Keys with single variant: 40.9818 %
+Keys with single text:    32.7126 %
+Keys with <21 texts:      80.7905 %
+Keys with <100 occur.:     85.2501 %
+Keys with any filter:     85.6511 %
+Phrase pair TTR:          9.8021 %
+After singleton removal:
+Norm keys:                22917
+Avg variants per key:     10.4809
+Avg texts per key:        17.2903
+
+m2m_max11_delXY/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                75150
+Avg variants per key:     4.8038
+Avg texts per key:        35.3882
+Keys with single variant: 47.8363 %
+Keys with single text:    30.0758 %
+Keys with <219 texts:      94.4072 %
+Keys with <100 occur.:     87.3799 %
+Keys with any filter:     94.4138 %
+Phrase pair TTR:          15.7296 %
+After singleton removal:
+Norm keys:                38090
+Avg variants per key:     8.4700
+Avg texts per key:        66.9557
+
+m2m_max11_delXY/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                44022
+Avg variants per key:     6.3347
+Avg texts per key:        19.6087
+Keys with single variant: 44.0075 %
+Keys with single text:    25.8371 %
+Keys with <49 texts:      84.5714 %
+Keys with <100 occur.:     83.3311 %
+Keys with any filter:     85.1620 %
+Phrase pair TTR:          10.0026 %
+After singleton removal:
+Norm keys:                23981
+Avg variants per key:     10.7585
+Avg texts per key:        33.3020
+
+---------
+m2m_max22_delXY_eqmap
+---------
+
+m2m_max22_delXY_eqmap/archimob/*.phrasetable.gz
+Number of files: 43
+Norm keys:                43295
+Avg variants per key:     13.4347
+Avg texts per key:        10.0078
+Keys with single variant: 33.6297 %
+Keys with single text:    33.0038 %
+Keys with <21 texts:      81.1918 %
+Keys with <100 occur.:     86.9223 %
+Keys with any filter:     86.9846 %
+Phrase pair TTR:          18.4910 %
+After singleton removal:
+Norm keys:                26769
+Avg variants per key:     21.0208
+Avg texts per key:        15.4363
+
+m2m_max22_delXY_eqmap/ndc/*.phrasetable.gz
+Number of files: 438
+Norm keys:                76080
+Avg variants per key:     15.3060
+Avg texts per key:        34.9386
+Keys with single variant: 34.7384 %
+Keys with single text:    30.2747 %
+Keys with <219 texts:      94.5110 %
+Keys with <100 occur.:     87.3646 %
+Keys with any filter:     94.5110 %
+Phrase pair TTR:          25.3983 %
+After singleton removal:
+Norm keys:                47682
+Avg variants per key:     23.7722
+Avg texts per key:        54.9415
+
+m2m_max22_delXY_eqmap/skn/*.phrasetable.gz
+Number of files: 99
+Norm keys:                44092
+Avg variants per key:     25.0919
+Avg texts per key:        19.7579
+Keys with single variant: 26.2565 %
+Keys with single text:    25.7507 %
+Keys with <49 texts:      84.3963 %
+Keys with <100 occur.:     83.5095 %
+Keys with any filter:     84.9791 %
+Phrase pair TTR:          22.5987 %
+After singleton removal:
+Norm keys:                30955
+Avg variants per key:     35.2489
+Avg texts per key:        27.6270
+
